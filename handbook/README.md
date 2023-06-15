@@ -1,29 +1,19 @@
----
-description: An exhaustive list of all the tools we use in engineering.
----
+# 👋 What is crowd.dev?
 
-# 🛠 Engineering tools
+crowd.dev is a suite of tools to analyze, grow, and **leverage developer communities to drive business growth**.
 
-### Communication and issue tracking
+Essentially, [crowd.dev](http://crowd.dev) helps unlock the value of communities for DevTool businesses. **Having a solid community strategy is a largely underrated and untapped tool for growth.** This is largely due to the fact that it is a relatively novel, difficult and largely manual task, with community members spread across channels. It is also a more reactive activity to-date (e.g., answering support questions) and **most people don’t know how to turn their community into real business outcomes.**
 
-* [GitHub](https://github.com/CrowdDotDev/crowd.dev): where our code lives.
-* [Linear](https://linear.app/crowddotdev/team/C/all): for project management and issue tracking.
-* [Discord](https://crowd.dev/discord): the heart of our community.
-* [Slack](https://crowddevspace.slack.com/ssb/redirect): for internal communication.
+**Crowd.dev is here to change this.** Self-hosted or hosted by us, with developers in mind, open to extensions, and with full control over your community's data. With [crowd.dev](http://crowd.dev) you can instantly unify all your community channels into one dashboard and unearth actionable insights to grow your business.
 
-### Code, infrastructure, and observability
+#### What makes us different from other community building tools?
 
-* [AWS](http://aws.amazon.com/): for infrastructure.
-* [Postman](https://postman.com/): for API design and testing.
-* [Logz](https://logz.io/): for logs and observability.
+While other [community tools exist](https://www.notion.so/e98cd0e40e95401a80b99f14852a8102?pvs=21), we are the only ones **building specifically for DevTools** and their communities in mind. We also believe that ultimately an **open-source** platform will lead in the market. With an open-source approach [crowd.dev](http://crowd.dev) can be the go-to solution for even the most regulated industries and harness our community to build out our product further.
 
-### Documentation
+#### What are some of our main features?
 
-* [GitBook](https://gitbook.com): for long-term documentation.
-* [Notion](https://www.notion.so/Engineering-tools-95f8dbf6f93440cc9acaba90f6f1166f): for short-term notes and private documents.
-
-### Other
-
-* [1Password](http://1password.com/): for password management.
-* [June](http://june.so/): for product analytics.
-* [Chat](https://chat.crowd.dev): our distribution of ChatGPT.
+* **Integrate with community tools** and platforms like GitHub, Discord, Slack, Twitter or DEV to establish a single source of truth for your community
+* Get background **information about your community members** (e.g., organizations, interests) and manage them with tags and automated segmentation
+* **Detect relevant conversations** and publish them in a community help center to reduce duplicate questions and get your community's content listed on search engines [\[example\]](https://open.crowd.dev/crowd)
+* **Discover relevant content** and posts accross channels to engage with to grow your community with like-minded people and raise awareness of your product
+* **Analyze your community**, create custom metrics, organize them in reports and share them publicly with your community, your investors, or your team
