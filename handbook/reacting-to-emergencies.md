@@ -1,4 +1,4 @@
-# Reacting to emergencies
+# 🧰 Reacting to emergencies
 
 Emergencies are anything that does not let our users get any value from the app. They cannot log in, the data is not loading, or integrations fail. Integrations are the most common emergency and will be treated separately.
 
