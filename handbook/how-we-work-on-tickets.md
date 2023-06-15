@@ -4,7 +4,7 @@ description: >-
   issues.
 ---
 
-# How we work on tickets
+# 🤺 How we work on tickets
 
 Tickets will be picked from Linear. When you pick up a ticket, ensure you are assigned and keep the status current. Linear will be the source of truth for project owners, customer support, and all your teammates, so we must be disciplined to keep tickets updated.
 
