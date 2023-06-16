@@ -27,12 +27,7 @@ When creating a branch, we always use one of the following prefixes:
 
 ### Deploying to staging
 
-We should deploy to staging for all tickets that are not an emergency to ensure they will work in the production environment.
-
-To deploy to staging, merge to the `staging-main` branch and push the code. The deployment will go through automatically! You can see the [GitHub staging deployment actions to check](https://github.com/CrowdDotDev/crowd.dev/actions/workflows/staging-deploy-backend.yaml) the status. You will also get a notification in the `deploys-staging` Slack channel once it has gone through.
-
-* If migrations need to be run, check the section for running migrations.
-* If environment variables need to be updated, check the section for updating environment variables.
+We should deploy to staging for all tickets that are not an emergency to ensure they will work in the production environment. To learn more about deploying to staging, check our [docs](https://docs.crowd.dev/technical-docs/deployment).
 
 ### Opening pull requests
 
@@ -45,7 +40,7 @@ GitHub copilot will write a detailed description for the pull request, so you do
 
 ### Deploying to production
 
-Once the task has been finalized, it's time to merge and deploy! Deploying to production is simple: it's done with the [production deploy GitHub action](https://github.com/CrowdDotDev/crowd.dev/actions/workflows/production-deploy.yaml).&#x20;
+Once the task has been finalized, it's time to merge and deploy! Deploying to production is outlined in the [deployment docs](https://docs.crowd.dev/technical-docs/deployment).
 
 Always deploy to production as soon as the ticket is ready, unless there is a very good reason not to. We aim to ship new things to our users quickly and continuously.
 
