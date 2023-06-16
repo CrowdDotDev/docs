@@ -1,14 +1,12 @@
-
-
 # ⚙️ Our Kubernetes Configuration
 
-We have a separate private github repository with Kubernetes configuration files [here](https://github.com/CrowdDotDev/kube-crowd). Please clone it and inside there are a couple of folders - the relevant ones are `staging` and `production`. 
+We have a separate private github repository with Kubernetes configuration files [here](https://github.com/CrowdDotDev/kube-crowd). Please clone it, and inside, there are a couple of folders - the relevant ones are `staging` and `production`.
 
-You have to position yourself inside one of these depending to which cluster you are connected to deploy to that cluster.
+You have to position yourself inside one of these depending on which cluster you are connected to deploy to that cluster.
 
-Within these folders we have our Kubernetes configuration which tells Kubernetes cluster how to run our services.
+Within these folders, our Kubernetes configuration tells the Kubernetes cluster how to run our services.
 
-For example - configuration for our `api` service is as follows:
+For example - the configuration for our `api` service is as follows:
 
 ```yaml
 ---
@@ -54,14 +52,14 @@ spec:
       targetPort: 8080
 ```
 
-It is very similar to what we are doing with `docker-compose` locally but it has a few differences. In this file there are two Kubernetes resources being configured.
+It is very similar to what we are doing with `docker-compose` locally but it has a few differences. In this file, two Kubernetes resources are being configured.
 
 One is `Deployment` and the other is `Service`. To configure multiple resources in one file you have to use `---` before each one.
 
-`Deployment` tells kubernetes how it should start a `Pod` (and how many pods) - so you can see a docker image, command, args and how environmental variables are configured.
+`Deployment` tells Kubernetes how it should start a `Pod` (and how many pods) - so you can see a docker image, command, args, and how environmental variables are configured.
 
-One set of environmental variables are coming from our `ConfigMap` `staging-backend-config` and the other is services specific like `SERVICE`.
+One set of environmental variables is coming from our `ConfigMap` `staging-backend-config` and the other is services specific like `SERVICE`.
 
-`Service` tells kubernetes that these pods (with label selector `app: api` will have port `8080` exposed to other Kubernets pods inside cluster through the same port `8080` (we could remapped ports here if we wanted).
+`Service` tells Kubernetes that these pods (with a label selector `app: api` will have port `8080` exposed to other Kubernetes pods inside the cluster through the same port `8080` (we could remap ports here if we wanted).
 
-Our `api` service will have `api-svc` as a domain name inside kubernetes cluster. So for example if some other service within kubernetes wants to call our `api` service it should do so through `http://api-svc:8080` url.
+Our `api` service will have `api-svc` as a domain name inside the Kubernetes cluster. So, for example, if some other service within Kubernetes wants to call our `api` service, it should do so through `http://api-svc:8080` url.
