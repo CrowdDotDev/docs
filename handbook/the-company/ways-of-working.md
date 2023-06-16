@@ -1,5 +1,5 @@
 ---
-description: How we like to collaborate, the tools we use & the values we play by.
+description: How we like to collaborate and the tools we use.
 ---
 
 # 👷♂ Ways of working
