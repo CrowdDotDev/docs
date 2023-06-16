@@ -20,7 +20,7 @@ alias kube-clear-context='kubectl config unset current-context'
 
 We recommend adding those to your source. We will be using these aliases in the remainder of this section.
 
-1. If you are accessing multiple Kubernetes clusters (like our staging and production), you need to repeat the \[Connect to the cluster]\(./technical-docs/kuberentes/connecting) section for each cluster to configure your `kubectl` to access both clusters - but to switch between both while they are already configured, you should use these commands:
+1. If you are accessing multiple Kubernetes clusters (like our staging and production), you need to repeat the [Connect to the cluster](connecting-to-the-cluster.md) section for each cluster to configure your `kubectl` to access both clusters - but to switch between both while they are already configured, you should use these commands:
 
 ```bash
 # This will show you your currently configured clusters, and the one with a star (*) next to it is the one that is currently active and used by kubectl
