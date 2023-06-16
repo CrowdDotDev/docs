@@ -2,9 +2,9 @@
 description: Our integration framework is designed to easily build data-in integrations.
 ---
 
-# 🔌 Integration framework (WIP)
+# Integration framework (WIP)
 
-1. **tarting the Integration:** We begin the integration by creating a record of it and sending a message to start the process.
+1. **Starting the Integration:** We begin the integration by creating a record of it and sending a message to start the process.
 2. **Generating Streams:** Next, we create various data streams and send messages to start processing them.
 3. **Fetching Data from External Sources:** For each stream, we collect data from external sources, store it in our system, and then send messages for further processing.
 4. **Data Processing:** We process the collected data, create results, and send messages for additional processing.
