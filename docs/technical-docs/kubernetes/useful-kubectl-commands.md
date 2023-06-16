@@ -1,8 +1,10 @@
 ---
-description: A set of commands that will make you more efficient at working with Kubernetes.
+description: >-
+  A set of commands that will make you more efficient at working with
+  Kubernetes.
 ---
 
-# ⌘ Useful `kubectl` commands
+# 🎮 Useful kubectl commands
 
 There are a set of `bash` aliases that help to provide with some quick `kubectl` commands:
 
