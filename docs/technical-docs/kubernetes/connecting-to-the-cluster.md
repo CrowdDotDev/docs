@@ -6,16 +6,16 @@ description: How to connect to our Kubernetes clusters.
 
 ### Required software
 
-- [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - command line tool to access AWS
-    - [Guide on authenticating CLI tool with AWS](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
-- [Kubectl](https://kubernetes.io/docs/tasks/tools/) - command line tool to access Kubernetes cluster (hosting agnostic - works with any Kubernetes cluster - does not matter if it’s on AWS/Digital Ocean/Google cloud…)
+* [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - command line tool to access AWS
+  * [Guide on authenticating CLI tool with AWS](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
+* [Kubectl](https://kubernetes.io/docs/tasks/tools/) - command line tool to access Kubernetes cluster (hosting agnostic - works with any Kubernetes cluster - does not matter if it’s on AWS/Digital Ocean/Google cloud…)
 
 ### Getting access to our Kubernetes cluster
 
-1. First, you need to make sure that your AWS IAM user is in a relevant group that can access our Kubernetes clusters (contact Joan if you need access).
-    - `crowd-kube-staging-admins` for staging
-    - `crowd-kube-production-admins` for production & linux production
-    
+1. First, you must ensure that your AWS IAM user is in a relevant group that can access our Kubernetes clusters (contact Joan if you need access).
+   * `crowd-kube-staging-admins` for staging
+   * `crowd-kube-production-admins` for production.
+
 ```bash
 # A user with admin access has to add you to the group
 aws iam add-user-to-group --group-name <relevant-group-name> --user-name <IAM user name>
@@ -23,8 +23,8 @@ aws iam add-user-to-group --group-name <relevant-group-name> --user-name <IAM us
 ```
 
 2. After that, you can generate a `kubectl` configuration for accessing our cluster (`$HOME/.kube/config` file) by executing this command
-    1. `crowd-kube-staging` is our staging Kubernetes cluster name and it requires a role arn `arn:aws:iam::359905442998:role/crowd-kube-staging-admin` and region eu-central-1
-    2. `crowd-kube-production` is our production Kubernetes cluster name and it requires a role arn `arn:aws:iam::359905442998:role/crowd-kube-production-admin` and region eu-central-1
+   1. `crowd-kube-staging` is our staging Kubernetes cluster name and it requires a role arn `arn:aws:iam::359905442998:role/crowd-kube-staging-admin` and region eu-central-1
+   2. `crowd-kube-production` is our production Kubernetes cluster name and it requires a role arn `arn:aws:iam::359905442998:role/crowd-kube-production-admin` and region eu-central-1
 
 ```bash
 [aws eks update-kubeconfig --name <cluster-name> --region <region> --role-arn arn:aws:iam::359905442998:role/<iam-role-name>](https://www.notion.so/c33bcb8a931a4f169c543847aab96beb?pvs=21)
@@ -51,13 +51,13 @@ python-worker-dpl-7f9f796786-zw4fv           1/1     Running   0             23h
 ### Accessing the Kubernetes dashboard
 
 1. To access the Kubernetes dashboard, you can execute [`access-dashboard.sh`](http://access-dashboard.sh/) in the staging or production folders in the `crowd-kube` repository:
-    - copy the token value (for staging Kubernetes, this token does not expire - for production, it expires after one day)
-2. Paste the token to get past the Authentication screen, and you should get the overview of our cluster via the [Kubernetes Dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/) service
+   * Copy the token value (for staging Kubernetes, this token does not expire - for production, it expires after one day)
+2. Paste the token to get past the Authentication screen, and you should get the overview of our cluster via the [Kubernetes Dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/) service.
 
-Inside Kubernetes dashboard, you can do a lot of things (all can also be done directly with `kubectl` !):
+Inside the Kubernetes dashboard, you can do a lot of things (all can also be done directly with `kubectl` !):
 
-- See individual Pod logs
-- Get shell access inside each separate Pod
-- Delete a pod (if it’s managed by a Deployment it will cause a restart - all our services are managed by a Kubernetes Deployment)
-- You can see Pod configuration (environment variables that are passed to the individual pod)
-- You can see how much RAM/CPU an individual pod is using or how much an individual node has left/is using so you know when you need to add a couple more nodes to the Kubernetes cluster.
+* See individual Pod logs.
+* Get shell access inside each separate Pod.
+* Delete a pod (if a Deployment manages it, it will cause a restart - a Kubernetes Deployment manages all our services)
+* You can see Pod configuration (environment variables that are passed to the individual pod)
+* You can see how much RAM/CPU an individual pod uses or how much an individual node has left/is using so you know when you need to add a couple more nodes to the Kubernetes cluster.
