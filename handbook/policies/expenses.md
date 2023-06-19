@@ -4,6 +4,13 @@ description: Here you can find out about our expense policy and how to hand in e
 
 # 💰 Expenses
 
+### What can I expense?
+
+* **Co-working space** fees (please get approval from Jonathan first)
+* **Hardware** you need to work (e.g., mouse, desktop, headphones)
+* **Travel** expenses (e.g., accommodation, travel fares, legal document expenses like Visas)
+* **Benefits** related (e.g., co-working space, courses, books, home-office set-up)
+
 ### How do I submit an expense?
 
 Depending on whether you are employed directly through Crowd Technologies GmbH (the German entity) or through Remote, there is a different process. Regardless of which please:
@@ -26,10 +33,3 @@ Write an email to **accounting@crowd.dev**. Please include in email:
 2. Go to “Expenses” on the sidebar
 3. Press “Add expense”, fill out the request and upload your receipt
 4. You will get an email from Remote either confirming or denying your expense request
-
-### What can I expense?
-
-* **Co-working space** fees (please get approval from Jonathan first)
-* **Hardware** you need to work (e.g., mouse, desktop, headphones)
-* **Travel** expenses (e.g., accommodation, travel fares, legal document expenses like Visas)
-* **Benefits** related (e.g., co-working space, courses, books, home-office set-up)

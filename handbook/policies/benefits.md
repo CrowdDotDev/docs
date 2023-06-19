@@ -23,7 +23,7 @@ If you want to work from a co-working space in your neighborhood let us know and
 
 If you are in Germany, we provide you with an Urban Sports Club Membership, please use this link to sign up:https://urbansportsclub.com/en/crowd (it says Bonn, but it doesn’t matter, just sign up for the membership and you can use it in your German city)
 
-### 🌴 Workations
+### 🌴 Retreats
 
 Every few months we have an offsite somewhere in Europe, all expenses covered. You don’t want to miss one of these trips!
 
