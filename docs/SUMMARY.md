@@ -1,5 +1,6 @@
 # Table of contents
 
+* [🏠 Home](http://localhost:5000/o/5adXkyvCwhufPOE1iqxE/s/e9xgQyzZ2aRPuQwkXEqi/)
 * [Technical docs](README.md)
   * [👨💻 Local Development](technical-docs/local-development.md)
   * [🚀 Deployment](technical-docs/deployment.md)
