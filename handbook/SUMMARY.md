@@ -1,5 +1,7 @@
 # Table of contents
 
+* [🏠 Home](http://localhost:5000/o/5adXkyvCwhufPOE1iqxE/s/e9xgQyzZ2aRPuQwkXEqi/)
+
 ## The company
 
 * [👋 What is crowd.dev?](README.md)
