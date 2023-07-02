@@ -1,15 +1,16 @@
 # Table of contents
 
 * [🏠 Home](http://localhost:5000/o/5adXkyvCwhufPOE1iqxE/s/e9xgQyzZ2aRPuQwkXEqi/)
+* [🏛 The Company](README.md)
+  * [📖 Story](the-company/story.md)
+  * [🧙 Team](the-company/team.md)
+  * [💰 Investors](the-company/investors.md)
 
-## The company
+## Handbook
 
-* [📖 Story](README.md)
-* [🧙 Team](the-company/team.md)
-* [💰 Investors](the-company/investors.md)
-* [👋 What is crowd.dev?](<README (1).md>)
-* [🎯 Mission, Vision, Values](the-company/mission-vision-values.md)
-* [👷♂ Ways of working](the-company/ways-of-working.md)
+* [👋 What is crowd.dev?](handbook/readme.md)
+* [🎯 Mission, Vision, Values](handbook/mission-vision-values.md)
+* [👷♂ Ways of working](handbook/ways-of-working.md)
 
 ## 🖥 Engineering
 
