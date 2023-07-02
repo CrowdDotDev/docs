@@ -15,6 +15,7 @@
 * [📣 How to report issues](engineering/how-to-report-issues.md)
 * [🔢 How to estimate issues](engineering/how-to-estimate-issues.md)
 * [🧰 Reacting to emergencies](engineering/reacting-to-emergencies.md)
+* [🥋 Areas of ownership](engineering/areas-of-ownership.md)
 
 ## Policies
 
