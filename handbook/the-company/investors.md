@@ -25,8 +25,10 @@ crowd.dev is proud to be supported by some of Europe's leading early-stage inves
 #### Angels
 
 * Russ Heddleston (founder of DocSend)
-* Matthaus Krzykowski (founder of dltHub, Xyo, Priori Data)
+* Matthäus Krzykowski (founder of dltHub, Xyo, Priori Data)
 * Cedric Sellin (founder of YogiPlay)
+* Christian Stiebner (super angel)
+* Noé Gersanois (super angel)
 
 ### Interested? <a href="#interested" id="interested"></a>
 
