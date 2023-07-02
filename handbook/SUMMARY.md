@@ -5,6 +5,9 @@
   * [📖 Story](the-company/story.md)
   * [🧙 Team](the-company/team.md)
   * [💰 Investors](the-company/investors.md)
+* [💻 Ways of Working](ways-of-working/README.md)
+  * [Culture](ways-of-working/culture.md)
+  * [Meetings](ways-of-working/meetings.md)
 
 ## Handbook
 
