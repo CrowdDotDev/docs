@@ -1,5 +1,5 @@
 ---
-description: Who is working on crowd.dev
+description: Who is working at crowd.dev
 ---
 
 # 🧙 Team
