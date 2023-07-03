@@ -17,6 +17,7 @@
   * [Employee benefits](ways-of-working/benefits.md)
   * [Employee option plan](ways-of-working/employee-option-plan.md)
 * [📈 Go-To-Market](go-to-market.md)
+* [✨ Product](product.md)
 
 ## 🖥 Engineering
 
