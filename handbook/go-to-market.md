@@ -1,3 +1,3 @@
 # 📈 Go-To-Market
 
-tbd
+Please find our Go-To-Market handbook in the Internal Space.
