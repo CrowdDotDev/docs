@@ -16,7 +16,7 @@ crowd.dev is proud to be supported by some of Europe's leading early-stage inves
 
 #### Possible Ventures
 
-[Possible Ventures](https://www.possible.ventures/) backs ambitious teams building frontier technology to positively impact people and the planet. They discover great companies in pre-seed and seed, and actively support founders via their collective of >200 global entrepreneurs. They’re excited by technology ecosystems that are changing our future — Bio, Climate, Deep tech, Web3 — and invest their time and capital to help make innovation possible
+[Possible Ventures](https://www.possible.ventures/) backs ambitious teams building frontier technology to positively impact people and the planet. They discover great companies in pre-seed and seed, and actively support founders via their collective of >200 global entrepreneurs. They’re excited by technology ecosystems that are changing our future — Bio, Climate, Deep tech, Web3 — and invest their time and capital to help make innovation possible.
 
 #### **Angel Invest**
 
