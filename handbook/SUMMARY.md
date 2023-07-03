@@ -10,6 +10,7 @@
   * [Culture](ways-of-working/culture.md)
   * [Values](ways-of-working/mission-vision-values.md)
   * [Meetings](ways-of-working/meetings.md)
+  * [Tools](ways-of-working/tools.md)
 
 ## Handbook
 
