@@ -1,4 +1,4 @@
-# 🏝 Vacations
+# Vacations
 
 We want you well rested and motivated to do your best, so everyone gets **six weeks of vacation per year (30 days).**
 

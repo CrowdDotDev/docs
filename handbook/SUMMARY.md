@@ -11,10 +11,11 @@
   * [Values](ways-of-working/mission-vision-values.md)
   * [Meetings](ways-of-working/meetings.md)
   * [Tools](ways-of-working/tools.md)
-
-## Handbook
-
-* [👷♂ Ways of working](handbook/ways-of-working.md)
+  * [Expenses](ways-of-working/expenses.md)
+  * [Vacations](ways-of-working/vacations.md)
+  * [Sick days](ways-of-working/sick-days.md)
+  * [Employee benefits](ways-of-working/benefits.md)
+  * [Employee option plan](ways-of-working/employee-option-plan.md)
 
 ## 🖥 Engineering
 
@@ -26,9 +27,3 @@
 * [🥋 Areas of ownership](engineering/areas-of-ownership.md)
 
 ## Policies
-
-* [🏝 Vacations](policies/vacations.md)
-* [😷 Sick days](policies/sick-days.md)
-* [💰 Expenses](policies/expenses.md)
-* [😊 Benefits](policies/benefits.md)
-* [📈 Employee option plan](policies/employee-option-plan.md)
