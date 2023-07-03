@@ -2,7 +2,9 @@
 description: An exhaustive list of all the tools we use in engineering.
 ---
 
-# 🛠 Engineering tools
+# Engineering tools
+
+duplicate with Ways of Working/Tools
 
 ### Communication and issue tracking
 

@@ -1,4 +1,4 @@
-# 📣 How to report issues
+# How to report issues
 
 ### For team members
 

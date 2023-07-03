@@ -18,12 +18,10 @@
   * [Employee option plan](ways-of-working/employee-option-plan.md)
 * [📈 Go-To-Market](go-to-market.md)
 * [✨ Product](product.md)
-
-## 🖥 Engineering
-
-* [🛠 Engineering tools](engineering/engineering-tools.md)
-* [🤺 How we work on tickets](engineering/how-we-work-on-tickets.md)
-* [📣 How to report issues](engineering/how-to-report-issues.md)
-* [🔢 How to estimate issues](engineering/how-to-estimate-issues.md)
-* [🧰 Reacting to emergencies](engineering/reacting-to-emergencies.md)
-* [🥋 Areas of ownership](engineering/areas-of-ownership.md)
+* [⚒ Engineering](engineering/README.md)
+  * [Areas of ownership](engineering/areas-of-ownership.md)
+  * [Engineering tools](engineering/engineering-tools.md)
+  * [How we work on tickets](engineering/how-we-work-on-tickets.md)
+  * [How to report issues](engineering/how-to-report-issues.md)
+  * [How to estimate issues](engineering/how-to-estimate-issues.md)
+  * [Reacting to emergencies](engineering/reacting-to-emergencies.md)
