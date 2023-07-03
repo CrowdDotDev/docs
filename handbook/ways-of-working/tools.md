@@ -24,6 +24,7 @@ description: Overview of all tools used at crowd.dev
 * [1Password](http://1password.com/): for password management.
 * [Grammarly](https://www.grammarly.com/): for spelling and grammar checking.
 * [ChatCrowd](https://chat.crowd.dev): our distribution of ChatGPT.
+* [Cabal](https://getcabal.com/): for monthly investor updates
 
 ### Engineering
 
