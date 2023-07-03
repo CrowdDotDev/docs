@@ -7,12 +7,12 @@
   * [💰 Investors](the-company/investors.md)
 * [💻 Ways of Working](ways-of-working/README.md)
   * [Culture](ways-of-working/culture.md)
+  * [Values](ways-of-working/mission-vision-values.md)
   * [Meetings](ways-of-working/meetings.md)
 
 ## Handbook
 
 * [👋 What is crowd.dev?](handbook/readme.md)
-* [🎯 Mission, Vision, Values](handbook/mission-vision-values.md)
 * [👷♂ Ways of working](handbook/ways-of-working.md)
 
 ## 🖥 Engineering
