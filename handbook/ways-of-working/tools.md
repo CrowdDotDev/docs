@@ -20,11 +20,10 @@ description: Overview of all tools used at crowd.dev
 
 #### Other
 
-* [1Password](http://1password.com/): for password management.
 * [June](http://june.so/): for product analytics.
+* [1Password](http://1password.com/): for password management.
+* [Grammarly](https://www.grammarly.com/): for spelling and grammar checking.
 * [ChatCrowd](https://chat.crowd.dev): our distribution of ChatGPT.
-
-
 
 ### Engineering
 
@@ -33,8 +32,6 @@ description: Overview of all tools used at crowd.dev
 * [AWS](http://aws.amazon.com/): for infrastructure.
 * [Postman](https://postman.com/): for API design and testing.
 * [Logz](https://logz.io/): for logs and observability.
-
-
 
 ### Growth
 
