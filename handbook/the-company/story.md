@@ -2,7 +2,7 @@
 description: tbd
 ---
 
-# 📖 Story
+# Story
 
 ### January 2021 - The beginnings of crowd.dev 🐣
 

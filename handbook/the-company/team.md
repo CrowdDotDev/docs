@@ -2,7 +2,7 @@
 description: Who is working at crowd.dev
 ---
 
-# 🧙 Team
+# Team
 
 to do: add bios for all team members
 

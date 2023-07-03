@@ -1,4 +1,8 @@
-# 👋 What is crowd.dev?
+# What is crowd.dev?
+
+to do: to be updates
+
+
 
 crowd.dev is a suite of tools to analyze, grow, and **leverage developer communities to drive business growth**.
 
@@ -6,14 +10,18 @@ Essentially, [crowd.dev](http://crowd.dev) helps unlock the value of communities
 
 **Crowd.dev is here to change this.** Self-hosted or hosted by us, with developers in mind, open to extensions, and with full control over your community's data. With [crowd.dev](http://crowd.dev) you can instantly unify all your community channels into one dashboard and unearth actionable insights to grow your business.
 
-#### What makes us different from other community building tools?
+### What makes us different from other community building tools?
 
 While other [community tools exist](https://www.notion.so/e98cd0e40e95401a80b99f14852a8102?pvs=21), we are the only ones **building specifically for DevTools** and their communities in mind. We also believe that ultimately an **open-source** platform will lead in the market. With an open-source approach [crowd.dev](http://crowd.dev) can be the go-to solution for even the most regulated industries and harness our community to build out our product further.
 
-#### What are some of our main features?
+### What are some of our main features?
 
 * **Integrate with community tools** and platforms like GitHub, Discord, Slack, Twitter or DEV to establish a single source of truth for your community
 * Get background **information about your community members** (e.g., organizations, interests) and manage them with tags and automated segmentation
 * **Detect relevant conversations** and publish them in a community help center to reduce duplicate questions and get your community's content listed on search engines [\[example\]](https://open.crowd.dev/crowd)
 * **Discover relevant content** and posts accross channels to engage with to grow your community with like-minded people and raise awareness of your product
 * **Analyze your community**, create custom metrics, organize them in reports and share them publicly with your community, your investors, or your team
+
+### Our mission & vision
+
+tbd
