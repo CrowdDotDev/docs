@@ -16,7 +16,6 @@
   * [Sick days](ways-of-working/sick-days.md)
   * [Employee benefits](ways-of-working/benefits.md)
   * [Employee option plan](ways-of-working/employee-option-plan.md)
-* [📈 Go-To-Market](go-to-market.md)
 * [✨ Product](product.md)
 * [⚒ Engineering](engineering/README.md)
   * [Areas of ownership](engineering/areas-of-ownership.md)
@@ -25,3 +24,4 @@
   * [How to report issues](engineering/how-to-report-issues.md)
   * [How to estimate issues](engineering/how-to-estimate-issues.md)
   * [Reacting to emergencies](engineering/reacting-to-emergencies.md)
+* [📈 Go-To-Market](go-to-market.md)
