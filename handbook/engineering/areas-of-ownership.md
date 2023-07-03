@@ -6,6 +6,16 @@ description: >-
 
 # Areas of ownership
 
+{% embed url="https://docs.google.com/spreadsheets/d/1J8E2ZWW9HB2H-rYmbgB0OeYw0JETW7acWzim7TpSC0s/edit?usp=sharing" %}
+Areas of ownership
+{% endembed %}
+
+
+
+
+
+
+
 | **Area**                               | **Description**                                                                                          | **Owner** | **Co-owner** | **Experts** | **Learning** |
 | -------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------- | ------------ | ----------- | ------------ |
 | Linux Foundation                       | Project management for LF, negotiations, and planning                                                    | Owner     | Co-owner     | Experts     | Learning     |
@@ -27,3 +37,4 @@ description: >-
 | Eagle Eye                              | Build and maintain the Eagle Eye feature.                                                                | Owner     | Co-owner     | Experts     | Learning     |
 | Documentation                          | Ensure our documentation is up to date. Each area of ownership must still have their own documentation.  | Owner     | Co-owner     | Experts     | Learning     |
 | Internal tooling                       | Build and maintain internal tooling, such as monitoring, the admin panel...                              | Owner     | Co-owner     | Experts     | Learning     |
+
