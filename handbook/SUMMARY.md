@@ -16,6 +16,7 @@
   * [Sick days](ways-of-working/sick-days.md)
   * [Employee benefits](ways-of-working/benefits.md)
   * [Employee option plan](ways-of-working/employee-option-plan.md)
+* [📈 Go-To-Market](go-to-market.md)
 
 ## 🖥 Engineering
 
