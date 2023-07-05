@@ -26,6 +26,8 @@ description: Overview of all tools used at crowd.dev
 * [ChatCrowd](https://chat.crowd.dev): our distribution of ChatGPT.
 * [Cabal](https://getcabal.com/): for monthly investor updates
 
+
+
 ### Engineering
 
 #### Code, infrastructure, and observability
@@ -34,7 +36,9 @@ description: Overview of all tools used at crowd.dev
 * [Postman](https://postman.com/): for API design and testing.
 * [Logz](https://logz.io/): for logs and observability.
 
-### Growth
+
+
+### Go-To-Market
 
 * [HubSpot](https://www.hubspot.com/): as CRM and marketing automation platform
 
