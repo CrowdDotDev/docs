@@ -14,13 +14,13 @@ _sorted by when they joined crowd.dev_
 
 #### Anil Bostanci (Software Engineer)
 
+#### Uroš Marolt (Software Engineer)
+
 #### Nuno Eufrásio (Product Designer)
 
 #### Charlotte Schmitt (Chief of Staff)
 
 #### Joana Maia (Software Engineer)
-
-#### Uroš Marolt (Software Engineer)
 
 #### Igor Kotua (Software Engineer)
 
