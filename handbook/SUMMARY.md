@@ -10,6 +10,7 @@
   * [Culture](ways-of-working/culture.md)
   * [Values](ways-of-working/mission-vision-values.md)
   * [Meetings](ways-of-working/meetings.md)
+  * [Communication](ways-of-working/communication.md)
   * [Tools](ways-of-working/tools.md)
   * [Expenses](ways-of-working/expenses.md)
   * [Vacations](ways-of-working/vacations.md)
