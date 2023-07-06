@@ -19,6 +19,7 @@ The most important Slack channels are:
 * \#feedback - a collection of all customer feedback we receive across channels
 * \#kudos - cheer for colleagues and appreciate their work
 * \#knowledge - a collection of relevant resources like links, whitepapers, videos, etc
+* \#share-your-world - share pictures from your workspace, your weekend activity, or anything else that is going on in your live (like an "internal Instagram feed")
 * \#random - memes, interesting links, and whatever else you wanna post
 
 
