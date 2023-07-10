@@ -28,5 +28,5 @@ _sorted by when they joined crowd.dev_
 
 #### Misha Savelyev (Software Engineer)
 
-#### Yeganathan Selvakumar (Software Engineering Intern)
+#### Yeganathan Selva Kumar (Software Engineering Intern)
 
