@@ -8,7 +8,7 @@ By using crowd.dev, you get a full picture of who the developers are that engage
 
 Crowd.dev is completely built with developers in mind, for hosted and self-hosted deployments, open to extensions, and with full control over your community's data.&#x20;
 
-### What are some of our main features?
+### Core features
 
 * **Integrate with community and social platforms** like GitHub, Discord, Slack, Twitter or DEV to establish a single source of truth for your community.
 * Get background **information about your community members** (e.g., organizations, interests) and manage them with tags and automated segmentation.
