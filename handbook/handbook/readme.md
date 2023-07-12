@@ -1,6 +1,6 @@
 # What is crowd.dev?
 
-crowd.dev is an **open-source **~~**customer**~~** developer data platform** that helps companies to centralize community, product, and commercial data in one place.
+crowd.dev is an **open-source **~~**customer**~~** developer data platform** that helps developer-facing companies to centralize community, product, and commercial data in one place.
 
 Essentially, crowd.dev pulls data from a variety of [different sources,](https://www.crowd.dev/integrations) normalizes it, matches people's identities across platforms, enriches it with 3rd party data, and provides a unified 360-view of all touch points developers have with your DevTool brand and product. These touch points can range from a comment on Hacker News over a new issue on your GitHub repository to a sign-up to your SaaS version.&#x20;
 
