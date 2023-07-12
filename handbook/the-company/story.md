@@ -24,11 +24,11 @@ To incorporate all the valuable feedback from early users, it was time to bring 
 
 We released our open-source product into the world with enhanced applications and features to help DevTools collect and understand their developer data. We have a strong belief that our open-source approach will create value beyond our own product offering. We want to collaborate with everyone to build software for the developer-led era and create a vibrant and open ecosystem around our project. If you want to go far, go together. We are excited about what the future will hold!
 
-### 2023 - Nail strong product-market fit
+### 2023 - Nail strong product-market fit 🎯&#x20;
 
 The goal for this year is to nail strong product-market fit. Many companies are already happy customers of crowd.dev and use our product on a daily basis.&#x20;
 
-### 2027 - The leading customer platform for developer-first companies
+### 2027 - The leading developer data platform for developer-first companies 🏆&#x20;
 
 Watch this space.&#x20;
 
