@@ -10,7 +10,7 @@ If you find yourself in a meeting where you can neither contribute nor learn any
 
 ### Async daily stand-ups
 
-please post these daily before 12pm CET using the Geek bot slack bot in #daily-standup. We follow the usual structure of what did you do the day previously, what are you planning to do today, and do you have any roadblockers. Try and link your tasks to the realted linear tasks or Notion to-do’s to make it more clear for everyone else in your team.
+Please post these daily before 12:00 pm CET using the Geek bot slack bot in #daily-standup. We follow the usual structure of what you did on the previous day previously, and what you are planning to do today. Please mention any road blockers that you might have here as well. Try and link your tasks to the related Linear tasks to make it more straightforward for everyone else on your team.
 
 ### Weekly meetings
 
