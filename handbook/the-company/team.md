@@ -1,10 +1,8 @@
 ---
-description: Who is working at crowd.dev
+description: Get to know the people behind crowd.dev
 ---
 
 # Team
-
-to do: add bios for all team members
 
 _sorted by when they joined crowd.dev_
 
