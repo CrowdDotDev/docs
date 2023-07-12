@@ -4,7 +4,7 @@ crowd.dev is an **open-source developer data platform** that helps developer-fac
 
 crowd.dev pulls data from a variety of [different sources,](https://www.crowd.dev/integrations) normalizes it, matches people's identities across platforms, and enriches it with 3rd party data. The result is a unified 360-view of all touch points developers have with your DevTool brand and product.&#x20;
 
-These touch points can range from a comment on Hacker News, a new issue on your GitHub repository all the way to a sign-up to your SaaS product.&#x20;
+These touch points can range from a comment on Hacker News, to a new issue on your GitHub repository all the way to a sign-up to your SaaS product.&#x20;
 
 By using crowd.dev, you get a full picture of who the developers are that engage with your product and community, which companies they work for, and where they are in their customer journey so far.
 
