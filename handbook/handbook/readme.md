@@ -1,26 +1,19 @@
 # What is crowd.dev?
 
-to do: to be updates
+crowd.dev is an **open-source **~~**customer**~~** developer data platform** that helps companies to centralize community, product, and commercial data in one place.
 
+Essentially, crowd.dev pulls data from a variety of [different sources,](https://www.crowd.dev/integrations) normalizes it, matches people's identities across platforms, enriches it with 3rd party data, and provides a unified 360-view of all touch points developers have with your DevTool brand and product. These touch points can range from a comment on Hacker News over a new issue on your GitHub repository to a sign-up to your SaaS version.&#x20;
 
+By using crowd.dev, you get a full picture of who the developers are that engage with your product and community, which companies they work for, and which touchpoints they had along their customer journey so far.
 
-crowd.dev is a suite of tools to analyze, grow, and **leverage developer communities to drive business growth**.
-
-Essentially, [crowd.dev](http://crowd.dev) helps unlock the value of communities for DevTool businesses. **Having a solid community strategy is a largely underrated and untapped tool for growth.** This is largely due to the fact that it is a relatively novel, difficult and largely manual task, with community members spread across channels. It is also a more reactive activity to-date (e.g., answering support questions) and **most people don’t know how to turn their community into real business outcomes.**
-
-**Crowd.dev is here to change this.** Self-hosted or hosted by us, with developers in mind, open to extensions, and with full control over your community's data. With [crowd.dev](http://crowd.dev) you can instantly unify all your community channels into one dashboard and unearth actionable insights to grow your business.
-
-### What makes us different from other community building tools?
-
-While other [community tools exist](https://www.notion.so/e98cd0e40e95401a80b99f14852a8102?pvs=21), we are the only ones **building specifically for DevTools** and their communities in mind. We also believe that ultimately an **open-source** platform will lead in the market. With an open-source approach [crowd.dev](http://crowd.dev) can be the go-to solution for even the most regulated industries and harness our community to build out our product further.
+Crowd.dev is completely built with developers in mind, for hosted and self-hosted deployments, open to extensions, and with full control over your community's data.&#x20;
 
 ### What are some of our main features?
 
-* **Integrate with community tools** and platforms like GitHub, Discord, Slack, Twitter or DEV to establish a single source of truth for your community
-* Get background **information about your community members** (e.g., organizations, interests) and manage them with tags and automated segmentation
-* **Detect relevant conversations** and publish them in a community help center to reduce duplicate questions and get your community's content listed on search engines [\[example\]](https://open.crowd.dev/crowd)
-* **Discover relevant content** and posts accross channels to engage with to grow your community with like-minded people and raise awareness of your product
-* **Analyze your community**, create custom metrics, organize them in reports and share them publicly with your community, your investors, or your team
+* **Integrate with community and social platforms** like GitHub, Discord, Slack, Twitter or DEV to establish a single source of truth for your community.
+* Get background **information about your community members** (e.g., organizations, interests) and manage them with tags and automated segmentation.
+* **Discover relevant content** and posts accross channels to engage with to grow your community with like-minded people and raise awareness of your product.
+* **Analyze your community**, create custom metrics, organize them in reports and share them publicly with your community, your investors, or your team.
 
 ### Our mission & vision
 
