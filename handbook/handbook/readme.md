@@ -1,6 +1,6 @@
 # What is crowd.dev?
 
-crowd.dev is a **Developer Data Platform** that lets companies understand all touchpoints developers have with their product and brand - be it in community (e.g. Stack Overflow or Reddit), product (open-source or SaaS), or commercial channels (e.g. HubSpot).
+crowd.dev is a **developer data platform (DDP)** that lets companies centralize all touch points developers have with their product and brand - be it in community (e.g. Stack Overflow or Reddit), product (open-source or SaaS), or commercial channels (e.g. HubSpot).
 
 crowd.dev pulls data from a variety of [different sources,](https://www.crowd.dev/integrations) normalizes it, matches identities across platforms, and enriches it with 3rd party data. The result is a unified 360-view of who the developers are that engage with your product and community, which companies they work for, and where they stand in their personal customer journey.
 
@@ -8,10 +8,15 @@ crowd.dev is open-source, built with developers in mind, available for both host
 
 ### Core features
 
-* **Integrate all your community, product, and commercial data sources** like GitHub, Discord, Slack, Twitter, or DEV to establish a single source of truth.
-* Get background **information about your community members** (e.g., organizations, interests) and manage them with tags and automated segmentation.
-* **Discover relevant content** and posts across channels to engage with to grow your community with like-minded people and raise awareness of your product.
-* **Analyze your community**, create custom metrics, organize them in reports, and share them publicly with your community, your investors, or your team.
+* **Plug & play integrations** to tie all relevant platforms - like GitHub, Discord, Slack, or LinkedIn - together. ([all integrations](https://www.crowd.dev/integrations))
+* **Identity resolution & automated segmentation** to effortlessly understand activities and profiles across platforms.
+* **Opinionated analytics & reports** on topics like product-market-fit and open-source community activity to further inform your GTM strategy.
+* **Workflows automation** with webhooks.
+* **2-way CRM sync & Slack alerts** to get notified about intent events in real-time. \[cloud only]
+* **User enrichment** with 25+ attributes, including emails, social profiles, work experience, and technical skills. \[cloud only]
+* **Organization enrichment** with 50+ attributes, including industry, headcount, and revenue. \[cloud only]
+* **Sentiment analysis and conversation detection** to stay on top of what's going on in your open-source community. \[cloud only]
+* [**Eagle Eye**](https://www.crowd.dev/eagle-eye): Monitor dev-focussed community platforms to find relevant content to engage with, helping you to gain developers’ mindshare and grow your community organically \[cloud only]
 
 ### Our mission & vision
 
