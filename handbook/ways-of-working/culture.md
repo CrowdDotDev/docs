@@ -1,10 +1,10 @@
 # Culture
 
-[crowd.dev](http://crowd.dev) is remote-first, but that doesn’t mean we lack collaboration or contact throughout our day. We are building a company around communities, so naturally it’s important to us that our internal community and ways of working are thriving.
+[crowd.dev](http://crowd.dev) is remote-first, but that doesn’t mean we don't have a vibrant culture. We show up to work every day because we love building exciting technology and stand behind our company mission but also to spend time and collaborate with awesome people. We strongly believe that a great team and culture are necessary for long-term success.&#x20;
 
-### Freedom & Ownership
+We make time for coffee chats and game nights and are always looking forward to the next company offsite. We also encourage open feedback and have regular check-ins to make sure we are doing our best to keep our team happy and motivated.&#x20;
 
-Two of our core-values. In short, we believe that everyone knows how and when they work the best, so with the exception of few regular meetings, we leave that up to you. What we really care about is that you get the work done you committed to and take ownership over it (oh yes, and that you have reliable internet access 😉).
+Check out our values to see some of the things that connect us all and our team page to get to know some of the characters behind crowd.dev.&#x20;
 
 
 
