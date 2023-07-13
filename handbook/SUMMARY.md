@@ -13,7 +13,7 @@
   * [Communication](ways-of-working/communication.md)
   * [Tools](ways-of-working/tools.md)
   * [Expenses](ways-of-working/expenses.md)
-  * [Vacations](ways-of-working/vacations.md)
+  * [PTO](ways-of-working/vacations.md)
   * [Sick days](ways-of-working/sick-days.md)
   * [Employee benefits](ways-of-working/benefits.md)
   * [Employee option plan](ways-of-working/employee-option-plan.md)
