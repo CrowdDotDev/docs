@@ -30,11 +30,9 @@ Your shares are [vested](https://www.investopedia.com/terms/v/vesting.asp), we u
 * Your shares will vest linearly on a monthly basis over 48 months
 * If you leave the company before 1 year of work, you will not be able to exercise any shares
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8fcae96c-0b46-496a-8610-c2de90c3f07a/Untitled.png)
+**Exercise Price**
 
-#### Exercise Price
-
-The exercise price depends on the grant date and represents the current FMV (usually the last valuation at a financing round is taken)
+The exercise price depends on the grant date and represents the current FMV (usually, the last valuation at a financing round is taken)
 
 ### Further resources
 
