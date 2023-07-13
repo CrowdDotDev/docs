@@ -28,5 +28,5 @@ Jonathan was born and raised in Germany with 5 siblings. After his dream of beco
 
 #### Misha Savelyev (Software Engineer) 🇷🇺
 
-#### Yeganathan Selva Kumar (Software Engineering Intern)&#x20;
+#### Yeganathan Selva Kumar (Software Engineering Intern) 🇮🇳
 
