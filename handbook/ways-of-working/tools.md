@@ -1,5 +1,5 @@
 ---
-description: Overview of all tools used at crowd.dev
+description: Overview of all the tools we use at crowd.dev
 ---
 
 # Tools
@@ -10,6 +10,7 @@ description: Overview of all tools used at crowd.dev
 
 * [Slack](https://crowddevspace.slack.com/ssb/redirect): for internal communication.
 * [Discord](https://crowd.dev/discord): the heart of our community.
+* [Gmail:](https://mail.google.com/) for email if necessary
 
 #### Documentation
 
@@ -19,6 +20,7 @@ description: Overview of all tools used at crowd.dev
 #### Other
 
 * [June](http://june.so/): for product analytics.
+* [Plausible](https://plausible.io/): for website analytics.&#x20;
 * [1Password](http://1password.com/): for password management.
 * [Grammarly](https://www.grammarly.com/): for spelling and grammar checking.
 * [ChatCrowd](https://chat.crowd.dev): our distribution of ChatGPT.
@@ -41,5 +43,9 @@ description: Overview of all tools used at crowd.dev
 ### Go-To-Market
 
 * [HubSpot](https://www.hubspot.com/): as CRM and marketing automation platform
+* [Ahrefs](https://ahrefs.com/): for SEO analysis and improvement
+* [Plain:](https://www.plain.com/) for customer support&#x20;
+
+
 
 ###

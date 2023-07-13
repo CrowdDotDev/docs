@@ -2,7 +2,7 @@
 
 crowd.dev is a **developer data platform (DDP)** that lets companies centralize all touch points developers have with their product and brand - be it in community (e.g. Stack Overflow or Reddit), product (open-source or SaaS), or commercial channels (e.g. HubSpot).
 
-crowd.dev pulls data from a variety of [different sources,](https://www.crowd.dev/integrations) normalizes it, matches identities across platforms, and enriches it with 3rd party data. The result is a unified 360-view of who the developers are that engage with your product and community, which companies they work for, and where they stand in their personal customer journey.
+crowd.dev pulls data from a variety of different sources, normalizes it, matches identities across platforms, and enriches it with 3rd party data. The result is a unified 360-view of who the developers are that engage with your product and community, which companies they work for, and where they stand in their personal customer journey.
 
 crowd.dev is open-source, built with developers in mind, available for both hosted and self-hosted deployments, open to extensions, and offers full control over your data.&#x20;
 
@@ -17,7 +17,3 @@ crowd.dev is open-source, built with developers in mind, available for both host
 * **Organization enrichment** with 50+ attributes, including industry, headcount, and revenue. \[cloud only]
 * **Sentiment analysis and conversation detection** to stay on top of what's going on in your open-source community. \[cloud only]
 * [**Eagle Eye**](https://www.crowd.dev/eagle-eye): Monitor dev-focussed community platforms to find relevant content to engage with, helping you to gain developers’ mindshare and grow your community organically \[cloud only]
-
-### Our mission & vision
-
-tbd
