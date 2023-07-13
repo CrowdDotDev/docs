@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏠 Home](http://localhost:5000/o/5adXkyvCwhufPOE1iqxE/s/e9xgQyzZ2aRPuQwkXEqi/)
+* [🏠 Home](http://127.0.0.1:5000/o/5adXkyvCwhufPOE1iqxE/s/e9xgQyzZ2aRPuQwkXEqi/)
 * [🏛 The Company](README.md)
   * [What is crowd.dev?](handbook/readme.md)
   * [Story](the-company/story.md)
