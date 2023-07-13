@@ -22,11 +22,11 @@ We released our open-source product into the world with enhanced applications an
 
 The goal for this year is to nail strong product-market fit. Countless DevTools - including some of the world's leading open-source organizations - are already happy users of crowd.dev and use our product on a regular basis to understand their developer journey, manage their developer community, or identify sales opportunities within their data.
 
-Our 12-person team is now getting support from a growing open-source community and we look full of excitement into the months ahead.
+Our team of 12 is now supported by a growing open source community and we look forward with excitement to the months ahead.
 
 ### 2027 - The leading developer data platform 🏆&#x20;
 
-Watch this space.&#x20;
+Watch this space.
 
 
 

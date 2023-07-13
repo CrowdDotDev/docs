@@ -13,21 +13,10 @@ description: Here you can find out about our expense policy and how to hand in e
 
 ### How do I submit an expense?
 
-Depending on whether you are employed directly through Crowd Technologies GmbH (the German entity) or through Remote, there is a different process. Regardless of which please:
+Before submitting an expense please:
 
-* Where possible ask for your team lead's approval (Jonathan or Joan).
-* Keep receipts/invoices to be able to submit an expense.
-* Note that expenses need to be submitted 10th of the month to be paid out with your salary of that month, otherwise it will happen in the next.
-
-#### Germany (**Crowd Technologies GmbH**)
-
-Write an email to **accounting@crowd.dev**. Please include in email:
-
-* Subject line “Expense Request: EXPENSE NAME”
-* A short description of what it is and amount
-* Attach receipt
-
-#### Outside Germany (Remote)
+* Always ask for approval from Charlotte.&#x20;
+* Keep receipts/invoices to be able to submit an expense. (Note: expenses need to be submitted 10th of the month to be paid out with your salary of that month, otherwise it will happen in the next)
 
 1. Log into Remote.com
 2. Go to “Expenses” on the sidebar
