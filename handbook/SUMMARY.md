@@ -26,3 +26,4 @@
   * [Reacting to emergencies](product-and-engineering/reacting-to-emergencies.md)
   * [Missing items](product-and-engineering/missing-items.md)
 * [📈 Go-To-Market](go-to-market.md)
+* [🙋 People & Operations](people-and-operations.md)
