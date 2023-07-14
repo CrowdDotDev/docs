@@ -20,9 +20,9 @@ Jonathan was born and raised in Germany with 5 siblings. After his dream of beco
 
 ### Nuno Eufrásio (Product Designer) 🇵🇹
 
-Charlotte is from Germany, but after only 8 short months, her family moved abroad, and she lived in Moscow for 16 years. She then moved to Frankfurt for her Bachelor's in Economics and Business and worked in Marketing at larger corporates. After realizing that was not for her, she completed a Master of Management at ESCP in Berlin and Paris with a focus on entrepreneurship and worked at a MedTech Startup. Then, as you do coming out of business school, she spent two years in consulting before starting her own company SaveSpace. Now at crowd.dev, beyond her CoS duties, she is known for trying to get everyone on the social calls, encouraging people to work out with her on offsites, and referencing the latest Tim Ferriss or Huberman podcast.&#x20;
-
 ### Charlotte Schmitt (Chief of Staff) 🇩🇪
+
+Charlotte is from Germany, but after only 8 short months, her family moved abroad, and she lived in Moscow for 16 years. She then moved to Frankfurt for her Bachelor's in Economics and Business and worked in Marketing at larger corporates. After realizing that was not for her, she completed a Master of Management at ESCP in Berlin and Paris with a focus on entrepreneurship and worked at a MedTech Startup. Then, as you do coming out of business school, she spent two years in consulting before starting her own company SaveSpace. Now at crowd.dev, beyond her CoS duties, she is known for trying to get everyone on the social calls, encouraging people to work out with her on offsites, and referencing the latest Tim Ferriss or Huberman podcast.&#x20;
 
 ### Joana Maia (Software Engineer) 🇵🇹
 
