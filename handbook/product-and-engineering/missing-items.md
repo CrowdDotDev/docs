@@ -7,4 +7,4 @@ A list of topics that are currently not covered:
 * Maintaining developer & API docs
 * Best practices
 * Pair programming
-* ...
+* QA process (e.g. when to involve external help)
