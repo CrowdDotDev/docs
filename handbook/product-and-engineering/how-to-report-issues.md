@@ -39,8 +39,8 @@ When raising a high or urgent priority issue, if it's unclear who should tackle 
 
 Medium or low-priority issues can go straight to the backlog and stay unassigned.
 
-* **Priority**: Urgent or High.
-* **Assign** Joan, or if you know who should tackle it, them.
+* **Priority**: Medium or Low.
+* **Assign**: No one
 * **Label**: Usually _Improvement_ or _Feature_, but it could also be _Bug_.
 
 ### For community members
