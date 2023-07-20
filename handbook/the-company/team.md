@@ -2,7 +2,7 @@
 description: Get to know the people behind crowd.dev
 ---
 
-# Team
+# 🧑🤝🧑 Team
 
 All team members _sorted by the date they joined crowd.dev._
 
@@ -34,3 +34,4 @@ Charlotte is from Germany, but after only 8 short months, her family moved abroa
 
 ### Yeganathan Selva Kumar (Software Engineering Intern) 🇮🇳
 
+### Jesse Singer (Founding Customer Success Rep) 🇿🇦 
