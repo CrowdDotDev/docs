@@ -34,4 +34,4 @@ Charlotte is from Germany, but after only 8 short months, her family moved abroa
 
 ### Yeganathan Selva Kumar (Software Engineering Intern) 🇮🇳
 
-### Jesse Singer (Founding Customer Success Rep) 🇿🇦 
+### Jesse Singer (Customer Success) 🇿🇦 
