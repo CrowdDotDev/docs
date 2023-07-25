@@ -4,7 +4,7 @@ description: Overview of the tools we use at crowd.dev
 
 # 🛠 Tools
 
-Below you'll find all our core tools. Check out this internal sheet for a comprehensive list of all active subscriptions.&#x20;
+Below you'll find all our core tools. Check out this [internal sheet](https://docs.google.com/spreadsheets/d/1JboZigxVRNFfTKirG4KWmIjvpWIJGtBbKEU7DFKcmSU/edit#gid=0) for a comprehensive list of all active subscriptions.&#x20;
 
 ### General
 
