@@ -18,8 +18,9 @@ Below you'll find all our core tools. Check out this internal sheet for a compre
 **Documentation**
 
 * [GitBook](https://gitbook.com): for long-term documentation.
-* [Google Docs](https://docs.google.com/) & [Notion](https://www.notion.so/): for project documentation, short-term notes, and private documents.
+* [Google Docs](https://docs.google.com/): notes, project documentation, formal and private documents.
 * ReadMe: Product & Developer Docs.&#x20;
+* [Notion](https://www.notion.so/): legacy documentation, short-term notes, and private documents (currently migrating).
 
 **Compliance & Security**
 
@@ -32,16 +33,17 @@ Below you'll find all our core tools. Check out this internal sheet for a compre
 * [June](http://june.so/): for product analytics.
 * [Plausible](https://plausible.io/): for website analytics.&#x20;
 * [Hotjar:](https://www.hotjar.com/) for product analytics.&#x20;
-* Metabase: company-wide dashboard.
+* Metabase: for company-wide dashboard.
 
 **HR**
 
 * [Remote:](https://remote.com/) for employee time-off, payslips, expenses, documents, etc.&#x20;
-* Checkr: background checks&#x20;
-* Join: hiring&#x20;
+* Checkr: for background checks&#x20;
+* Join: for hiring.&#x20;
 
 **Others**
 
+* [Linear](https://linear.app/crowddotdev/team/C/all): for project management and issue tracking.
 * [Grammarly](https://www.grammarly.com/): for spelling and grammar checking.
 * [ChatCrowd](https://chat.crowd.dev): our distribution of ChatGPT.
 * [Cabal](https://getcabal.com/): for monthly investor updates
@@ -53,39 +55,40 @@ Below you'll find all our core tools. Check out this internal sheet for a compre
 #### Code, infrastructure, and observability
 
 * [GitHub](https://github.com/CrowdDotDev/crowd.dev): where our code lives.
-* [Linear](https://linear.app/crowddotdev/team/C/all): for project management and issue tracking.
 * [AWS](http://aws.amazon.com/): for infrastructure.
 * [Postman](https://postman.com/): for API design and testing.
 * [Logz](https://logz.io/): for logs and observability.
+* Admin Panel: for integration and customer plan monitoring.
 
 **Design**
 
-* [Figma:](https://www.figma.com/) for product and marketing designs&#x20;
-* Webstudio: product videos incl. changelog content
+* [Figma:](https://www.figma.com/) for product and marketing designs.&#x20;
+* Webstudio: product videos incl. changelog content.
 
 **Billing**
 
-* Stripe
+* Stripe: billing and invoicing.
 
 ### Go-To-Market
 
 #### Sales & Marketing
 
-* [HubSpot](https://www.hubspot.com/): as CRM and marketing automation platform
-* [Ahrefs](https://ahrefs.com/): for SEO analysis and improvement
-* Riversidefm: Podcast Editing
-* [Webflow:](https://webflow.com/) for our website&#x20;
+* [HubSpot](https://www.hubspot.com/): as CRM and marketing automation platform.
+* [Ahrefs](https://ahrefs.com/): for SEO analysis and improvement.
+* Riversidefm: Podcast Editing.
+* [Webflow:](https://webflow.com/) for our website.&#x20;
 
 **Customer Support**
 
-* [Plain:](https://www.plain.com/) for customer support&#x20;
+* [Plain:](https://www.plain.com/) for customer support.&#x20;
 
-**Social Media & Content Distribution**
+**Owned Social Media & Content Distribution**
 
 * Twitter
-* LinkedIn&#x20;
+* LinkedIn
+* YouTube
 * DEV.to
-* Medium&#x20;
+* Medium
 * HackerNews
 * Reddit
 * ProductHunt
