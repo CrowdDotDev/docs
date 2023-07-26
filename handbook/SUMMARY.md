@@ -4,7 +4,7 @@
 
 ## THE COMPANY
 
-* [🔎 What is crowd.dev?](README.md)
+* [🔎 crowd.dev](README.md)
 * [📖 Story](the-company/story.md)
 * [🧑🤝🧑 Team](the-company/team.md)
 * [💸 Investors](the-company/investors.md)
