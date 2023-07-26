@@ -1,31 +1,40 @@
 # Table of contents
 
 * [🏠 Home](http://127.0.0.1:5000/o/5adXkyvCwhufPOE1iqxE/s/e9xgQyzZ2aRPuQwkXEqi/)
-* [💻 Ways of Working](README.md)
-  * [💝 Culture](ways-of-working/culture.md)
-  * [🗝 Values](ways-of-working/mission-vision-values.md)
-  * [🗣 Meetings](ways-of-working/meetings.md)
-  * [✍ Communication](ways-of-working/communication.md)
-  * [🛠 Tools](ways-of-working/tools.md)
-  * [💳 Expenses](ways-of-working/expenses.md)
-  * [🌴 PTO](ways-of-working/vacations.md)
-  * [😷 Sick days](ways-of-working/sick-days.md)
-  * [😍 Employee benefits](ways-of-working/benefits.md)
-  * [📄 Employee option plan](ways-of-working/employee-option-plan.md)
-* [⚒ Product & Engineering](product-and-engineering/README.md)
-  * [Areas of ownership](product-and-engineering/areas-of-ownership.md)
-  * [Engineering tools](product-and-engineering/engineering-tools.md)
-  * [How we work on tickets](product-and-engineering/how-we-work-on-tickets.md)
-  * [How to report issues](product-and-engineering/how-to-report-issues.md)
-  * [How to estimate issues](product-and-engineering/how-to-estimate-issues.md)
-  * [Reacting to emergencies](product-and-engineering/reacting-to-emergencies.md)
-  * [Missing items](product-and-engineering/missing-items.md)
-* [📈 Go-To-Market](go-to-market.md)
-* [🙋 People & Operations](people-and-operations.md)
 
 ## THE COMPANY
 
-* [🔎 What is crowd.dev?](handbook/readme.md)
+* [🔎 What is crowd.dev?](README.md)
 * [📖 Story](the-company/story.md)
 * [🧑🤝🧑 Team](the-company/team.md)
 * [💸 Investors](the-company/investors.md)
+
+## WAYS OF WORKIING
+
+* [💝 Culture](ways-of-workiing/culture.md)
+* [🗝 Values](ways-of-workiing/mission-vision-values.md)
+* [🗣 Meetings](ways-of-workiing/meetings.md)
+* [✍ Communication](ways-of-workiing/communication.md)
+* [🛠 Tools](ways-of-workiing/tools.md)
+
+## PRODUCT & ENGINEERING
+
+* [Areas of ownership](product-and-engineering/areas-of-ownership.md)
+* [How we work on tickets](product-and-engineering/how-we-work-on-tickets.md)
+* [How to report issues](product-and-engineering/how-to-report-issues.md)
+* [How to estimate issues](product-and-engineering/how-to-estimate-issues.md)
+* [Reacting to emergencies](product-and-engineering/reacting-to-emergencies.md)
+* [Missing items](product-and-engineering/missing-items.md)
+
+## PEOPLE & OPERATIONS
+
+* [💳 Expenses](people-and-operations/expenses.md)
+* [🌴 PTO](people-and-operations/vacations.md)
+* [😷 Sick days](people-and-operations/sick-days.md)
+* [😍 Employee benefits](people-and-operations/benefits.md)
+* [📄 Employee option plan](people-and-operations/employee-option-plan.md)
+* [🙋 Internal](people-and-operations/internal.md)
+
+## GO-TO-MARKET
+
+* [📈 Internal](go-to-market/internal.md)
