@@ -2,7 +2,7 @@
 description: The origin story of crowd.dev up until today, and a glimpse into the future.
 ---
 
-# Story
+# 📖 Story
 
 ### 2020 - The pain of incomplete developer data 😢
 

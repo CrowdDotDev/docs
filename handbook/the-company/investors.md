@@ -2,7 +2,7 @@
 description: Who backed crowd.dev
 ---
 
-# Investors
+# 💸 Investors
 
 crowd.dev is proud to be supported by some of Europe's leading early-stage investors. So far, we raised $2.2M in pre-seed funding from:
 

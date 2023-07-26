@@ -1,2 +1,0 @@
-# 💻 Ways of Working
-

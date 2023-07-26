@@ -2,7 +2,7 @@
 description: Everything around time-off at crowd.dev
 ---
 
-# PTO
+# 🌴 PTO
 
 We want you well-rested and motivated to do your best, so everyone gets **six weeks of vacation per year (30 days).**
 

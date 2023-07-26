@@ -5,7 +5,7 @@ description: >-
   information and terms of our Employee Option Plan.
 ---
 
-# Employee option plan
+# 📄 Employee option plan
 
 ### What is an Employee Option Plan?
 

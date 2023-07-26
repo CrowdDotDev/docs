@@ -5,7 +5,7 @@ description: >-
   variations depending on location.
 ---
 
-# Employee benefits
+# 😍 Employee benefits
 
 ### 📚 Book & personal-development budget
 

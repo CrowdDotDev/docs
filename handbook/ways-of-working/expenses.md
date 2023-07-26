@@ -2,7 +2,7 @@
 description: Here you can find out about our expense policy and how to hand in expenses.
 ---
 
-# Expenses
+# 💳 Expenses
 
 ### What can I expense?
 

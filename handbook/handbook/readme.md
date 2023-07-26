@@ -1,4 +1,4 @@
-# What is crowd.dev?
+# 🔎 What is crowd.dev?
 
 crowd.dev is a **developer data platform (DDP)** that lets companies centralize all touch points developers have with their product and brand - be it in community (e.g. Stack Overflow or Reddit), product (open-source or SaaS), or commercial channels (e.g. HubSpot).
 

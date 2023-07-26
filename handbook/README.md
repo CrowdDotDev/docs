@@ -1,2 +1,2 @@
-# 🏛 The Company
+# 💻 Ways of Working
 

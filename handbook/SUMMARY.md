@@ -1,12 +1,7 @@
 # Table of contents
 
 * [🏠 Home](http://127.0.0.1:5000/o/5adXkyvCwhufPOE1iqxE/s/e9xgQyzZ2aRPuQwkXEqi/)
-* [🏛 The Company](README.md)
-  * [🔎 What is crowd.dev?](handbook/readme.md)
-  * [📖 Story](the-company/story.md)
-  * [🧑🤝🧑 Team](the-company/team.md)
-  * [💸 Investors](the-company/investors.md)
-* [💻 Ways of Working](ways-of-working/README.md)
+* [💻 Ways of Working](README.md)
   * [💝 Culture](ways-of-working/culture.md)
   * [🗝 Values](ways-of-working/mission-vision-values.md)
   * [🗣 Meetings](ways-of-working/meetings.md)
@@ -27,3 +22,10 @@
   * [Missing items](product-and-engineering/missing-items.md)
 * [📈 Go-To-Market](go-to-market.md)
 * [🙋 People & Operations](people-and-operations.md)
+
+## THE COMPANY
+
+* [🔎 What is crowd.dev?](handbook/readme.md)
+* [📖 Story](the-company/story.md)
+* [🧑🤝🧑 Team](the-company/team.md)
+* [💸 Investors](the-company/investors.md)
