@@ -25,6 +25,7 @@
 * [⌚ How to estimate issues](product-and-engineering/how-to-estimate-issues.md)
 * [🔥 Reacting to emergencies](product-and-engineering/reacting-to-emergencies.md)
 * [✅ Reviewing pull requests](product-and-engineering/reviewing-pull-requests.md)
+* [🖥 Technical and API docs](product-and-engineering/technical-and-api-docs.md)
 * [👀 Missing items](product-and-engineering/missing-items.md)
 
 ## PEOPLE & OPERATIONS
