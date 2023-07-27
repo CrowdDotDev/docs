@@ -17,3 +17,5 @@ Technical docs should be written in the [#technical-docs](technical-and-api-docs
 
 API docs will be imported from Postman, so we only need to keep Postman up-to-date. Then, Joan will sync Postman to documentation every Tuesday when releasing.
 
+TODO: Add a Loom explaining how to keep Postman up to date
+
