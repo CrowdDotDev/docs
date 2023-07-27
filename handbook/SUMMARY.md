@@ -9,13 +9,13 @@
 * [🧑🤝🧑 Team](the-company/team.md)
 * [💸 Investors](the-company/investors.md)
 
-## WAYS OF WORKIING
+## WAYS OF WORKING
 
-* [💝 Culture](ways-of-workiing/culture.md)
-* [🗝 Values](ways-of-workiing/mission-vision-values.md)
-* [🗣 Meetings](ways-of-workiing/meetings.md)
-* [✍ Communication](ways-of-workiing/communication.md)
-* [🛠 Tools](ways-of-workiing/tools.md)
+* [💝 Culture](ways-of-working/culture.md)
+* [🗝 Values](ways-of-working/mission-vision-values.md)
+* [🗣 Meetings](ways-of-working/meetings.md)
+* [✍ Communication](ways-of-working/communication.md)
+* [🛠 Tools](ways-of-working/tools.md)
 
 ## PRODUCT & ENGINEERING
 

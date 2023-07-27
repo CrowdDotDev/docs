@@ -22,7 +22,7 @@ As the owner of a segment, your responsibilities include:
 * Being the first point of contact for support tickets in that area.
 * Management of other teammates that might be working with you.
 * Communicate decisions to the rest of the team.
-* Ensure that your co-owner is always up-to-date and that other experts have the most updated knowledge. You should do this through documentation, following our [communication.md](../ways-of-workiing/communication.md "mention") guidelines.
+* Ensure that your co-owner is always up-to-date and that other experts have the most updated knowledge. You should do this through documentation, following our [communication.md](../ways-of-working/communication.md "mention") guidelines.
 
 #### Other roles
 
@@ -32,7 +32,7 @@ As the owner of a segment, your responsibilities include:
 
 ### Communicating decisions
 
-For communication, we will follow our [communication.md](../ways-of-workiing/communication.md "mention") guidelines. Each area of ownership will have its own Google Docs for medium-term decisions.
+For communication, we will follow our [communication.md](../ways-of-working/communication.md "mention") guidelines. Each area of ownership will have its own Google Docs for medium-term decisions.
 
 ### Cycles and status reports
 
