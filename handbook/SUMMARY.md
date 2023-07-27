@@ -34,7 +34,7 @@
 ## PEOPLE & OPERATIONS
 
 * [💳 Expenses](people-and-operations/expenses.md)
-* [🌴 PTO](people-and-operations/vacations.md)
+* [🌴 Paid time off](people-and-operations/vacations.md)
 * [😷 Sick days](people-and-operations/sick-days.md)
 * [😍 Employee benefits](people-and-operations/benefits.md)
 * [📄 Employee option plan](people-and-operations/employee-option-plan.md)
