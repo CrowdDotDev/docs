@@ -20,7 +20,7 @@ Below you'll find all our core tools. Check out this [internal sheet](https://do
 * [GitBook](https://gitbook.com): for long-term documentation.
 * [Google Docs](https://docs.google.com/): notes, project documentation, formal and private documents.
 * [ReadMe:](https://readme.com/) Product & Developer Docs.&#x20;
-* [Notion](https://www.notion.so/): legacy documentation, short-term notes, and private documents (currently migrating).
+* [Notion](https://www.notion.so/): legacy documentation, short-term notes, and private documents (currently migrating to Google Docs).
 
 **Compliance & Security**
 
