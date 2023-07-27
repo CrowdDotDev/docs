@@ -36,11 +36,11 @@ For communication, we will follow our [communication.md](../ways-of-workiing/com
 
 ### Cycles and status reports
 
-Owners should give weekly status reports of their areas and come prepared to cycle meetings.&#x20;
+Owners should give weekly status reports of their areas and prepare for cycle meetings.&#x20;
 
-#### Every Thursday before 17:00 CET
+Every Thursday before 17:00 CET, owners will be prompted to give a status report every Thursday in the #areas-of-ownership channel. For each area, they should give a small report on its status.
 
-* Owners will be prompted to give a status report every Thursday in the #areas-of-ownership channel. For each area, they should give a small report on its status.
+* The status report should include:
   * What was the development in the past week?
   * If tasks were ongoing, are they on track?
   * If there has not been any progress or improvements in your area in some weeks, explain why (except for more straightforward areas, like Emails or EagleEye).
