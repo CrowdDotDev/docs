@@ -1,4 +1,4 @@
-# How to estimate issues
+# ⌚ How to estimate issues
 
 Estimating the time an issue will take is important to plan our weeks efficiently. To estimate issues, we use a Fibonacci-based approach:
 

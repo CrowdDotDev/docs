@@ -19,12 +19,12 @@
 
 ## PRODUCT & ENGINEERING
 
-* [Pull request reviews](product-and-engineering/pull-request-reviews.md)
 * [✋ Areas of ownership](product-and-engineering/areas-of-ownership.md)
 * [🎟 How we work on tickets](product-and-engineering/how-we-work-on-tickets.md)
 * [🐞 How to report issues](product-and-engineering/how-to-report-issues.md)
 * [⌚ How to estimate issues](product-and-engineering/how-to-estimate-issues.md)
 * [🔥 Reacting to emergencies](product-and-engineering/reacting-to-emergencies.md)
+* [✅ Reviewing pull requests](product-and-engineering/reviewing-pull-requests.md)
 * [👀 Missing items](product-and-engineering/missing-items.md)
 
 ## PEOPLE & OPERATIONS
