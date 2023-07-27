@@ -29,3 +29,22 @@ As the owner of a segment, your responsibilities include:
 * **Co-owner**: the co-owner acts as a temporary owner when the owner is unavailable. As a co-owner, you should ensure you are up to date with topics in that area and comfortable with the code.
 * **Expert**: an expert on an area can tackle most tasks without much, or any, external help.&#x20;
 * **Learner:** someone that wants to develop in that area. It can be through pair programming or attending workshops at first and taking small tasks later.
+
+### Communicating decisions
+
+For communication, we will follow our [communication.md](../ways-of-workiing/communication.md "mention") guidelines. Each area of ownership will have its own Google Docs for medium-term decisions.
+
+### Cycles and status reports
+
+Owners should give weekly status reports of their areas and come prepared to cycle meetings.&#x20;
+
+#### Every Thursday before 17:00 CET
+
+* Owners will be prompted to give a status report every Thursday in the #areas-of-ownership channel. For each area, they should give a small report on its status.
+  * What was the development in the past week?
+  * If tasks were ongoing, are they on track?
+  * If there has not been any progress or improvements in your area in some weeks, explain why (except for more straightforward areas, like Emails or EagleEye).
+* The prompt will also ask you if you need any time during the cycle meeting on Friday to talk about any of your areas. You should mention this if you want to push new tasks for your areas into the next cycle. Make sure tasks are created, described, and scoped before the meeting! But do not assign or add them to the cycle; we will do so during the meeting.
+
+The person responsible for the cycle will plan accordingly based on your responses.
+
