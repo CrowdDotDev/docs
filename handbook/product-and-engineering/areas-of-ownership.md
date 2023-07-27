@@ -6,7 +6,7 @@ description: >-
 
 # ✋ Areas of ownership
 
-#### Areas of ownership table
+### Areas of ownership table
 
 {% embed url="https://docs.google.com/spreadsheets/d/1J8E2ZWW9HB2H-rYmbgB0OeYw0JETW7acWzim7TpSC0s/edit?usp=sharing" %}
 Areas of ownership
