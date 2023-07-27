@@ -4,37 +4,28 @@ description: >-
   crowd.dev
 ---
 
-# Areas of ownership
+# ✋ Areas of ownership
+
+#### Areas of ownership table
 
 {% embed url="https://docs.google.com/spreadsheets/d/1J8E2ZWW9HB2H-rYmbgB0OeYw0JETW7acWzim7TpSC0s/edit?usp=sharing" %}
 Areas of ownership
 {% endembed %}
 
+#### What does it mean to be an owner?
 
+As the owner of a segment, your responsibilities include:
 
+* Ensuring quality.
+* Coming up with ideas for improvement and suggesting them, with arguments, in our planning meetings.
+* Freedom of decision-making to drive the area forward.
+* Being the first point of contact for support tickets in that area.
+* Management of other teammates that might be working with you.
+* Communicate decisions to the rest of the team.
+* Ensure that your co-owner is always up-to-date and that other experts have the most updated knowledge. You should do this through documentation, following our [communication.md](../ways-of-workiing/communication.md "mention") guidelines.
 
+#### Other roles
 
-
-
-| **Area**                               | **Description**                                                                                          | **Owner** | **Co-owner** | **Experts** | **Learning** |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------- | ------------ | ----------- | ------------ |
-| Linux Foundation                       | Project management for LF, negotiations, and planning                                                    | Owner     | Co-owner     | Experts     | Learning     |
-| Database and performance               | Fast queries, efficient data ingestion, and reasonable database load                                     | Owner     | Co-owner     | Experts     | Learning     |
-| Infrastructure                         | Monitoring of infrastructure and creation of new one.                                                    | Owner     | Co-owner     | Experts     | Learning     |
-| CI/CD                                  | Build and maintain our CI/CD pipeline                                                                    | Owner     | Co-owner     | Experts     | Learning     |
-| Developer experience                   | Make sure both team members and contributors can develop efficiently.                                    | Owner     | Co-owner     | Experts     | Learning     |
-| API                                    | Design and maintenance of the API for all endpoints                                                      | Owner     | Co-owner     | Experts     | Learning     |
-| Sound and complete community data      | Upserts, deduplication, and relations between entities. Merging and enrichment.                          | Owner     | Co-owner     | Experts     | Learning     |
-| Integrations and integration framework | Building and maintaining integrations. Continuously evolve the framework to fit new requirements.        | Owner     | Co-owner     | Experts     | Learning     |
-| Hubspot integration                    | Building and maintaining the Hubspot integration.                                                        | Owner     | Co-owner     | Experts     | Learning     |
-| Zapier                                 | Maintaining our Zapier integration and help customers build flows.                                       | Owner     | Co-owner     | Experts     | Learning     |
-| Reports and analytics                  | Build and maintain our reports and widgets. Make sure it is performant and data is correct.              | Owner     | Co-owner     | Experts     | Learning     |
-| Automations and webhooks               | Building and maintaining our automations. Make sure they are being delivered.                            | Owner     | Co-owner     | Experts     | Learning     |
-| Emails                                 | Maintaining our email infrastructure with SendGrid.                                                      | Owner     | Co-owner     | Experts     | Learning     |
-| User experience                        | Ensure a satisfactory user experience in the crowd.dev app. Monitor and push for improvements.           | Owner     | Co-owner     | Experts     | Learning     |
-| Frontend performance and code quality  | Ensure the frontend is performant and efficient.                                                         | Owner     | Co-owner     | Experts     | Learning     |
-| Plans, feature flags                   | Ensure our plans are up to date. Build and maintain feature flags with Unleash, and billing with Stripe. | Owner     | Co-owner     | Experts     | Learning     |
-| Eagle Eye                              | Build and maintain the Eagle Eye feature.                                                                | Owner     | Co-owner     | Experts     | Learning     |
-| Documentation                          | Ensure our documentation is up to date. Each area of ownership must still have their own documentation.  | Owner     | Co-owner     | Experts     | Learning     |
-| Internal tooling                       | Build and maintain internal tooling, such as monitoring, the admin panel...                              | Owner     | Co-owner     | Experts     | Learning     |
-
+* **Co-owner**: the co-owner acts as a temporary owner when the owner is unavailable. As a co-owner, you should ensure you are up to date with topics in that area and comfortable with the code.
+* **Expert**: an expert on an area can tackle most tasks without much, or any, external help.&#x20;
+* **Learner:** someone that wants to develop in that area. It can be through pair programming or attending workshops at first and taking small tasks later.
