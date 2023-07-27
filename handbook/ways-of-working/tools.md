@@ -19,7 +19,7 @@ Below you'll find all our core tools. Check out this [internal sheet](https://do
 
 * [GitBook](https://gitbook.com): for long-term documentation.
 * [Google Docs](https://docs.google.com/): notes, project documentation, formal and private documents.
-* [ReadMe:](https://readme.com/) Product & Developer Docs.&#x20;
+* [ReadMe:](https://readme.com/) Product & Developer Docs (will be migrated to GitBook).&#x20;
 * [Notion](https://www.notion.so/): legacy documentation, short-term notes, and private documents (currently migrating to Google Docs).
 
 **Compliance & Security**
@@ -32,7 +32,7 @@ Below you'll find all our core tools. Check out this [internal sheet](https://do
 
 * [June](http://june.so/): for product analytics.
 * [Plausible](https://plausible.io/): for website analytics.&#x20;
-* [Hotjar:](https://www.hotjar.com/) for product analytics.&#x20;
+* [Hotjar:](https://www.hotjar.com/) for session recordings.&#x20;
 * [Metabase:](https://www.metabase.com/) for company-wide dashboard.
 
 **HR**
@@ -75,7 +75,7 @@ Below you'll find all our core tools. Check out this [internal sheet](https://do
 
 * [HubSpot](https://www.hubspot.com/): as CRM and marketing automation platform.
 * [Ahrefs](https://ahrefs.com/): for SEO analysis and improvement.
-* [Riverside](https://riverside.fm/): Podcast Editing.
+* [Riverside](https://riverside.fm/): for podcast recording.
 * [Webflow:](https://webflow.com/) for our website.&#x20;
 
 **Customer Support**
