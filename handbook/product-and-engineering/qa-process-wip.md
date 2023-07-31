@@ -4,7 +4,7 @@ description: >-
   involve external help
 ---
 
-# QA process
+# 🔎 QA process (WIP)
 
 We believe it is essential to keep a lean development process and empower every engineer to do their own quality assurance. However, we understand that some situations could benefit from external help for doing QA.&#x20;
 

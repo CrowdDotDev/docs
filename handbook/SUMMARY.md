@@ -19,7 +19,6 @@
 
 ## PRODUCT & ENGINEERING
 
-* [QA process](product-and-engineering/qa-process.md)
 * [✋ Areas of ownership](product-and-engineering/areas-of-ownership.md)
 * [🎟 How we work on tickets](product-and-engineering/how-we-work-on-tickets.md)
 * [🐞 How to report issues](product-and-engineering/how-to-report-issues.md)
@@ -30,6 +29,7 @@
 * [🎯 Best practices (WIP)](product-and-engineering/best-practices-wip/README.md)
   * [Keep pull requests small](product-and-engineering/best-practices-wip/keep-pull-requests-small.md)
 * [🧑🤝🧑 Pair programming](product-and-engineering/pair-programming.md)
+* [🔎 QA process (WIP)](product-and-engineering/qa-process-wip.md)
 * [👀 Missing items](product-and-engineering/missing-items.md)
 
 ## PEOPLE & OPERATIONS
