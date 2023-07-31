@@ -8,5 +8,5 @@ Joan will send an update in #dev every month about pair programming. The team wi
 * The leader is responsible for scheduling the session.
 * The session should be between one and two hours.
 
-The pairs are mostly randomly generated, but they might be influenced by the areas of knowledge or tasks planned for the week. If there is someone from whom you would like to learn, reach out to Joan!
+The pairs are mostly randomly generated but might be influenced by the areas of knowledge or tasks planned for the week. If there is someone from whom you would like to learn, reach out to Joan!
 
