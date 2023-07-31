@@ -19,16 +19,16 @@
 
 ## PRODUCT & ENGINEERING
 
-* [🧑🤝🧑 Pair programming](product-and-engineering/pair-programming.md)
 * [✋ Areas of ownership](product-and-engineering/areas-of-ownership.md)
 * [🎟 How we work on tickets](product-and-engineering/how-we-work-on-tickets.md)
 * [🐞 How to report issues](product-and-engineering/how-to-report-issues.md)
 * [⌚ How to estimate issues](product-and-engineering/how-to-estimate-issues.md)
 * [🔥 Reacting to emergencies](product-and-engineering/reacting-to-emergencies.md)
 * [✅ Reviewing pull requests](product-and-engineering/reviewing-pull-requests.md)
-* [🖥 Technical and API docs](product-and-engineering/technical-and-api-docs.md)
+* [🖥 Maintaining technical and API docs](product-and-engineering/maintaining-technical-and-api-docs.md)
 * [🎯 Best practices (WIP)](product-and-engineering/best-practices-wip/README.md)
   * [Keep pull requests small](product-and-engineering/best-practices-wip/keep-pull-requests-small.md)
+* [🧑🤝🧑 Pair programming](product-and-engineering/pair-programming.md)
 * [👀 Missing items](product-and-engineering/missing-items.md)
 
 ## PEOPLE & OPERATIONS

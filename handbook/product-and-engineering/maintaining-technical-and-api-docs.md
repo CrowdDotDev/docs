@@ -1,10 +1,10 @@
-# 🖥 Technical and API docs
+# 🖥 Maintaining technical and API docs
 
 ### Technical docs
 
 Technical docs will be heavily linked to [areas-of-ownership.md](areas-of-ownership.md "mention"). The owner of each technical area is responsible for it being well-documented enough such that other experts can stay in the loop by reading the documentation, and learners can grow into the area.&#x20;
 
-Technical docs should be written in the [#technical-docs](technical-and-api-docs.md#technical-docs "mention") section in the public documentation. Owners of technical areas can create a page and subpages (with up to one level of nesting) for their documentation.
+Technical docs should be written in the [#technical-docs](maintaining-technical-and-api-docs.md#technical-docs "mention") section in the public documentation. Owners of technical areas can create a page and subpages (with up to one level of nesting) for their documentation.
 
 #### Guidelines
 
