@@ -40,6 +40,7 @@
 * [😍 Employee benefits](people-and-operations/benefits.md)
 * [📄 Employee option plan](people-and-operations/employee-option-plan.md)
 * [🙋 Internal](people-and-operations/internal.md)
+* [👷♂ Side-projects](people-and-operations/side-projects.md)
 
 ## GO-TO-MARKET
 
