@@ -1,8 +1,8 @@
 # 👷♂ Side-projects
 
-We believe it's healthy to spend some of your free time building products in other areas of interest, but we do have a simple process we ask everyone to follow.&#x20;
+We believe spending some of your free time building products in other areas of interest is healthy, but we do have a simple process we ask everyone to follow.&#x20;
 
-When considering starting a side hustle, please get first approval from Jonathan or Joan. Give a brief description of what it is along with the following information:
+When considering starting a side hustle, please get first approval from Jonathan or Joan. Give a brief description of what it is, along with the following information:
 
 * Approximate number of hours per week
 * Is it commercial? For example, a paywalled Saas.
