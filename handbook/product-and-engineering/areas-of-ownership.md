@@ -22,7 +22,7 @@ As the owner of a segment, your responsibilities include:
 * Being the first point of contact for support tickets in that area.
 * Management of other teammates that might be working with you.
 * Communicate decisions to the rest of the team.
-* Ensure that your co-owner is always up-to-date and that other experts have the most updated knowledge. You should do this through documentation, following our [communication.md](../ways-of-working/communication.md "mention") guidelines.
+* Ensure that your co-owner is always up-to-date and that other experts have the most updated knowledge. You should do this through documentation in GitBook and following our [communication.md](../ways-of-working/communication.md "mention") guidelines
 
 #### Other roles
 
@@ -32,7 +32,7 @@ As the owner of a segment, your responsibilities include:
 
 ### Communicating decisions
 
-For communication, we will follow our [communication.md](../ways-of-working/communication.md "mention") guidelines. Each area of ownership will have its own Google Docs for medium-term decisions (you can add them [here](https://drive.google.com/drive/u/0/folders/1NJHZN-kRez9GoPyBb3qQ36PQQFOhAjJw)). However, long-term decisions must be documented in GitBook. It will be the responsibility of the owner to make sure documentation is up-to-date.
+For communication, we will follow our [communication.md](../ways-of-working/communication.md "mention") guidelines. Long-term decisions and information must be documented in GitBook. It will be the responsibility of the owner to make sure documentation is up-to-date.
 
 ### Cycles and status reports
 
