@@ -29,7 +29,7 @@
 * [🎯 Best practices (WIP)](product-and-engineering/best-practices-wip/README.md)
   * [Keep pull requests small](product-and-engineering/best-practices-wip/keep-pull-requests-small.md)
 * [🧑🤝🧑 Pair programming](product-and-engineering/pair-programming.md)
-* [🔎 QA process (WIP)](product-and-engineering/qa-process-wip.md)
+* [🔎 QA process](product-and-engineering/qa-process.md)
 * [👀 Missing items](product-and-engineering/missing-items.md)
 
 ## PEOPLE & OPERATIONS

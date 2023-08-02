@@ -4,9 +4,9 @@ description: >-
   involve external help
 ---
 
-# 🔎 QA process (WIP)
+# 🔎 QA process
 
-We believe it is essential to keep a lean development process and empower every engineer to do their own quality assurance. However, we understand that some situations could benefit from external help for doing QA.&#x20;
+We believe it is essential to keep a lean development process and empower every engineer to do their quality assurance. However, we understand that some situations could benefit from external help for doing QA.&#x20;
 
 ### Doing your own QA
 
@@ -29,3 +29,13 @@ There might be other cases where we might need external QA. The area owner can s
 To ask for help, create a new issue in Linear with the _QA_ label, and assign it to our freelancer QA engineer. You should clarify in the issue description what the feature is, what it should be doing, and what should be tested. Feel free to point to any existing documentation.
 
 #### The QA process when external help is involved
+
+The QA goes through the prepared steps/documentation in the ticket and tries to gather as much helpful information as possible before the testing session.
+
+Testing process:
+
+* Test the happy path.
+* Test edge cases and try to manipulate/break the intended behavior of the tested feature.
+* If any defects or issues are found during testing, document them in the subtask section of the QA ticket and assign the ticket to the developer in charge.
+* Developers should address the reported defects and fix the issues. If the reported issue is already known or planned for another future milestone. In that case, the developer should close the created ticket and provide some information in the comment section of the ticket.
+* After fixing, the QA should retest the affected areas to ensure the defects are resolved.
