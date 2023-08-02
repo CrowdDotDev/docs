@@ -32,7 +32,7 @@ As the owner of a segment, your responsibilities include:
 
 ### Communicating decisions
 
-For communication, we will follow our [communication.md](../ways-of-working/communication.md "mention") guidelines. Each area of ownership will have its own Google Docs for medium-term decisions (you can add them \[here]\([https://drive.google.com/drive/u/0/folders/1NJHZN-kRez9GoPyBb3qQ36PQQFOhAjJw](https://drive.google.com/drive/u/0/folders/1NJHZN-kRez9GoPyBb3qQ36PQQFOhAjJw))
+For communication, we will follow our [communication.md](../ways-of-working/communication.md "mention") guidelines. Each area of ownership will have its own Google Docs for medium-term decisions (you can add them [here](https://drive.google.com/drive/u/0/folders/1NJHZN-kRez9GoPyBb3qQ36PQQFOhAjJw)).
 
 ### Cycles and status reports
 
