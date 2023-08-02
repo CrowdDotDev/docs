@@ -19,6 +19,7 @@
 
 ## PRODUCT & ENGINEERING
 
+* [⚒ Project-based development](product-and-engineering/project-based-development.md)
 * [✋ Areas of ownership](product-and-engineering/areas-of-ownership.md)
 * [🎟 How we work on tickets](product-and-engineering/how-we-work-on-tickets.md)
 * [🐞 How to report issues](product-and-engineering/how-to-report-issues.md)
