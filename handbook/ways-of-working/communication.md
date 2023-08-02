@@ -4,9 +4,9 @@ description: How we communicate with each other
 
 # ✍ Communication
 
-### Slack
+### Short-term: Slack
 
-Almost all of our internal communication happens in Slack. In general, we try to have as much communication as possible in public channels. Private channels should only be used if its a private topic or really nobody else needs to be involved (also not potentially later). Thereby, we make sure that everyone is in the loop and conversations are searchable for everybody.&#x20;
+Almost all of our internal communication happens in Slack. In general, we try to have as much communication as possible in public channels. Private channels should only be used if it's a private topic or really nobody else needs to be involved (also not potentially later). Thereby, we ensure everyone is in the loop and that conversations are searchable for everybody.&#x20;
 
 The most important Slack channels are:
 
@@ -22,6 +22,6 @@ The most important Slack channels are:
 * \#share-your-world - share pictures from your workspace, your weekend activity, or anything else that is going on in your live (like an "internal Instagram feed")
 * \#random - memes, interesting links, and whatever else you wanna post
 
+### Long-term: GitBook
 
-
-&#x20;
+Long-term decisions and information should always be stored in GitBook, in the relevant sections. It's everyone's responsibility to keep documentation up-to-date so we can share knowledge efficiently.&#x20;
