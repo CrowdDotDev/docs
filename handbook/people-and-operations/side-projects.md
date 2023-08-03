@@ -6,6 +6,6 @@ When considering starting a side hustle, please check in first with Jonathan or 
 
 * What you are planning to do
 * Approximate number of hours per week, including whether they are at fixed times or are flexible
-* Is it commercial? For example, a SaaS or consulting services.
+* Potential conflicts of interest
 
 We will try our best to accommodate this. However, we must make sure that the side project does not interfere with your job at crowd.dev. Overall the baseline is: If your side project doesn't effect your work at crowd.dev - great, we'd love to support it!
