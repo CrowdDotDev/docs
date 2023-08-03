@@ -1,11 +1,11 @@
 # 👷♂ Side-projects
 
-We believe spending some of your free time building products in other areas of interest is healthy, but we do have a simple process we ask everyone to follow.&#x20;
+We believe spending some of your free time building products and offering services in other areas of interest is awesome. We want to encourage entrepreneurship and personal growth, but we have a simple process that we ask everyone to follow:
 
-When considering starting a side hustle, please get first approval from Jonathan or Joan. Give a brief description of what it is, along with the following information:
+When considering starting a side hustle, please check in first with Jonathan or Joan. Give a brief description of:
 
-* Approximate number of hours per week
-* Is it commercial? For example, a paywalled Saas.
-* Is it time sensitive, or does it require you to be focused on it during strict hours?
+* What you are planning to do
+* Approximate number of hours per week, including whether they are at fixed times or are flexible
+* Is it commercial? For example, a SaaS or consulting services.
 
-We will try our best to accommodate this. However, we must make sure that the side project does not interfere with what crowd.dev needs, so we cannot guarantee that we will approve every project.
+We will try our best to accommodate this. However, we must make sure that the side project does not interfere with your job at crowd.dev. Overall the baseline is: If your side project doesn't effect your work at crowd.dev - great, we'd love to support it!
