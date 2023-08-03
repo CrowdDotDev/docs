@@ -26,9 +26,9 @@ As the owner of a segment, your responsibilities include:
 
 #### Other roles
 
-* **Co-owner (**🥈**)**: the co-owner acts as a temporary owner when the owner is unavailable. As a co-owner, you should ensure you are up to date with topics in that area and comfortable with the code.
-* **Expert (**✅**)**: an expert on an area can tackle most tasks without much, or any, external help.&#x20;
-* **Learner (**⏳**):** someone that wants to develop in that area. It can be through pair programming or attending workshops at first and taking small tasks later.
+* 🥈**Co-owner**: the co-owner acts as a temporary owner when the owner is unavailable. As a co-owner, you should ensure you are up to date with topics in that area and comfortable with the code.
+* ✅ **Expert:** an expert on an area can tackle most tasks without much, or any, external help.&#x20;
+* ⏳ **Learner:** someone that wants to develop in that area. It can be through pair programming or attending workshops at first and taking small tasks later.
 
 ### Communicating decisions
 
