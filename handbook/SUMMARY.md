@@ -17,6 +17,16 @@
 * [✍ Communication](ways-of-working/communication.md)
 * [🛠 Tools](ways-of-working/tools.md)
 
+## PEOPLE & OPERATIONS
+
+* [💳 Expenses](people-and-operations/expenses.md)
+* [🌴 Paid time off](people-and-operations/vacations.md)
+* [😷 Sick days](people-and-operations/sick-days.md)
+* [😍 Employee benefits](people-and-operations/benefits.md)
+* [📄 Employee option plan](people-and-operations/employee-option-plan.md)
+* [👷♂ Side-projects](people-and-operations/side-projects.md)
+* [🙋 Internal](people-and-operations/internal.md)
+
 ## PRODUCT & ENGINEERING
 
 * [✋ Areas of ownership](product-and-engineering/areas-of-ownership.md)
@@ -31,16 +41,6 @@
   * [Keep pull requests small](product-and-engineering/best-practices-wip/keep-pull-requests-small.md)
 * [🧑🤝🧑 Pair programming](product-and-engineering/pair-programming.md)
 * [🔎 QA process](product-and-engineering/qa-process.md)
-
-## PEOPLE & OPERATIONS
-
-* [💳 Expenses](people-and-operations/expenses.md)
-* [🌴 Paid time off](people-and-operations/vacations.md)
-* [😷 Sick days](people-and-operations/sick-days.md)
-* [😍 Employee benefits](people-and-operations/benefits.md)
-* [📄 Employee option plan](people-and-operations/employee-option-plan.md)
-* [👷♂ Side-projects](people-and-operations/side-projects.md)
-* [🙋 Internal](people-and-operations/internal.md)
 
 ## GO-TO-MARKET
 
