@@ -35,7 +35,7 @@ When opening a pull request, there are two conventions we need to follow:
 
 * Always add a human-readable name that will give enough context to whoever reads it. Every Tuesday, Joan will go through all of the pull requests to add them to the changelog, and having meaningful names will make the job smoother.
 * Assign a label to the pull request. It should be one of _Bug_, _Improvement_, _Feature_, or _Documentation_. We have a release drafter that will collect all the pull requests of the week and come up with version numbers and sectioning automatically based on these labels.
-* Select an expert or owner on the area where the pull request belongs for review.
+* Select an expert or owner on the area where the pull request belongs for review. Do not open a pull request without assigning a reviewer.
 
 GitHub copilot will write a detailed description for the pull request, so you don't need to worry about it. However, if it's front-end changes, screenshots are appreciated!
 
