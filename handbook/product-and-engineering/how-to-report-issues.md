@@ -44,3 +44,9 @@ Medium or low-priority issues can go straight to the backlog and stay unassigned
 ### Area of ownership
 
 Each issue should be marked with its area of ownership. This is crucial to organize them. There are labels created for that in Linear. Please refer to the [areas-of-ownership.md](areas-of-ownership.md "mention") for a description of each area, if you need. If you are still unsure, ask the Product Lead.
+
+### Issues by the community
+
+Community members can raise issues in GitHub. The person in charge of support should give a first reply acknowledging the issue and thanking the contributor for opening it.
+
+To send the issue to Linear, add the _Linear_ label in GitHub. Then follow the same priority-based procedure as with issues opened directly in Linear, and add an Area of Ownership.
