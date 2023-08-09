@@ -30,9 +30,13 @@ As the owner of a segment, your responsibilities include:
 * ✅ **Expert:** an expert on an area can tackle most tasks without much, or any, external help.&#x20;
 * ⏳ **Learner:** someone that wants to develop in that area. It can be through pair programming or attending workshops at first and taking small tasks later.
 
-### Communicating decisions
+### Managing issues
 
-For communication, we will follow our [communication.md](../ways-of-working/communication.md "mention") guidelines. Long-term decisions and information must be documented in GitBook. It will be the responsibility of the owner to make sure documentation is up-to-date.
+Issues will all be labelled with their Area of Ownership (see [how-to-report-issues.md](how-to-report-issues.md "mention")), and each area of ownership will have its own view on Linear. Some guidelines to manage those issues:
+
+* It is the responsibility of the owner to keep that view clear.
+* If someone assigns an issue to an area you own, and you think it was misplaced, ask the owner of the area where you think it should be.
+* If someone assigns an issue to an area you own and you think it's wrong or makes no sense, communicate it with that person. You should have the final say, unless it comes from the founders or product lead.
 
 ### Cycles and status reports
 
@@ -47,4 +51,8 @@ Every Thursday before 17:00 CET, owners will be prompted to give a status report
 * The prompt will also ask you if you need any time during the cycle meeting on Friday to talk about any of your areas. You should mention this if you want to push new tasks for your areas into the next cycle. Make sure tasks are created, described, and scoped before the meeting! But do not assign or add them to the cycle; we will do so during the meeting.
 
 The person responsible for the cycle will plan accordingly based on your responses.
+
+### Communicating decisions
+
+For communication, we will follow our [communication.md](../ways-of-working/communication.md "mention") guidelines. Long-term decisions and information must be documented in GitBook. It will be the responsibility of the owner to make sure documentation is up-to-date.
 
