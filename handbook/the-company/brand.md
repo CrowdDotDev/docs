@@ -21,7 +21,7 @@ layout:
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Primary symbol</td><td><a href="https://drive.google.com/drive/folders/1lOWHVHPWaLr43lpkq_9Pg5a7sJI1BPOO?usp=drive_link">Download</a></td><td></td><td><a href="../.gitbook/assets/symbol1.png">symbol1.png</a></td></tr><tr><td>Monotone symbol - Dark</td><td><a href="https://drive.google.com/drive/folders/1-Ul_LtJEq3jFsnsx5XuBJrZCbpG91S4A?usp=sharing">Download</a></td><td></td><td><a href="../.gitbook/assets/symbol2.png">symbol2.png</a></td></tr><tr><td>Monotone symbol - White</td><td><a href="https://drive.google.com/drive/folders/1coMK8zStCpn3IJytFmA04eP-X3jJY3aF?usp=drive_link">Download</a></td><td></td><td><a href="../.gitbook/assets/symbol3.png">symbol3.png</a></td></tr></tbody></table>
 
-[Download](https://drive.google.com/drive/folders/15g9DJZXW2Vunkj-zjsTGXvLTZHuydUju?usp=sharing) logos & symbols full package
+[**Download**](https://drive.google.com/drive/folders/15g9DJZXW2Vunkj-zjsTGXvLTZHuydUju?usp=sharing) logos & symbols full package
 
 
 
