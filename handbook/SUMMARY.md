@@ -8,6 +8,7 @@
 * [📖 Story](the-company/story.md)
 * [🧑🤝🧑 Team](the-company/team.md)
 * [💸 Investors](the-company/investors.md)
+* [🎨 Brand](the-company/brand.md)
 
 ## WAYS OF WORKING
 
