@@ -10,15 +10,39 @@ All team members _sorted by the date they joined crowd.dev._
 
 Jonathan was born and raised in Germany with 5 siblings. After his dream of becoming a basketball player burst, he studied economics & computer science in Bonn, where he also had his first touch points with developers' tools and the world of open-source. After being Head of Business Development at Code Intelligence, he went on and advised several open-source and developer-focussed companies before starting crowd.dev together with Joan. Besides running the company, Jonathan is doing a lot of sports, listening to (and playing) electronic & hip-hop music, and traveling.
 
-<img src="../.gitbook/assets/jonathan-cartoon-bg.png" alt="" data-size="original">
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Jonathan (1).png" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
 
 ### Joan Reyero (CTO) 🇪🇸
 
+Joan is from Barcelona and based in Berlin but thinks Cambridge is the best city in the world. His hidden talent is being able to drink his morning coffee in the shower.&#x20;
 
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Joan.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
 
 ### Anil Bostanci (Software Engineer) 🇹🇷
 
+Anil is from Turkey and is based in Berlin. During our Croatia offsite, he lost his engagement ring on a boat trip, losing a bet with his now-wife on who would lose their ring first.&#x20;
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Anil (2).jpeg" alt="" width="176"><figcaption></figcaption></figure>
+
+</div>
+
 ### Uroš Marolt (Software Engineer) 🇸🇮
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Uros (1).png" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
 
 ### Nuno Eufrásio (Product Designer) 🇵🇹
 
@@ -40,13 +64,39 @@ Charlotte is from Germany, but after only 8 short months, her family moved abroa
 
 </div>
 
-### Joana Maia (Software Engineer) 🇵🇹
+### Joana Maia (Product Lead) 🇵🇹
+
+Joana is our Product Lead and also a Frontend Developer. She originally worked in web design and UI/UX until she realized she had a passion for Frontend development. She made the switch and then worked for several years at a later-stage startup in Portugal, Coimbra, her hometown, as a Frontend Developer. Joana loves all things music and plays the guitar in her free time. She is a big sports fan, especially football. She also enjoys cooking and envisions one day running an out-of-the-box restaurant. \
+
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Joana.jpeg (1).JPEG" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
 
 ### Igor Kotua (Software Engineer) 🇷🇺
 
+Before crowd.dev, Igor worked at open-source-focused VC, Runa Capital, so he has seen all the open-source business models and metrics out there. And speaking of metrics, he’s grown a GitHub repo from 0 to 12,000 with 70+ contributors already 📈🤩. He first studied computer science before switching to aero physics, only to realize after graduation that he would, in the end, pursue computer science. Outside of coding, Igor loves to build cool side-projects and hitting the slopes skiing and snowboarding in the winter. He also likes a nice bike ride while getting up to speed on his favorite podcasts. &#x20;
+
+![](<../.gitbook/assets/Igor (1).jpg>)\
+
+
 ### Gašper Grom (Software Engineer) 🇸🇮
 
+Gasper Grom is a software developer from Slovenia. He is passionate about music especially beatbox looping. He also loves to travel and shot amazing videos and photos with his drone.
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="256"><figcaption></figcaption></figure>
+
+</div>
+
 ### Misha Savelyev (Software Engineer) 🇷🇺
+
+Misha is from Russia but is a long-time Berlin resident. He loves to bring humor into in his opinion the sometimes too-serious world of programming.&#x20;
+
+![](<../.gitbook/assets/image (1).png>)
 
 ### Yeganathan Selva Kumar (Software Engineering Intern) 🇮🇳
 
@@ -68,3 +118,10 @@ Jesse is from Cape Town, South Africa. He specialized in finance at The Universi
 
 </div>
 
+### **Loïc Saint-Roch (Software Engineer) 🇫🇷**&#x20;
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="256"><figcaption></figcaption></figure>
+
+</div>
