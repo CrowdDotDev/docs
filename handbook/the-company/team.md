@@ -38,6 +38,8 @@ Anil is from Turkey and is based in Berlin. During our Croatia offsite, he lost 
 
 ### Uroš Marolt (Software Engineer) 🇸🇮
 
+Uroš joined crowd.dev as Senior Software Engineer. He has 12 years of experience under his belt, having been CTO and co-founder of his previous venture, as well as having worked as a Senior Software Developer before that. When he is not coding, Uroš spends his time with his wife and new son, exploring his home country - Slovenia. With any free time left after that Uros loves to get in some gaming (CSGO, Apex, Simracing), mountain biking, or an NBA match.&#x20;
+
 <div align="left">
 
 <figure><img src="../.gitbook/assets/Uros (1).png" alt="" width="188"><figcaption></figcaption></figure>
