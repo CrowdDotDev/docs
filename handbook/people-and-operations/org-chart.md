@@ -6,5 +6,6 @@ description: An overview of how crowd.dev is set up
 
 Find out more about what each team member in our engineering team is responsible for in the [areas of ownership page](../product-and-engineering/areas-of-ownership.md).&#x20;
 
-{% embed url="https://www.figma.com/file/9UL0Zih0Q54WpfcACte7At/Organization-chart-(Community)?node-id=0:1&t=vZEdriZlQOmW97Yk-1&type=whiteboard" %}
 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-06 at 16.54.25.png" alt=""><figcaption><p>Current Org Chart as of 09.2023</p></figcaption></figure>
