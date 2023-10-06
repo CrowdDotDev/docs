@@ -1,3 +1,7 @@
+---
+description: Connect Stack Overflow with crowd.dev
+---
+
 # Stack Overflow integration
 
 ## Data tracked
@@ -9,7 +13,7 @@ Activities
 
 Historical import
 
-* Depends on a size of a community - usually no limit
+* It depends on the size of a community - usually, there are no limit
 
 Not tracked
 
