@@ -122,6 +122,8 @@ Jesse is from Cape Town, South Africa. He specialized in finance at The Universi
 
 ### **Loïc Saint-Roch (Software Engineer) 🇫🇷**&#x20;
 
+Loïc is a software/platform engineer and lives in Annecy, France. When he is not working, you can most likely find him in the mountains doing free skiing, backcountry skiing, or hiking. Loïc also loves to travel and discover new countries.
+
 <div align="left">
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="256"><figcaption></figcaption></figure>
