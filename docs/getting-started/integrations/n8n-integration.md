@@ -1,3 +1,7 @@
+---
+description: Connect n8n with crowd.dev to access 5,000+ apps
+---
+
 # n8n integration
 
 ## How to install
