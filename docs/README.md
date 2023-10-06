@@ -17,4 +17,4 @@ With crowd.dev, you get full visibility into all platforms and can take action t
 
 > 📘 Looking for Self-hosting?
 >
-> If you're looking to host crowd.dev on your own infrastructure, please reach out to hello@crowd.dev or book a call.
+> If you're looking to host crowd.dev on your own infrastructure, please reach out to hello@crowd.dev or [book a call.](https://www.cal.com/reyero/30)
