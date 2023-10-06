@@ -1,3 +1,7 @@
+---
+description: Connect Zapier with crowd.dev to access 5,000+ apps
+---
+
 # Zapier Integration
 
 ## How to install
