@@ -5,7 +5,7 @@
 ## Getting started
 
 * [👋 What is crowd.dev?](README.md)
-* [Core concepts](getting-started/core-concepts.md)
+* [⭐ Core concepts](getting-started/core-concepts.md)
 * [Integrations](getting-started/integrations/README.md)
   * [GitHub integration](getting-started/integrations/github-integration.md)
   * [Discord integration](getting-started/integrations/discord-integration.md)

@@ -1,12 +1,12 @@
-# Core concepts
+# ⭐ Core concepts
 
 Members, activities, and organizations are the core elements of your community. Every community consists of members, activities that those members conduct, and organizations that those members belong to.
 
 ## Members
 
-Members are the people who interact in your community. They make your community a community, whether they engage on Discord, mention you on Twitter, or open an issue on GitHub. Members who work for your organization are called "team members" and are, in general, not considered for counting activities, calculating engagement levels, etc..
+Members are the people who interact in your community. They make your community a community, whether they engage on Discord, mention you on Twitter, or open an issue on GitHub. Members who work for your organization are called "team members" and are generally not considered for counting activities, calculating engagement levels, etc..
 
-Crowd.dev automatically creates a member profile for every person that conducted at least one activity in your community. The member profile is the single point of truth for everything related to your members. It gives you a historical view of all past activities, a collection of background information (e.g., location or bio), and tools for organizing your community like tags. To learn more, visit the [Members section](https://docs.crowd.dev/docs/members).
+crowd.dev automatically creates a member profile for every person who conducted at least one activity in your community. The member profile is the single point of truth for everything related to your members. It gives you a historical view of all past activities, a collection of background information (e.g., location or bio), and tools for organizing your community, like tags. To learn more, visit the [Members section](https://docs.crowd.dev/docs/members).
 
 ## Organizations
 
