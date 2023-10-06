@@ -1,36 +1,26 @@
 # Table of contents
 
 * [🏠 Home](http://127.0.0.1:5000/o/5adXkyvCwhufPOE1iqxE/s/e9xgQyzZ2aRPuQwkXEqi/)
-* [Technical docs](README.md)
-  * [👨💻 Local Development](technical-docs/local-development.md)
-  * [🚀 Deployment](technical-docs/deployment.md)
-  * [🔌 Integration framework (WIP)](technical-docs/integration-framework.md)
-  * [🌐 Kubernetes](technical-docs/kubernetes/README.md)
-    * [👩🎓 Kubernetes terminology](technical-docs/kubernetes/kubernetes-terminology.md)
-    * [🔌 Connecting to the cluster](technical-docs/kubernetes/connecting-to-the-cluster.md)
-    * [⚙️ Our Kubernetes Configuration](technical-docs/kubernetes/kubernetes-configuration.md)
-    * [🎮 Useful kubectl commands](technical-docs/kubernetes/useful-kubectl-commands.md)
-* [How to install](how-to-install.md)
-* [Analytics](analytics.md)
 
-## 🚩 Getting started
+## Getting started
 
-* [What is crowd.dev?](getting-started/what-is-crowd.dev.md)
+* [What is crowd.dev?](README.md)
 * [Core concepts](getting-started/core-concepts.md)
 * [Integrations](getting-started/integrations/README.md)
-  * [Discord integration](getting-started/integrations/discord-integration.md)
   * [GitHub integration](getting-started/integrations/github-integration.md)
+  * [Discord integration](getting-started/integrations/discord-integration.md)
+  * [Slack integration](getting-started/integrations/slack-integration.md)
+  * [DEV integration](getting-started/integrations/dev-integration.md)
+  * [Hacker News integration](getting-started/integrations/hacker-news-integration.md)
+  * [Reddit integration](getting-started/integrations/reddit-integration.md)
+  * [LinkedIn integration](getting-started/integrations/linkedin-integration.md)
+  * [Stack Overflow integration](getting-started/integrations/stack-overflow-integration.md)
   * [Zapier Integration](getting-started/integrations/zapier-integration.md)
   * [Twitter integration](getting-started/integrations/twitter-integration.md)
   * [Twitter integration](getting-started/integrations/twitter-integration-1.md)
   * [Discourse integration](getting-started/integrations/discourse-integration.md)
-  * [Slack integration](getting-started/integrations/slack-integration.md)
+  * [n8n integration](getting-started/integrations/n8n-integration.md)
   * [HubSpot integration](getting-started/integrations/hubspot-integration.md)
-  * [LinkedIn integration](getting-started/integrations/linkedin-integration.md)
-  * [Reddit integration](getting-started/integrations/reddit-integration.md)
-  * [DEV integration](getting-started/integrations/dev-integration.md)
-  * [Hacker News integration](getting-started/integrations/hacker-news-integration.md)
-  * [Stack Overflow integration](getting-started/integrations/stack-overflow-integration.md)
 * [Explore popular use cases](getting-started/explore-popular-use-cases.md)
 
 ## 📚 Guides
@@ -53,3 +43,14 @@
   * [Webhooks](guides/automations/webhooks.md)
   * [Slack Notifications](guides/automations/slack-notifications.md)
 * [Apps](guides/apps.md)
+
+## 🤖 Technical docs
+
+* [👨💻 Local Development](technical-docs/local-development.md)
+* [🚀 Deployment](technical-docs/deployment.md)
+* [🔌 Integration framework (WIP)](technical-docs/integration-framework.md)
+* [🌐 Kubernetes](technical-docs/kubernetes/README.md)
+  * [👩🎓 Kubernetes terminology](technical-docs/kubernetes/kubernetes-terminology.md)
+  * [🔌 Connecting to the cluster](technical-docs/kubernetes/connecting-to-the-cluster.md)
+  * [⚙️ Our Kubernetes Configuration](technical-docs/kubernetes/kubernetes-configuration.md)
+  * [🎮 Useful kubectl commands](technical-docs/kubernetes/useful-kubectl-commands.md)
