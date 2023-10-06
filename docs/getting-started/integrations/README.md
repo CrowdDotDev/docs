@@ -1,22 +1,26 @@
-# Integrations
+---
+description: Connect data sources with crowd.dev
+---
+
+# 🔌 Integrations
 
 Data is at the heart of everything that we do. That's why integrations naturally play a central role in our product.
 
 You can find an overview of all available integrations [here](https://www.crowd.dev/integrations). Currently, we support the following data sources out-of-the-box:
 
-* [GitHub](doc:github-integration)
-* [Discord](doc:discord-integration)
-* [Slack](doc:slack-integration)
-* [DEV](doc:dev-integration)
-* [Hacker News](doc:hacker-news-integration)
-* [Reddit](doc:reddit-integration)
-* [LinkedIn](doc:linkedin-integration)
-* [Stack Overflow](doc:stack-overflow-integration)
-* [Zapier](doc:zapier-integration)
-* [Twitter (via Zapier)](https://docs.crowd.dev/docs/twitter-integration-via-zapier)
-* [HubSpot](https://docs.crowd.dev/docs/hubspot-integration)
-
-\
+* [GitHub](github-integration.md)
+* [Discord](discord-integration.md)
+* [Slack](slack-integration.md)
+* [DEV](dev-integration.md)
+* [Hacker News](hacker-news-integration.md)
+* [Reddit](reddit-integration.md)
+* [LinkedIn](linkedin-integration.md)
+* [Stack Overflow](stack-overflow-integration.md)
+* [Discourse](discourse-integration.md)
+* [Zapier](zapier-integration.md)
+* [Twitter (via Zapier)](twitter-integration.md)
+* [n8n](n8n-integration.md)
+* [HubSpot](hubspot-integration.md)\
 
 
 If you’ve other data sources that you would like to connect to, you have two options at the moment:
