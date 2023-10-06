@@ -17,7 +17,6 @@
   * [Stack Overflow integration](getting-started/integrations/stack-overflow-integration.md)
   * [Zapier Integration](getting-started/integrations/zapier-integration.md)
   * [Twitter integration](getting-started/integrations/twitter-integration.md)
-  * [Twitter integration](getting-started/integrations/twitter-integration-1.md)
   * [Discourse integration](getting-started/integrations/discourse-integration.md)
   * [n8n integration](getting-started/integrations/n8n-integration.md)
   * [HubSpot integration](getting-started/integrations/hubspot-integration.md)
