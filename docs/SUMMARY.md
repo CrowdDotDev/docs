@@ -4,7 +4,7 @@
 
 ## Getting started
 
-* [What is crowd.dev?](README.md)
+* [👋 What is crowd.dev?](README.md)
 * [Core concepts](getting-started/core-concepts.md)
 * [Integrations](getting-started/integrations/README.md)
   * [GitHub integration](getting-started/integrations/github-integration.md)
