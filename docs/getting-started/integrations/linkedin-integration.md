@@ -1,3 +1,7 @@
+---
+description: Connect LinkedIn with crowd.dev
+---
+
 # LinkedIn integration
 
 ## Data tracked
@@ -27,9 +31,9 @@ Go to the [Integration settings](https://app.crowd.dev/integrations) and follow 
 
 **For LinkedIn accounts that administrate a single organization page**
 
-Just click on the the _Connect_ button and that's it!\
+Just click on the _Connect_ button, and that's it!\
 
 
 **For LinkedIn accounts that administrate multiple organizations pages**
 
-Click on the _Connect_ button of the LinkedIn integration and authorize our LinkedIn app. In the next step, a drawer opens and you need to select which organizations' page you want to track. Once you've selected an organization from the select box, click _Update_ and it's done!
+Click on the _Connect_ button of the LinkedIn integration and authorize our LinkedIn app. In the next step, a drawer opens, and you need to select which organizations' page you want to track. Once you've selected an organization from the select box, click _Update,_ and it's done!
