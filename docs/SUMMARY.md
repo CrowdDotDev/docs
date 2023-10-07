@@ -33,7 +33,7 @@
   * [Add contact](guides/contacts/add-contact.md)
   * [Contact attributes & identities](guides/contacts/contact-attributes-and-identities.md)
   * [Contact enrichment](guides/contacts/contact-enrichment.md)
-* [Activities](guides/activities/README.md)
+* [🏃♀ Activities](guides/activities/README.md)
   * [Activity types and scores](guides/activities/activity-types-and-scores.md)
   * [Activity views, filters & sorting](guides/activities/activity-views-filters-and-sorting.md)
   * [Activity sentiment](guides/activities/activity-sentiment.md)
