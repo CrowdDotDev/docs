@@ -22,9 +22,9 @@
   * [HubSpot integration](getting-started/integrations/hubspot-integration.md)
 * [🗺 Explore popular use cases](getting-started/explore-popular-use-cases.md)
 
-## 📚 Guides
+## Guides
 
-* [Home](guides/home.md)
+* [🏚 Home](guides/home.md)
 * [Tasks](guides/tasks.md)
 * [Members](guides/members/README.md)
   * [Member views, filters & sorting](guides/members/member-views-filters-and-sorting.md)
