@@ -1,6 +1,6 @@
 # Slack Notifications
 
-Slack notifications allow you to receive notifications in a selected Slack channel. For example, you can configure to receive a message whenever a new member joins, or a new activity happens in your community. Simply pick a trigger, set a filter (e.g., to only trigger when the activity happens on Discord), and set it live.
+Slack notifications allow you to receive notifications in a selected Slack channel. For example, you can configure to receive a message whenever a new contact is detected or a new activity happens in your community. Pick a trigger, set a filter (e.g., only to trigger when the activity happens on Discord), and set it live.
 
 ![](https://files.readme.io/7876890-image.png)
 
@@ -22,12 +22,12 @@ Slack notifications allow you to receive notifications in a selected Slack chann
 * Select **Slack notification**
 * Next, you can choose a trigger - an event that will "fire" the notification. E.g, when a user stars your repo, crowd.dev will immediately send you a notification to a selected channel. There are two types of triggers:
   * A new activity trigger: This one fires when an activity happens that you specify, e.g., someone starred your GitHub repo
-  * A new member trigger: This one fires when a new member joins the community
+  * A new contact trigger: This one fires when a new contact is detected
 * From the dropdown, select which type of trigger you want to receive notifications for
 
-### To specify a new member automation
+### To specify a new contact automation
 
-* Choose **New member joined your community**
+* Choose **New contact joined your community**
 * Select a name for this automation
 * From the dropdown, choose one or more platforms you would like to trigger this notification for
 * Lastly, click **Add Slack notification**
