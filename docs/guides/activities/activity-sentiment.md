@@ -8,9 +8,15 @@ To make the sentiment score more usable, we sort all activities into three range
 * 34-67: Neutral sentiment
 * 68-100: Positive sentiment
 
-For each activity, you can also see the sentiment score, which will show you the extent to which the activity is positive or negative. \[block:image] { "images": \[ { "image": \[ "https://files.readme.io/0664e55-Screenshot\_2022-10-24\_at\_09.49.29.png", "Screenshot 2022-10-24 at 09.49.29.png", 1912, 206, "#000000" ] } ] } \[/block]
+For each activity, you can also see the sentiment score, which will show you the extent to which the activity is positive or negative.&#x20;
 
-\[block:callout] { "type": "info", "body": "Sentiment analysis is an approach to natural language processing (NLP) that identifies the emotional tone behind a text. It is a popular way to determine and categorize opinions about products, services, or ideas.", "title": "What is sentiment analysis?" } \[/block]
+<figure><img src="https://files.readme.io/0664e55-Screenshot_2022-10-24_at_09.49.29.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**What is sentiment analysis?**
+
+Sentiment analysis is an approach to natural language processing (NLP) that identifies the emotional tone behind a text. It is a popular way to determine and categorize opinions about products, services, or ideas.
+{% endhint %}
 
 ### How is sentiment calculated?
 
