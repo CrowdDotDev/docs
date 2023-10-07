@@ -8,9 +8,9 @@ The enrichment is based on publicly available information.
 
 ## How do you enrich an organization?
 
-Organization enrichment is available for users in our Growth or Custom plans (find out more about our plans [here](https://www.crowd.dev/pricing)). Once one of these plans is active, organization enrichment occurs automatically.
+Organization enrichment is available for users in our Scale and Enterprise plans (find out more about our plans [here](https://www.crowd.dev/pricing)). Once one of these plans is active, organization enrichment occurs automatically.
 
-In our Growth plan, you will have up to 200 automatic enrichments a month, in Custom, it depends on your plan. We prioritize companies that are new and whose members are the most active in your community.
+In our Scale plan, you will have up to 200 automatic enrichments a month, in Enterprise, it depends on your plan. We prioritize companies that are new and whose members are the most active in your community.
 
 ## How to see all enriched organizations?
 
@@ -21,7 +21,7 @@ To see which organizations are enriched, you can use the filter "enriched organi
 We add the following data points to the organization profile:
 
 * **Headline** (string): A succinct one-liner on the organization.
-* \*\*Description \*\*(string): A more elaborate depiction of the organization's activities.
+* **Description** (string): A more elaborate depiction of the organization's activities.
 * **Identities** (string): Organization profiles on other platforms, such as Twitter, LinkedIn, and Crunchbase.
 * **Industry** (string): The company's operational field, e.g., "Computer Software".
 * **Number of employees** (string): A precise headcount working for the organization.
@@ -49,6 +49,8 @@ We add the following data points to the organization profile:
 * **Ultimate parent** (string): Ultimate holding company or entity of the organization.
 * **Immediate parent** (string): The parent company or entity that directly controls the organization.
 
-> 📘 Not all of these attributes may be found for every organization.
->
-> Our dataset is based on publicly available data from various platforms. Depending on what information is available it may be that we cannot enrich all attributes for all organizations.
+{% hint style="info" %}
+Not all of these attributes may be found for every organization.
+
+Our dataset is based on publicly available data from various platforms. Depending on what information is available, we may not enrich all attributes for all organizations.
+{% endhint %}
