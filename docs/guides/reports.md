@@ -1,4 +1,4 @@
-# Reports
+# 📊 Reports
 
 crowd.dev offers a powerful set of tools for generating, viewing, and sharing reports, whether users prefer to build their own custom reports or use default ones.
 
