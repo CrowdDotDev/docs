@@ -20,7 +20,7 @@
   * [Discourse integration](getting-started/integrations/discourse-integration.md)
   * [n8n integration](getting-started/integrations/n8n-integration.md)
   * [HubSpot integration](getting-started/integrations/hubspot-integration.md)
-* [Explore popular use cases](getting-started/explore-popular-use-cases.md)
+* [🗺 Explore popular use cases](getting-started/explore-popular-use-cases.md)
 
 ## 📚 Guides
 
