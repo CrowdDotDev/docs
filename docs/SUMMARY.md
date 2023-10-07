@@ -37,7 +37,7 @@
   * [Activity types and scores](guides/activities/activity-types-and-scores.md)
   * [Activity views, filters & sorting](guides/activities/activity-views-filters-and-sorting.md)
   * [Activity sentiment](guides/activities/activity-sentiment.md)
-* [Organizations](guides/organizations/README.md)
+* [🏙 Organizations](guides/organizations/README.md)
   * [Organization profiles](guides/organizations/organization-profiles.md)
   * [Organization views, filters & sorting](guides/organizations/organization-views-filters-and-sorting.md)
   * [Organization attributes & identities](guides/organizations/organization-attributes-and-identities.md)
