@@ -25,7 +25,7 @@
 ## Guides
 
 * [🏚 Home](guides/home.md)
-* [Tasks](guides/tasks.md)
+* [✅ Tasks](guides/tasks.md)
 * [Members](guides/members/README.md)
   * [Member views, filters & sorting](guides/members/member-views-filters-and-sorting.md)
 * [Activities](guides/activities/README.md)
