@@ -1,18 +1,20 @@
 # Organization profiles
 
-We create an organization profile for every organization within your community. You can navigate to an organization profile by clicking on an individual organization on the organization overview page. In the organization profile, you will see three different sections. The Profile section (top left), the Identities section (top right), and the Members and Activities section (bottom left). We will go through each in detail below. \[block:image] { "images": \[ { "image": \[ "https://files.readme.io/b800eb1-Screenshot\_2022-11-29\_at\_20.12.45.png", "Screenshot 2022-11-29 at 20.12.45.png", 2364, 1870, "#000000" ] } ] } \[/block]
+We create an organization profile for every organization within your community. You can navigate to an organization profile by clicking on an individual organization on the organization overview page. In the organization profile, you will see three different sections. The Profile section (top left), the Identities section (top right), and the Contacts and Activities section (bottom left). We will go through each in detail below.&#x20;
+
+<figure><img src="https://files.readme.io/90de7dc-Organizations.png" alt=""><figcaption></figcaption></figure>
 
 ### Profile section
 
-The top left section is the Profile section and includes all the background information we have on the organization. This is made up of all the default attributes crowd.dev gathers, which includes the number of members, number of employees, revenue...
+The top left section is the Profile section and includes all the background information we have on the organization. This is made up of all the default attributes crowd.dev gathers, which includes the number of contacts, number of employees, revenue.
 
 ### Identities
 
 The top right section is the Identities section, it shows the social profiles that we were able to gather for that organization. For now, we support GitHub, Twitter, LinkedIn, and Crunchbase.
 
-### Members and Activities section
+### Contacts and Activities section
 
-The default view of the bottom left section is the Members section which is a list of all the members that belong to that organization. The other tab is the Activities section, which is a summary of all activities that were made by members of the organization.
+The default view of the bottom left section is the contacts section, which lists all the contacts that belong to that organization. The other tab is the Activities section, which is a summary of all activities that were made by contacts of the organization.
 
 ### Edit an organization
 
@@ -21,7 +23,7 @@ The default view of the bottom left section is the Members section which is a li
 You can edit and review the data we collect about an organization. To do so:
 
 1. Click the three dots in the upper right corner of the Profile section
-2. Click \*\* Edit organization\*\*
+2. Click **Edit organization**
 3. From here, you will be able to edit all details of the organization, including:
 
 * **Name**: The name of the organization
@@ -42,4 +44,4 @@ In the same drawer, you can also edit the identities associated with the organiz
 * **Email addresses**: Email addresses associated with the organization
 * **Phone numbers**: Phone numbers associated with the organization
 
-You also can cancel and navigate back to the member profile or reset the changes you manually made.
+You can also cancel and navigate back to the contact profile or reset the changes you manually made.
