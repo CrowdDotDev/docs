@@ -1,6 +1,8 @@
-# ⭐ Core concepts
+---
+description: Get to know the core concepts of crowd.dev
+---
 
-Contacts, activities, and organizations are the core elements of crowd.dev.&#x20;
+# ⭐ Core concepts
 
 ## Contacts
 
@@ -12,7 +14,7 @@ Organizations represent the workplaces of your contacts. They are currently disp
 
 ## Activities
 
-Activities are everything that is being done by your members and organizations. They are displayed either in the activities feed or in member profiles and include posts, comments, replies, retweets, reactions, and more. Basically, every event that is monitored from any connected data source is considered an activity. There are pre-defined activity types for all native integrations, but you can also add custom activity types. To learn more, visit the [Activities section](core-concepts.md#activities).
+Activities are everything that is being done by your contacts and organizations. They are displayed in the activities feed or contact profiles and include posts, comments, replies, retweets, reactions, and more. Basically, every event that is monitored from any connected data source is considered an activity. There are pre-defined activity types for all native integrations, but you can also add custom activity types. To learn more, visit the [Activities section](core-concepts.md#activities)[.](core-concepts.md#activities)
 
 ## Conversations
 
@@ -20,8 +22,8 @@ Conversations are a collection of activities that belong to each other. They are
 
 ## Tags
 
-Tags are custom labels that help you to organize and filter your data. If you have a specific segment of members you'd like to focus on (e.g. "conference attendees 2022"), you can apply tags to link them together.
+Tags are custom labels that help you to organize and filter your data. If you have a specific segment of contacts you'd like to focus on (e.g. "conference attendees 2022"), you can apply tags to link them together.
 
 ## Attributes
 
-Attributes are custom data fields that you can add to members. They are a powerful tool to store and explore even more community data points. You should use them whenever a single tag doesn't do the job. You can add attributes either through the member's profile or through our API.
+Attributes are custom data fields that you can add to contacts and organizations. They are a powerful tool for storing and exploring more data points. You should use them whenever a single tag doesn't do the job. You can add attributes through the contact's or organization's profile or our API.
