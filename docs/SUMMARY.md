@@ -50,7 +50,7 @@
   * [Slack Notifications](guides/automations/slack-notifications.md)
 * [🦅 App: Eagle Eye](guides/app-eagle-eye.md)
 
-## 🤖 Technical docs
+## Technical docs
 
 * [👨💻 Local Development](technical-docs/local-development.md)
 * [🚀 Deployment](technical-docs/deployment.md)
