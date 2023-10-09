@@ -83,7 +83,7 @@ Measuring impact is important to prove the business value of your community. Our
 
 By default, you can find an example report in your workspace. Duplicate and modify it to tailor the report to your specific needs. If you want to share a report, publish it and copy and paste the public URL.
 
-Learn more about Reports [here](../guides/reports.md).
+Learn more about Reports [here](../guides/reports/).
 
 {% hint style="success" %}
 Thanks for reading through this. We’d love to hear about your personal use cases for crowd.dev. Please feel free to reach out to use via [hello@crowd.dev](mailto:hello@crowd.dev) or drop a message in our [Discord community](http://crowd.dev/discord).

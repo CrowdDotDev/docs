@@ -1,4 +1,4 @@
-# App: Eagle Eye
+# 🦅 App: Eagle Eye
 
 ## Introduction
 
