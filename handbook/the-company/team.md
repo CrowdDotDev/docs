@@ -1,10 +1,8 @@
 ---
-description: Get to know the people behind crowd.dev
+description: Get to know the people behind crowd.dev (sorted by date they joined)
 ---
 
 # 🧑🤝🧑 Team
-
-All team members _sorted by the date they joined crowd.dev._
 
 ### Jonathan Reimer (CEO) 🇩🇪
 
