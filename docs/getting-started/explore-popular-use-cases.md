@@ -39,9 +39,9 @@ To re-engage contacts that are slipping away and engaging less with your product
 
 Identifying sales opportunities in your contacts allows you to engage directly with your potential customers and gather valuable insights and feedback. While we don't recommend that you conduct regular sales motions in your community, it can be a good starting point for a conversation.
 
-The best place to identify sales opportunities in crowd.dev is in the [Organizations module](https://app.crowd.dev/organizations). Here, you can discover all the organizations that your members are associated with.
+The best place to identify sales opportunities in crowd.dev is in the [Organizations module](https://app.crowd.dev/organizations). Here, you can discover all the organizations that your contacts are associated with.
 
-To spot very active organizations, you can, for example, use the [Most contacts view](https://app.crowd.dev/organizations?search=\&relation=and\&order.prop=memberCount\&order.order=descending\&settings.teamOrganization=exclude), which sorts all organizations by the number of members they have in your community. Each organization has a dedicated profile view where you can take a look at all the data we collected.&#x20;
+To spot very active organizations, you can, for example, use the [Most contacts view](https://app.crowd.dev/organizations?search=\&relation=and\&order.prop=memberCount\&order.order=descending\&settings.teamOrganization=exclude), which sorts all organizations by the number of contacts they have in your community. Each organization has a dedicated profile view where you can take a look at all the data we collected.&#x20;
 
 <figure><img src="https://files.readme.io/cb71b3b-pasted_image_0.png" alt=""><figcaption></figcaption></figure>
 
@@ -71,9 +71,9 @@ Navigate to the [Eagle Eye app](https://app.crowd.dev/eagle-eye), type in a few 
 
 ### Manage your daily community to-do’s
 
-To manage your daily community to-do’s you can leverage the [Tasks module](https://app.crowd.dev/task). Here you can create and manage tasks, relate them to members of your community, and assign them to you or your colleagues. Typical tasks we use are, for example, “reach out to this member regarding ambassador program” or “follow up with member regarding support request on Discord”.
+To manage your daily community to-do’s you can leverage the [Tasks module](https://app.crowd.dev/task). Here you can create and manage tasks, relate them to contacts of your community, and assign them to you or your colleagues. Typical tasks we use are, for example, “reach out to this contact regarding ambassador program” or “follow up with contact regarding support request on Discord”.
 
-You can also create tasks in a members’ profile view. For that, you only need to switch to the “Tasks” tab and click “Add task”. This will open the same window for task creation.
+You can also create tasks in a contact's profile view. You only need to switch to the “Tasks” tab and click “Add task”. This will open the same window for task creation.
 
 Learn more about Tasks [here](https://docs.crowd.dev/docs/tasks).
 
