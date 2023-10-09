@@ -4,7 +4,7 @@
 
 Activities
 
-* When a member joins a server
+* When someone joins a server
 * Messages
 * Replies (in threads)
 
@@ -15,7 +15,7 @@ Historical import
 Not tracked
 
 * Reactions
-* When a member leaves a server
+* When someone leaves a server
 
 Refresh period
 
@@ -37,7 +37,7 @@ Done! We’re now collecting your community's Discord activities.
 
 ### 2. Add Discord bot to private channels
 
-By default, our bot can only fetch data from public channels. If you need a specific role to join channels and you still want to collect the data from those channels, you have to give bot the suitable server role.
+By default, our bot can only fetch data from public channels. If you need a specific role to join channels and still want to collect the data from those channels, you must give the bot the suitable server role.
 
 You can learn more about Discord server roles [here](https://support.discord.com/hc/en-us/articles/214836687-Role-Management-101).
 

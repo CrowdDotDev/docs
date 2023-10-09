@@ -8,7 +8,7 @@ description: connect Slack with crowd.dev
 
 Activities
 
-* When a member joins a channel
+* When someone joins a channel
 * Messages
 * Replies in threads
 

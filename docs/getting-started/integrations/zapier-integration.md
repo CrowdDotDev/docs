@@ -10,7 +10,7 @@ To start using the integration, go to the [Integration settings](https://app.cro
 
 ## Supported triggers
 
-Triggers are a Zapier way to listen for new events (basically webhooks). crowd.dev's Zapier integration supports two types of triggers: **New Activity** and **New Member.**
+Triggers are a Zapier way to listen for new events (basically webhooks). crowd.dev's Zapier integration supports two types of triggers: **New Activity** and **New Contact.**
 
 ### New Activity
 
@@ -18,11 +18,11 @@ This trigger is activated when a new activity happens in your community platform
 
 You can make this trigger granular. For example, only activate it when someone opens a pull request on GitHub and mentions a specific keyword. On the other side of the spectrum, you can configure this trigger to be a "catch-all", but this setup is not recommended because it will be quite hard to distinguish between different events on a Zapier side. So the recommended configuration is to keep this trigger as narrow as possible.
 
-### New Member
+### New Contact
 
-This trigger is activated when a new member joins your community platforms connected to crowd.dev. In crowd.dev, a member is considered anyone who performed at least one action at your community platforms - e.g., joined a Discord server or did something on GitHub (the trigger is activated only once for each user).
+This trigger is activated when a new contact joins your community platforms connected to crowd.dev. In crowd.dev, a contact is considered anyone who performed at least one action at your community platforms - e.g., joined a Discord server or did something on GitHub (the trigger is activated only once for each user).
 
-This trigger can be configured as a "catch-all" (all new member activities for all active platforms) or only for specific platforms.
+This trigger can be configured as a "catch-all" (all new contact activities for all active platforms) or only for specific platforms.
 
 ## Supported Actions
 
@@ -30,23 +30,23 @@ Actions in Zapier are commands that the integration can perform (basically API c
 
 ### Activity
 
-* **Create or update activity for a member** - _takes a member object and information about activity and creates or updates an activity for this member in crowd.dev_
+* **Create or update activity for a contact** - _takes a contact object and information about activity and creates or updates an activity for this contact in crowd.dev_
 * **Create or update activity** - _takes an activity object and creates or updates an activity in crowd.dev based on sourceId of activity and platform_
 
-It's worth noting, that these actions are intended only for activities from custom platforms not supported by crowd.dev. For example, they can be used to automatically creates activities for members who attended a meetup, purchased a swag, etc.
+It's worth noting, that these actions are intended only for activities from custom platforms not supported by crowd.dev. For example, they can be used to automatically creates activities for contacts who attended a meetup, purchased a swag, etc.
 
-### Members
+### Contacts
 
-* **Create or update member** - _takes a member object and creates or updates a member in crowd.dev_
-* **Update member** - _takes a member object and updates an existing member in crowd.dev based on memberId. Fails if the member doesn't exist._
-* **Find task** - _returns a member object for an existing member based on memberId. Fails if the member doesn't exist._
-* **Delete member** - _deletes an existing member based on memberId. Fails if the member doesn't exist._
+* **Create or update contact** - _takes a contact object and creates or updates a contact in crowd.dev_
+* **Update contact** - _takes a contact object and updates an existing contact in crowd.dev based on contactId. Fails if the contact doesn't exist._
+* **Find task** - _returns a contact object for an existing contact based on contactId. Fails if the contact doesn't exist._
+* **Delete contact** - _deletes an existing contact based on contactId. Fails if the contact doesn't exist._
 
 ### Organization
 
 * **Create organization** - _creates a new organization in crowd.dev_
 * **Update organization** - _updates an existing organization in crowd.dev by `organizationId`. Fails if the organization doesn't exist._
-* **Find organization** - _returns a organization object for an existing organization based on `organizationId`. Fails if the organization doesn't exist._
+* **Find organization** - _returns an organization object for an existing organization based on `organizationId`. Fails if the organization doesn't exist._
 * **Delete organization** - _deletes an existing organization based on `organizationId`. Fails if the organization doesn't exist._
 
 ### Task
