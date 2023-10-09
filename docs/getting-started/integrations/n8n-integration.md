@@ -18,26 +18,26 @@ An operation is something an n8n node does, such as getting or sending data. The
 
 ### Triggers
 
-The crowd.dev trigger node allows you to respond to events in crowd.dev and integrate crowd.dev with other applications. n8n has built-in support for a wide range of crowd.dev events, which include new activities and new members.
+The crowd.dev trigger node allows you to respond to events in crowd.dev and integrate crowd.dev with other applications. n8n has built-in support for a wide range of crowd.dev events, which include new activities and new contacts.
 
 * **New Activity:** This trigger is activated when a new activity happens in your community platforms connected to crowd.dev. For example, someone starred your repo, sent a message in Discord, etc. You can make this trigger granular. For example, only activate it when someone opens a pull request on GitHub and mentions a specific keyword. On the other side of the spectrum, you can configure this trigger to be a "catch-all", but this setup is not recommended because it will be quite hard to distinguish between different events on n8n side. So, the recommended configuration is to keep this trigger as narrow as possible.
-* **New Member**: This trigger is activated when a new member joins your community platforms connected to crowd.dev. In crowd.dev, a member is considered anyone who performed at least one action at your community platforms - e.g., joined a Discord server or did something on GitHub (the trigger is activated only once for each user). This trigger can be configured as a "catch-all" (all new member activities for all active platforms) or only for specific platforms.
+* **New Contact**: This trigger is activated when a new contact joins your community platforms connected to crowd.dev. In crowd.dev, a contact is considered anyone who performed at least one action at your community platforms - e.g., joined a Discord server or did something on GitHub (the trigger is activated only once for each user). This trigger can be configured as a "catch-all" (all new contact activities for all active platforms) or only for specific platforms.
 
 ### Actions
 
-The crowd.dev node allows you to automate work in crowd.dev and integrate crowd.dev with other applications. n8n has built-in support for a wide range of crowd.dev features include creating, updating, and deleting members, notes, organizations, and tasks.
+The crowd.dev node allows you to automate work in crowd.dev and integrate crowd.dev with other applications. n8n has built-in support for a wide range of crowd.dev features include creating, updating, and deleting contacts, notes, organizations, and tasks.
 
 **Activity**
 
-* **Create or update activity for a member** - _takes a member object and information about the activity and creates or updates an activity for this member in crowd.dev_
+* **Create or update activity for a contact** - _takes a contact object and information about the activity and creates or updates an activity for this contact in crowd.dev_
 * **Create or update activity** - _takes an activity object and creates or updates an activity in crowd.dev based on sourceId of activity and platform_
 
-**Member**
+**Contact**
 
-* **Create or update member** - _takes a member object and creates or updates a member in crowd.dev_
-* **Update member** - _takes a member object and updates an existing member in crowd.dev based on memberId. Fails if the member doesn't exist._
-* **Find task** - _returns a member object for an existing member based on memberId. Fails if the member doesn't exist._
-* **Delete member** - _deletes an existing member based on memberId. Fails if the member doesn't exist._
+* **Create or update contact** - _takes a contact object and creates or updates a contact in crowd.dev_
+* **Update contact** - _takes a contact object and updates an existing contact in crowd.dev based on contactId. Fails if the contact doesn't exist._
+* **Find task** - _returns a contact object for an existing contact based on contactId. Fails if the contact doesn't exist._
+* **Delete contact** - _deletes an existing contact based on contactId. Fails if the contact doesn't exist._
 
 **Organization**
 

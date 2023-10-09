@@ -8,11 +8,11 @@ description: Sync topics, posts, and replies from your Discourse forum
 
 Historical import
 
-* We create activities for all topics and posts and also create members for all users who performed these activities.
+* We create activities for all topics and posts and also create contacts for all users who performed these activities.
 
 Incremental import
 
-* We create activities for all new topics, posts, users who joined your forum, and likes on posts. Members are created for all users who perform these activities.
+* We create activities for all new topics, posts, users who joined your forum, and likes on posts. Contacts are created for all users who perform these activities.
 
 ## How to install
 

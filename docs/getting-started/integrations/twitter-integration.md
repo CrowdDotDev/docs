@@ -19,7 +19,7 @@ Activities
 * New followers
 * New tweets matching a search query, for example, a Twitter handle (@CrowdDotDev), a hashtag (#CrowdDotDev), or a keyword (crowd.dev)
 
-Member attributes
+Contact attributes
 
 * Name
 * Profile picture
