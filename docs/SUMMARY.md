@@ -46,7 +46,7 @@
 * [⚡ Automations](guides/automations/README.md)
   * [Webhooks](guides/automations/webhooks.md)
   * [Slack Notifications](guides/automations/slack-notifications.md)
-* [App: Eagle Eye](guides/app-eagle-eye.md)
+* [🦅 App: Eagle Eye](guides/app-eagle-eye.md)
 
 ## 🤖 Technical docs
 
