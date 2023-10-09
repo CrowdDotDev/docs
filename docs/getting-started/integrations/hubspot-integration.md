@@ -2,8 +2,8 @@
 
 ## Data tracked
 
-* crowd.dev Members <> HubSpot contacts
-* crowd.dev Organizations <> HubSpot companies
+* crowd.dev contacts <> HubSpot contacts
+* crowd.dev organizations <> HubSpot companies
 
 Refresh period: every 8 hours
 
@@ -24,20 +24,20 @@ Select the HubSpot account that you want to connect to crowd.dev. The HubSpot us
 * `crm.lists.read`
 * `crm.lists.write`
 
-### 2. Enable integration for members and/or organizations
+### 2. Enable integration for contacts and/or organizations
 
-After connecting HubSpot, integration requires additional setup through the settings drawer. First, select for which entities (members and/or organizations) you want to enable the integration for.
+After connecting HubSpot, integration requires additional setup through the settings drawer. First, select for which entities (contacts and/or organizations) you want to enable the integration for.
 
 #### Data-in
 
-Existing members and organizations will automatically be enriched with data points from HubSpot contacts every 8 hours.\
-Members will be identified using the HubSpot contact e-mails. Organizations will be identified using the HubSpot company name. The integration will only enrich fields that were mapped during initializing the integration.
+Existing contacts and organizations will automatically be enriched with data points from HubSpot contacts every 8 hours.\
+Contacts will be identified using the HubSpot contact e-mails. Organizations will be identified using the HubSpot company name. The integration will only enrich fields that were mapped during initializing the integration.
 
 #### Data-out
 
-To send entities to HubSpot, use Automations or sync entities manually using the member/organizations context menu, `Sync with HubSpot` menu item.
+To send entities to HubSpot, use Automations or sync entities manually using the contact/organizations context menu, `Sync with HubSpot` menu item.
 
-**Members without an e-mail will not be synced to HubSpot.**
+**Contacts without an e-mail will not be synced to HubSpot.**
 
 **Organizations without a website will not be synced to HubSpot.**
 
@@ -61,23 +61,23 @@ After attribute mapping is done, use the update button to start the data-in inte
 
 ### Syncing entities manually
 
-After integration status goes into `connected` state, you can start syncing members and organizations manually.
+After integration status goes into `connected` state, you can start syncing contacts and organizations manually.
 
-You can find `Sync with HubSpot` button using the members and organizations context menu.
+You can find `Sync with HubSpot` button using the contacts and organizations context menu.
 
-\[block:image] { "images": \[ { "image": \[ "https://files.readme.io/daa54fa-member-manual-sync.png", "", "" ], "align": "center" } ] } \[/block]
+\[block:image] { "images": \[ { "image": \[ "https://files.readme.io/daa54fa-contact-manual-sync.png", "", "" ], "align": "center" } ] } \[/block]
 
-After clicking the button, crowd.dev will sync the member to HubSpot immediately and every 8 hours the member will be synced again, to keep the contact fresh in HubSpot.
+After clicking the button, crowd.dev will sync the contact to HubSpot immediately and every 8 hours the contact will be synced again, to keep the contact fresh in HubSpot.
 
 ### Syncing entities using automations
 
-You can also use automations to push data to HubSpot. When members or organizations conform to the defined filters they will be synced to HubSpot automatically.
+You can also use automations to push data to HubSpot. When contacts or organizations conform to the defined filters, they will be synced to HubSpot automatically.
 
 Go to `settings -> automations -> add automation` to start adding HubSpot automations.
 
-#### Member automations
+#### Contact automations
 
-Automations for members support adding found members into HubSpot static lists. These lists should exist before you start creating the automation.
+Automations for contacts support adding found contacts into HubSpot static lists. These lists should exist before you start creating the automation.
 
 To create a static contact list in HubSpot, go to Contacts -> Lists -> Create List
 
@@ -95,12 +95,12 @@ You can set the logical operator between filters to `Matching all (and)` or `Mat
 
 Select the HubSpot list that you just created and click `Add automation`
 
-Upon first creation of the automation, crowd.dev will sync the existing members that were already conforming to given filters immediately. Every 8 hours the sync will happen again, catching the new entities conforming to the filters and also updating already synced members again for changed properties.
+Upon first creation of the automation, crowd.dev will sync the existing contacts that were already conforming to the given filters immediately. Every 8 hours the sync will happen again, catching the new entities conforming to the filters and also updating already synced contacts again for changed properties.
 
 #### Organization automations
 
-Quite similar to member automations with few differences.
+Quite similar to contact automations with few differences.
 
 \[block:image] { "images": \[ { "image": \[ "https://files.readme.io/643dcd9-hubspot-organization-automations.png", "", "" ], "align": "center" } ] } \[/block]
 
-After setting the filters, now you can also check the option `Sync all members from the organizations matching your conditions criteria`. Checking this will sync all organization members found with given filters to HubSpot, also adding these members to the selected contact list below.
+After setting the filters, now you can also check the option `Sync all contacts from the organizations matching your conditions criteria`. Checking this will sync all organization contacts found with given filters to HubSpot, also adding these contacts to the selected contact list below.
