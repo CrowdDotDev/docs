@@ -1,16 +1,14 @@
 # ⭐ Core concepts
 
-Members, activities, and organizations are the core elements of your community. Every community consists of members, activities that those members conduct, and organizations that those members belong to.
+Contacts, activities, and organizations are the core elements of crowd.dev.&#x20;
 
-## Members
+## Contacts
 
-Members are the people who interact in your community. They make your community a community, whether they engage on Discord, mention you on Twitter, or open an issue on GitHub. Members who work for your organization are called "team members" and are generally not considered for counting activities, calculating engagement levels, etc..
-
-crowd.dev automatically creates a member profile for every person who conducted at least one activity in your community. The member profile is the single point of truth for everything related to your members. It gives you a historical view of all past activities, a collection of background information (e.g., location or bio), and tools for organizing your community, like tags. To learn more, visit the [Members section](core-concepts.md#members).
+crowd.dev automatically creates a contact profile for every person who conducted at least one activity in your community or whom you add manually. The contact profile is the single point of truth for everything related to your contacts. It gives you a historical view of all past activities, a collection of background information (e.g., location or bio), any notes, tags, or tasks you or a team member has made. To learn more, visit the [Contacts section.](core-concepts.md#contacts)
 
 ## Organizations
 
-Organizations represent the workplaces of your members. They are currently displayed in your Organization directory and in an associated member's profile. You will be able to track which members belong to the same organization, which organizations are growing strong in your community and in turn would be great Organizations for your Go-To-Market team to contact. Find out more in the [Organiztions section](core-concepts.md#organizations).
+Organizations represent the workplaces of your contacts. They are currently displayed in your Organization directory and in an associated contact's profile. You will be able to track which contacts belong to the same organization, which organizations are growing strong in your developer data and in turn, would be great organizations for your Go-To-Market team to contact. Find out more in the [Organizations section.](core-concepts.md#organizations)
 
 ## Activities
 
