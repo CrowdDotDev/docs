@@ -12,7 +12,7 @@ crowd.dev is open-source, built with developers in mind, available for both host
 
 ### Core features
 
-* **Plug & play integrations** to tie all relevant platforms - like GitHub, Discord, Slack, or LinkedIn - together. ([all integrations](https://www.crowd.dev/integrations))
+* **Plug & play integrations** to tie all relevant platforms - like GitHub, Discord, Slack, or LinkedIn - together ([all integrations](https://www.crowd.dev/integrations)).
 * **Identity resolution & automated segmentation** to effortlessly understand activities and profiles across platforms.
 * **Opinionated analytics & reports** on topics like product-market-fit and open-source community activity to further inform your GTM strategy.
 * **Workflows automation** with webhooks.
