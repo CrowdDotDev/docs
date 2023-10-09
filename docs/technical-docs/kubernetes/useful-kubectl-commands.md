@@ -4,7 +4,7 @@ description: >-
   Kubernetes.
 ---
 
-# 🎮 Useful kubectl commands
+# Useful kubectl commands
 
 There is a set of `bash` aliases that help to provide some quick `kubectl` commands:
 

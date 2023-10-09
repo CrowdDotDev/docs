@@ -4,7 +4,7 @@ description: >-
   section.
 ---
 
-# 👩🎓 Kubernetes terminology
+# Kubernetes terminology
 
 ### `Deployment`
 

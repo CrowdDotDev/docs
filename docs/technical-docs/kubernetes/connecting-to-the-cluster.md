@@ -2,7 +2,7 @@
 description: How to connect to our Kubernetes clusters.
 ---
 
-# 🔌 Connecting to the cluster
+# Connecting to the cluster
 
 ### Required software
 
