@@ -5,4 +5,4 @@ root: ./
     summary: SUMMARY.md​
 
 redirects:  
-    docs/product-docs: ./getting-started/what-is-crowd.dev
+    product-docs: ./getting-started/what-is-crowd.dev
