@@ -76,4 +76,4 @@ A custom attribute will show up on the right-hand side of your contact profile u
 6. Insert the value in the name field and press update
 7. Click **Update contact**
 
-You can also edit your custom attributes at any time in this section as well as delete them by clicking the trash icon next to the custom attribute. Learn more about [contact attributes & identities here.](../members/member-views-filters-and-sorting.md)
+You can also edit your custom attributes at any time in this section as well as delete them by clicking the trash icon next to the custom attribute. Learn more about [contact attributes & identities here.](member-views-filters-and-sorting.md)

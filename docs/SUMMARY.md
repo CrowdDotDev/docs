@@ -26,10 +26,10 @@
 
 * [🏚 Home](guides/home.md)
 * [✅ Tasks](guides/tasks.md)
-* [🧑🤝🧑 Contacts](guides/members/README.md)
+* [🧑🤝🧑 Contacts](guides/contacts/README.md)
   * [Contact profiles](guides/contacts/contact-profiles.md)
   * [Merge contacts](guides/contacts/merge-contacts.md)
-  * [Contact views, filters & sorting](guides/members/member-views-filters-and-sorting.md)
+  * [Contact views, filters & sorting](guides/contacts/member-views-filters-and-sorting.md)
   * [Add contact](guides/contacts/add-contact.md)
   * [Contact attributes & identities](guides/contacts/contact-attributes-and-identities.md)
   * [Contact enrichment](guides/contacts/contact-enrichment.md)

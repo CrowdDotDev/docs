@@ -6,7 +6,7 @@ description: Get to know the core concepts of crowd.dev
 
 ## Contacts
 
-crowd.dev automatically creates a contact profile for every person who conducted at least one activity in your community or whom you add manually. The contact profile is the single point of truth for everything related to your contacts. It gives you a historical view of all past activities, a collection of background information (e.g., location or bio), and any notes, tags, or tasks you or a team member has made. To learn more, visit the [Contacts section.](../guides/members/)
+crowd.dev automatically creates a contact profile for every person who conducted at least one activity in your community or whom you add manually. The contact profile is the single point of truth for everything related to your contacts. It gives you a historical view of all past activities, a collection of background information (e.g., location or bio), and any notes, tags, or tasks you or a team member has made. To learn more, visit the [Contacts section.](../guides/contacts/)
 
 ## Organizations
 
