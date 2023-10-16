@@ -6,3 +6,4 @@ root: ./
 
 redirects:  
     product-docs: ./README.md
+    activity-sentiment: ./guides/activities/activity-sentiment.md
