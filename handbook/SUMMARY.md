@@ -9,6 +9,7 @@
 * [🧑🤝🧑 Team](the-company/team.md)
 * [💸 Investors](the-company/investors.md)
 * [🎨 Brand](the-company/brand.md)
+* [🖊 Writing guide](the-company/writing-guide.md)
 
 ## WAYS OF WORKING
 
