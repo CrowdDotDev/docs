@@ -1,10 +1,10 @@
 ---
-description: Our tone, rules for writing, and glossary of common terms
+description: Our tone of voice, writing rules, and glossary of common terms
 ---
 
 # 🖊 Writing guide
 
-On this page you'll find our tone of voice as well as some additional writting rules we would like everyone at crowd.dev to follow. This is especially important for external pieces e.g., website copy, social posts, blogs, etc. For grammar and spell checking we also use Grammarly, if you need access please reach out to Charlotte Schmitt.&#x20;
+On this page, you'll find our tone of voice as well as some additional writing rules we would like everyone at crowd.dev to follow. This is especially important for external pieces like website copy, social posts, and blogs. For grammar and spell checking, we also use Grammarly. If you need access, please reach out to Charlotte Schmitt.&#x20;
 
 ## Tone of voice
 
@@ -14,10 +14,10 @@ tbd
 
 ### American spelling & grammar rules
 
-* We use American spelling, not British. For example, we write center not centre, organizations not organisations, and color not colour.&#x20;
-* We use the serial comma (also known as the "Oxford comma") which is placed before and after the last item in a list of three or more things. For example, I went to the gym Monday, Tuesday<mark style="color:red;">**,**</mark> and Wednesday.&#x20;
+* We use American spelling, not British. For example, we write <mark style="color:green;">center</mark> <mark style="color:red;">not centre</mark>, <mark style="color:green;">organizations</mark> <mark style="color:red;">not organisations</mark>, and <mark style="color:green;">color</mark> <mark style="color:red;">not colour.</mark>&#x20;
+* We use the serial comma (also known as the "Oxford comma"), which is placed before and after the last item in a list of three or more things. For example, I went to the gym Monday, Tuesday<mark style="color:green;">**,**</mark> and Wednesday.&#x20;
 
-### Punctuation (headings, subheadings, bulletted lists)
+### Punctuation (headings, subheadings, bulleted lists)
 
 #### Headings:
 
