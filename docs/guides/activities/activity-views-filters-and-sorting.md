@@ -1,6 +1,6 @@
 # Activity views, filters & sorting
 
-<figure><img src="https://files.readme.io/8f38c48-image_144.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/docs-activities-filters.png" alt=""><figcaption></figcaption></figure>
 
 ## Activity & conversation views
 

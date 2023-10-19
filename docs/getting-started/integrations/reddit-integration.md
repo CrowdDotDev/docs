@@ -33,10 +33,6 @@ Go to the [Integration settings](https://app.crowd.dev/integrations) and follow 
 
 Copy the subreddit that you would like to track into the form. We will automatically validate if it exists. Once you have added it, click on _Connect_. You will be redirected to Reddit, asking you to accept the crowd.dev app. Click on _Allow_, and it is done!
 
-* Example: To track posts and comments from crowd.dev's Reddit:
-
-<figure><img src="https://files.readme.io/d0bf4be-Reddit_1.png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 We highly recommend only tracking subreddits that are directly related to your community or organization. Otherwise, you risk highly polluting your workspace's data.
 {% endhint %}

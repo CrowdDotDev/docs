@@ -10,7 +10,7 @@ Home gives you a quick snapshot of what's happening in your community. You can g
 
 By default, Home displays data for the last 7 days across all connected platforms. Above the contacts element at the top, you can change the time period of displayed data (7, 14, or 30 days) and filter by connected platforms. This will affect all modules on Home except your active integrations and open tasks.
 
-![](https://files.readme.io/41531dd-New\_home.png)
+![](../.gitbook/assets/docs-home.png)
 
 ## Filters
 

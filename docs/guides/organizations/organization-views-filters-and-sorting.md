@@ -2,7 +2,7 @@
 
 We think a few default views of your Organizations page are helpful to most users. These views are based on certain pre-selected filters and sorts.&#x20;
 
-<figure><img src="https://files.readme.io/9ed86f6-Screenshot_2022-11-29_at_20.12.19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/docs-organizations-filters.png" alt=""><figcaption></figcaption></figure>
 
 Our default views include **All organizations**_,_ **New & active**, and **Most contacts.** Within these views, you can also add and create your own filters to further narrow the selection of displayed organizations and sort them.
 

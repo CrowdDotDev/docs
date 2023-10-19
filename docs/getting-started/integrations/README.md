@@ -6,6 +6,8 @@ description: Connect data sources with crowd.dev
 
 Data is at the heart of everything that we do. That's why integrations naturally play a central role in our product.
 
+<figure><img src="../../.gitbook/assets/docs-integrations.png" alt=""><figcaption></figcaption></figure>
+
 You can find an overview of all available integrations [here](https://www.crowd.dev/integrations). Currently, we support the following data sources out-of-the-box:
 
 * [GitHub](github-integration.md)

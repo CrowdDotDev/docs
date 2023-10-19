@@ -2,6 +2,8 @@
 
 One community contact will often be active within your community on several platforms and user profiles. crowd.dev enables you to merge contacts so that you don't have duplicates and see all the data of one of your contacts in one place. There are two ways to merge contacts.
 
+<figure><img src="../../.gitbook/assets/docs-merge-contacts.png" alt=""><figcaption></figcaption></figure>
+
 ## Merge contacts based on suggestions
 
 Our algorithm will detect whether two similar profiles belong to the same contact and will suggest you merge them. You will receive a notification on the top right corner of your contacts page when we have merge suggestions.

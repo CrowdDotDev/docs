@@ -4,8 +4,6 @@ Organization enrichment automatically populates organizations represented in you
 
 The enrichment is based on publicly available information.
 
-![](https://files.readme.io/d255952-small-Organization\_enrichment.png)
-
 ## How do you enrich an organization?
 
 Organization enrichment is available for users in our Scale and Enterprise plans (find out more about our plans [here](https://www.crowd.dev/pricing)). Once one of these plans is active, organization enrichment occurs automatically.

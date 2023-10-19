@@ -34,8 +34,6 @@ Copy the slug (dev.to/**slug**) from the organization or user that you'd like to
 
 _Example: To track comments from_ [_crowd.dev DEV_](https://dev.to/crowddotdev) _articles, you have to insert **crowddotdev** and confirm with "Connect"._
 
-<figure><img src="https://files.readme.io/99f6d2b-image_142.png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 We highly recommend only to track accounts that are directly related to your company/community. Otherwise, you will potentially pollute your workspace data.
 {% endhint %}

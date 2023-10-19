@@ -8,7 +8,7 @@ Based on the keywords and platforms you choose, Eagle Eye can also send you an e
 
 Invest just a few minutes in Eagle Eye a day, and you can consistently raise awareness of your DevTool and add new members to your community.
 
-<figure><img src="https://files.readme.io/c58411b-Eagle_Eye.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/docs-eagle-eye.png" alt=""><figcaption></figcaption></figure>
 
 ### **Supported platforms**
 
@@ -40,7 +40,7 @@ Eagle Eye monitors 11 developer-focused sites for your chosen keywords and gener
 * Choose whether you want to enable AI replies
 * Click update
 
-![2700](https://files.readme.io/4497e22-Eagle\_Eye\_community\_led\_growth\_crowd.dev\_1.png)
+<figure><img src="../.gitbook/assets/docs-eagle-eye-settings.png" alt=""><figcaption></figcaption></figure>
 
 ### **Set up your email digest**
 
@@ -54,7 +54,7 @@ To make it even easier to stay on top of content, you can set up an email digest
 * Choose whether you want to consistently update your digest based on the Eagle Eye settings
 * Click Update
 
-<figure><img src="https://files.readme.io/6f5e6ff-EA_-_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/docs-eagle-eye-email.png" alt=""><figcaption></figcaption></figure>
 
 ### **Engage with content**
 
@@ -78,4 +78,4 @@ To generate an AI reply, click on a post's _Lightbulb_ icon.
 
 AI replies are currently unsupported for GitHub, YouTube, and Stack Overflow. They can be turned off in the settings.
 
-<figure><img src="https://files.readme.io/7e17306-54fab85dd1b75fa0130aa6129df2aedc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/docs-eagle-eye-ai.png" alt=""><figcaption></figcaption></figure>

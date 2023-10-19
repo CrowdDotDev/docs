@@ -2,7 +2,7 @@
 
 crowd.dev offers a powerful set of tools for generating, viewing, and sharing reports, whether users prefer to build their own custom reports or use default ones.
 
-![](https://files.readme.io/ef73155-small-reports.png)
+![](../../.gitbook/assets/docs-reports.png)
 
 **Default reports** are available by default. These reports provide insights and suggestions on specific data points of your community’s data. While they may not be as flexible as custom reports, default reports offer a good overview of your community and allow you to gather further insights by filtering data, interacting with graphs, and accessing detailed views.
 

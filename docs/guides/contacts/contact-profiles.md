@@ -2,6 +2,8 @@
 
 We create a contact profile for every person who has done at least one activity within your community or product if you have it connected. You can navigate to a contact profile by clicking on an individual contact on the contact overview page. In the contact profile, you will see three different sections. The Profile section (top left), the Identity & Custom attributes section (top right), and the Activities section (bottom left). We will go through each in detail below.
 
+<figure><img src="../../.gitbook/assets/docs-contact-profile.png" alt=""><figcaption></figcaption></figure>
+
 ## Profile section
 
 The top left section is the Profile section and includes all the background information we have on the contact. This is made up of all the default attributes crowd.dev automatically includes like the location, contact since, reach, # of activities, and last active. In addition, it displays any of the tags you have created for this contact.

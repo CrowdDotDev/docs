@@ -6,7 +6,7 @@
 
 We have already created a report called Default Report that you can duplicate and customize for your needs.
 
-<figure><img src="https://files.readme.io/aa96e88-Docs__Default_Report.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/docs-custom-report.png" alt=""><figcaption></figcaption></figure>
 
 If you'd like to create a report from scratch, go to the [reports section](https://app.crowd.dev/reports) and click on **+ New** to create a new report.
 

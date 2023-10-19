@@ -43,13 +43,13 @@ The best place to identify sales opportunities in crowd.dev is in the [Organizat
 
 To spot very active organizations, you can, for example, use the [Most contacts view](https://app.crowd.dev/organizations?search=\&relation=and\&order.prop=memberCount\&order.order=descending\&settings.teamOrganization=exclude), which sorts all organizations by the number of contacts they have in your community. Each organization has a dedicated profile view where you can take a look at all the data we collected.&#x20;
 
-<figure><img src="https://files.readme.io/cb71b3b-pasted_image_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/docs-contact-profile.png" alt=""><figcaption></figcaption></figure>
 
 ### Conduct product research
 
 Your community is a great place to do product discovery and learn what people have to say, for example, about certain problems or features you are providing. crowd.dev is collecting all your contacts’ feedback across all platforms and making them easily searchable for you. To conduct product research, navigate to the [Activities module](https://app.crowd.dev/activities) and type in a keyword. You can then refine the search results by applying different filters (e.g., sentiment or platform). Here is an example where I looked for activities regarding our “twitter integration” with a negative or neutral sentiment:&#x20;
 
-<figure><img src="https://files.readme.io/93127cd-pasted_image_0_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/docs-activities-research.png" alt=""><figcaption></figcaption></figure>
 
 ### Get notified about key community activities
 

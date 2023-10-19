@@ -2,7 +2,7 @@
 
 Activities are all kinds of actions that contacts do - ranging from entering a Discord server to submitting a PR on GitHub. Activities are basically your all-in-one newsfeed. They give you oversight of who’s saying what and where. We also use activities to calculate your [activity sentiment](activity-sentiment.md) based on the positive or negative language used.
 
-<figure><img src="https://files.readme.io/8f38c48-image_144.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/docs-activities.png" alt=""><figcaption></figcaption></figure>
 
 ## How to add activities
 

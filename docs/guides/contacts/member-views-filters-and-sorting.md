@@ -6,6 +6,8 @@ Our default views include **All contacts**_**,**_ **New & active**, **Slipping a
 
 We made these different views, filters, and sorts to allow you to segment, research, target, and learn more about your community. For example, if you are on the hunt for prospects to be developer advocates, you can use views and filters to find the most eligible candidates to target individually. The same goes for if you are looking for qualified leads to market or sell to and any other use cases you may have.
 
+<figure><img src="../../.gitbook/assets/docs-contacts-filters.png" alt=""><figcaption></figcaption></figure>
+
 ## Overview of default Contacts views
 
 * **All contacts**: shows all contacts with no filter or sort applied

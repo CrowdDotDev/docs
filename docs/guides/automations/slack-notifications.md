@@ -2,16 +2,16 @@
 
 Slack notifications allow you to receive notifications in a selected Slack channel. For example, you can configure to receive a message whenever a new contact is detected or a new activity happens in your community. Pick a trigger, set a filter (e.g., only to trigger when the activity happens on Discord), and set it live.
 
-![](https://files.readme.io/7876890-image.png)
-
 ## Connect Slack notifications to your workspace
 
 * Navigate to **Settings** (at the bottom of the lefthand navbar)
 * Click the **Automations** view
 * Click the **Add automation** button
 * If you don't have the Slack app connected, click on the button **Install app**, which will redirect you to the integrations page to authorize the Slack app to your workspace
-* In the Slack authorization screen, select the Slack channel where you want to receive the notifications\
-  ![](https://files.readme.io/a6a6f40-image.png)
+*   In the Slack authorization screen, select the Slack channel where you want to receive the notifications\
+
+
+    <figure><img src="https://files.readme.io/a6a6f40-image.png" alt="" width="375"><figcaption></figcaption></figure>
 * You will be redirected back to the crowd.dev app if connecting was successful
 
 ## Create a Slack Notification
@@ -31,8 +31,6 @@ Slack notifications allow you to receive notifications in a selected Slack chann
 * Select a name for this automation
 * From the dropdown, choose one or more platforms you would like to trigger this notification for
 * Lastly, click **Add Slack notification**
-
-![](https://files.readme.io/2084ddd-image.png)
 
 ### To specify a new activity automation
 

@@ -2,7 +2,7 @@
 
 Organizations are companies or entities within your community. If a contact who works at a certain company joins your community, that company will be added as an organization. Usually, you will have more than one contact of an organization in the community. Therefore, this module is key to seeing how a certain organization is adopting your community and product.
 
-<figure><img src="https://files.readme.io/90de7dc-Organizations.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/docs-organizations.png" alt=""><figcaption></figcaption></figure>
 
 In the crowd.dev organizations page you have an overview of all the organizations in your community across the platforms you have connected.
 

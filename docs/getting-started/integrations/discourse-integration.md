@@ -61,13 +61,6 @@ Once you configure API connection in crowd.dev, you will see a section with `Pay
 
 <figure><img src="https://files.readme.io/92ed01b-image.png" alt=""><figcaption></figcaption></figure>
 
-6.  After you configured everything, go back to crowd.dev app and click `Connect`. Now, you will receive webhooks.\
+6. After you configured everything, go back to crowd.dev app and click `Connect`. Now, you will receive webhooks.\
 
-
-    <figure><img src="https://files.readme.io/3a5a23c-image.png" alt="" width="375"><figcaption></figcaption></figure>
-7.  If you want to verify webhooks are configured properly, you can click on settings (see picture below) and then click on `Verify webhook`. Before clicking this button, make sure to do some action in Discourse - e.g. logging in / out, liking a post, or using a `Ping` button in webhooks section.\
-
-
-    <figure><img src="https://files.readme.io/84357ca-image.png" alt="" width="375"><figcaption></figcaption></figure>
-
-![](https://files.readme.io/cc4594b-image.png)
+7. If you want to verify webhooks are configured properly, you can click on settings and then click on `Verify webhook`. Before clicking this button, make sure to do some action in Discourse - e.g. logging in / out, liking a post, or using a `Ping` button in webhooks section.\

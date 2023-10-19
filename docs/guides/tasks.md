@@ -2,7 +2,7 @@
 
 crowd.dev allows you to collaborate with your team or simply schedule and track your own to-do's.
 
-<figure><img src="https://files.readme.io/13fb703-Group_39947.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/docs-tasks.png" alt=""><figcaption></figcaption></figure>
 
 ## Open tasks
 

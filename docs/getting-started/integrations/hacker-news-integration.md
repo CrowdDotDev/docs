@@ -35,7 +35,3 @@ You will see two different input options: mentions and URLs.
 
 * Mentions are the name(s) of your company or community. The more holistic the selection, the better. However, please do not make it too broad not to pollute your workspace data.
 * URLs are the different URLs that are relevant to your company and community. This could be your homepage, your app, or your GitHub repository...
-
-For example, to track mentions of crowd.dev:
-
-<figure><img src="https://files.readme.io/596ce6f-Screenshot_2022-11-24_at_14.31.40.png" alt="" width="563"><figcaption></figcaption></figure>

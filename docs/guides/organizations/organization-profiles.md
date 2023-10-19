@@ -2,7 +2,7 @@
 
 We create an organization profile for every organization within your community. You can navigate to an organization profile by clicking on an individual organization on the organization overview page. In the organization profile, you will see three different sections. The Profile section (top left), the Identities section (top right), and the Contacts and Activities section (bottom left). We will go through each in detail below.&#x20;
 
-<figure><img src="https://files.readme.io/90de7dc-Organizations.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/docs-organization-profile.png" alt=""><figcaption></figcaption></figure>
 
 ### Profile section
 

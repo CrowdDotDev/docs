@@ -12,12 +12,12 @@ Once you open a default report, each widget will be tailored to the specific dat
 
 Most widgets will be interactive, so you can view data in detail, view insights, compare data through growth rates, and export data.
 
-<figure><img src="https://files.readme.io/f7c8d6c-graph.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/docs-report-widget.png" alt=""><figcaption></figcaption></figure>
 
 ## Share reports publicly
 
 Access one of the default reports and click on the Share button to manage your report’s visibility and copy the corresponding public URL.
 
-<figure><img src="https://files.readme.io/8984edf-share.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/docs-share-report.png" alt=""><figcaption></figcaption></figure>
 
 \
