@@ -55,5 +55,12 @@ redirects:
     docker-compose-single-machine-development: ./technical-docs/deployment.md
     docker-compose-single-machine-development-with-docker-images: ./technical-docs/deployment.md
     kubernetes: ./technical-docs/kubernetes.md
+    self-hosting: ./technical-docs/self-hosted-integrations.md
+    self-hosted-github: ./technical-docs/self-hosted-integrations.md
+    self-hosted-twitter-integration: ./technical-docs/self-hosted-integrations.md
+    self-hosted-discord-integration: ./technical-docs/self-hosted-integrations.md
+    the-slack-integration: ./technical-docs/self-hosted-integrations.md
+    self-hosted-reddit-integration: ./technical-docs/self-hosted-integrations.md
     premium-self-hosted-apps: ./technical-docs/premium-self-hosted-apps.md
+    telemetry: ./technical-docs/telemetry.md
     integration-framework: ./technical-docs/integration-framework.md
