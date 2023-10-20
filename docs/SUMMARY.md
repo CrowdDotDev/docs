@@ -61,3 +61,4 @@
   * [Connecting to the cluster](technical-docs/kubernetes/connecting-to-the-cluster.md)
   * [Our Kubernetes Configuration](technical-docs/kubernetes/kubernetes-configuration.md)
   * [Useful kubectl commands](technical-docs/kubernetes/useful-kubectl-commands.md)
+* [🗝 Premium self-hosted apps](technical-docs/premium-self-hosted-apps.md)
