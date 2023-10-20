@@ -64,3 +64,4 @@ redirects:
     premium-self-hosted-apps: ./technical-docs/premium-self-hosted-apps.md
     telemetry: ./technical-docs/telemetry.md
     integration-framework: ./technical-docs/integration-framework.md
+    getting-started-with-crowd-dev-api: ./technical-docs/local-development.md
