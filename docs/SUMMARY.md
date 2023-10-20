@@ -62,3 +62,4 @@
   * [Our Kubernetes Configuration](technical-docs/kubernetes/kubernetes-configuration.md)
   * [Useful kubectl commands](technical-docs/kubernetes/useful-kubectl-commands.md)
 * [🗝 Premium self-hosted apps](technical-docs/premium-self-hosted-apps.md)
+* [🤳 Self-hosted integrations](technical-docs/self-hosted-integrations.md)
