@@ -6,5 +6,8 @@ root: ./
 
 redirects:  
     product-docs: ./README.md
+    core-concepts: ./core-concepts.md
+    integrations: ./getting-started/integrations.md
+    github-integration: ./getting-started/integrations/github-integration.md
     activity-sentiment: ./guides/activities/activity-sentiment.md
     member-profiles: ./guides/contacts/contact-profiles.md
