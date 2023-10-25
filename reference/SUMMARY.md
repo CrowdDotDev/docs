@@ -1,3 +1,4 @@
 # Table of contents
 
-* [API docs](README.md)
+* [🏠 Home](http://127.0.0.1:5000/o/5adXkyvCwhufPOE1iqxE/s/e9xgQyzZ2aRPuQwkXEqi/)
+* [🔌 API docs](README.md)
