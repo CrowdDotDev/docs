@@ -3354,7 +3354,8 @@
 					"response": []
 				}
 			],
-			"id": "bc6e2acb-9a7b-4793-b0d1-9dc1e67f32b3"
+			"id": "bc6e2acb-9a7b-4793-b0d1-9dc1e67f32b3",
+			"description": "The API for activities will allow you to find, query, and add new activities."
 		},
 		{
 			"name": "Tag",
@@ -3667,7 +3668,133 @@
 						"header": [],
 						"url": "{{host}}/api/tenant/{{tenantId}}/tag/{{exampleTagId}}"
 					},
-					"response": []
+					"response": [
+						{
+							"id": "0ef4d5f1-dd52-4946-ad74-0b7e96da8c49",
+							"name": "Find by ID",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": "{{host}}/api/tenant/{{tenantId}}/tag/{{exampleTagId}}"
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Date",
+									"value": "Mon, 30 Oct 2023 11:11:08 GMT"
+								},
+								{
+									"key": "Content-Type",
+									"value": "application/json; charset=utf-8"
+								},
+								{
+									"key": "Transfer-Encoding",
+									"value": "chunked"
+								},
+								{
+									"key": "Connection",
+									"value": "keep-alive"
+								},
+								{
+									"key": "vary",
+									"value": "Origin"
+								},
+								{
+									"key": "x-request-id",
+									"value": "202e4b476e1550dc98f636b51170f9f6"
+								},
+								{
+									"key": "x-ratelimit-limit",
+									"value": "200"
+								},
+								{
+									"key": "x-ratelimit-remaining",
+									"value": "195"
+								},
+								{
+									"key": "x-ratelimit-reset",
+									"value": "1698664304"
+								},
+								{
+									"key": "content-security-policy",
+									"value": "default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
+								},
+								{
+									"key": "x-dns-prefetch-control",
+									"value": "off"
+								},
+								{
+									"key": "expect-ct",
+									"value": "max-age=0"
+								},
+								{
+									"key": "x-frame-options",
+									"value": "SAMEORIGIN"
+								},
+								{
+									"key": "strict-transport-security",
+									"value": "max-age=15724800; includeSubDomains"
+								},
+								{
+									"key": "x-download-options",
+									"value": "noopen"
+								},
+								{
+									"key": "x-content-type-options",
+									"value": "nosniff"
+								},
+								{
+									"key": "x-permitted-cross-domain-policies",
+									"value": "none"
+								},
+								{
+									"key": "referrer-policy",
+									"value": "no-referrer"
+								},
+								{
+									"key": "x-xss-protection",
+									"value": "0"
+								},
+								{
+									"key": "etag",
+									"value": "W/\"10ae-R6pl3EnHSiqWw3RGvdLfNXDmePI\""
+								},
+								{
+									"key": "CF-Cache-Status",
+									"value": "DYNAMIC"
+								},
+								{
+									"key": "Report-To",
+									"value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=LRPQDH6QXL3v3kKzyk9fWrBKQjFVHB%2FyB7noDun09X7Z4LhqGDG14B9JOGLSwwoPudqq0iBrneJfFA1bxyR22rG10Fkyy94JAHeB1shp815ruGJh6aGelADeZaybOx%2BU\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+								},
+								{
+									"key": "NEL",
+									"value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+								},
+								{
+									"key": "Server",
+									"value": "cloudflare"
+								},
+								{
+									"key": "CF-RAY",
+									"value": "81e3373bd8dd665d-MAD"
+								},
+								{
+									"key": "Content-Encoding",
+									"value": "br"
+								},
+								{
+									"key": "alt-svc",
+									"value": "h3=\":443\"; ma=86400"
+								}
+							],
+							"cookie": [],
+							"responseTime": null,
+							"body": "{\n    \"id\": \"7432edc5-9d75-4f08-aa59-4465c9517f0d\",\n    \"name\": \"public-figure\",\n    \"importHash\": null,\n    \"createdAt\": \"2023-10-30T11:06:34.295Z\",\n    \"updatedAt\": \"2023-10-30T11:06:34.295Z\",\n    \"deletedAt\": null,\n    \"tenantId\": \"952fa7d9-12c7-4236-8a9f-c0c848a73cfe\",\n    \"createdById\": \"b26fdd98-dff4-4c5e-8a3c-0e86bc8a4ddb\",\n    \"updatedById\": \"b26fdd98-dff4-4c5e-8a3c-0e86bc8a4ddb\",\n    \"members\": [\n        {\n            \"id\": \"4e6ba851-4cc9-4fd6-be86-a5b17d260a22\",\n            \"attributes\": {\n                \"bio\": {\n                    \"custom\": \"Ex-CEO of Aviato, creator of startup incubator\",\n                    \"github\": \"Coding is not for me\",\n                    \"default\": \"Ex-CEO of Aviato, creator of startup incubator\",\n                    \"twitter\": \"Founder of Aviato, backer of @piedpiper\"\n                },\n                \"awards\": {\n                    \"default\": [\n                        \"TechCrunch Disrupt Battlefield Winner 2014\"\n                    ],\n                    \"enrichment\": [\n                        \"TechCrunch Disrupt Battlefield Winner 2014\"\n                    ]\n                },\n                \"sample\": {\n                    \"crowd\": true,\n                    \"default\": true\n                },\n                \"skills\": {\n                    \"default\": [\n                        \"Marketing\",\n                        \"Product Development\",\n                        \"Venture Capital\",\n                        \"Public Speaking\"\n                    ],\n                    \"enrichment\": [\n                        \"Marketing\",\n                        \"Product Development\",\n                        \"Venture Capital\",\n                        \"Public Speaking\"\n                    ]\n                },\n                \"country\": {\n                    \"default\": \"USA\",\n                    \"enrichment\": \"USA\"\n                },\n                \"jobTitle\": {\n                    \"custom\": \"Board Member at Pied Piper\",\n                    \"default\": \"Board Member at Pied Piper\"\n                },\n                \"location\": {\n                    \"github\": \"Silicon Valley\",\n                    \"default\": \"Silicon Valley\"\n                },\n                \"avatarUrl\": {\n                    \"custom\": \"https://s3.eu-central-1.amazonaws.com/crowd.dev-sample-data/erlich-small.jpg\",\n                    \"default\": \"https://s3.eu-central-1.amazonaws.com/crowd.dev-sample-data/erlich-small.jpg\"\n                },\n                \"education\": {\n                    \"default\": [\n                        {\n                            \"major\": \"Business Administration\",\n                            \"campus\": \"UC Berkeley\",\n                            \"endDate\": \"2014-05-15\",\n                            \"startDate\": \"2010-09-01\",\n                            \"specialization\": \"\"\n                        },\n                        {\n                            \"major\": \"Computer Science\",\n                            \"campus\": \"UC Berkeley\",\n                            \"endDate\": \"2010-06-01\",\n                            \"startDate\": \"2008-09-01\",\n                            \"specialization\": \"Artificial Intelligence\"\n                        }\n                    ],\n                    \"enrichment\": [\n                        {\n                            \"major\": \"Business Administration\",\n                            \"campus\": \"UC Berkeley\",\n                            \"endDate\": \"2014-05-15\",\n                            \"startDate\": \"2010-09-01\",\n                            \"specialization\": \"\"\n                        },\n                        {\n                            \"major\": \"Computer Science\",\n                            \"campus\": \"UC Berkeley\",\n                            \"endDate\": \"2010-06-01\",\n                            \"startDate\": \"2008-09-01\",\n                            \"specialization\": \"Artificial Intelligence\"\n                        }\n                    ]\n                },\n                \"expertise\": {\n                    \"default\": [\n                        \"Startup incubation\",\n                        \"Marketing\",\n                        \"Business development\",\n                        \"Product management\",\n                        \"Fundraising\",\n                        \"Public speaking\"\n                    ],\n                    \"enrichment\": [\n                        \"Startup incubation\",\n                        \"Marketing\",\n                        \"Business development\",\n                        \"Product management\",\n                        \"Fundraising\",\n                        \"Public speaking\"\n                    ]\n                },\n                \"languages\": {\n                    \"default\": [\n                        \"English\",\n                        \"Mandarin\",\n                        \"Spanish\"\n                    ],\n                    \"enrichment\": [\n                        \"English\",\n                        \"Mandarin\",\n                        \"Spanish\"\n                    ]\n                },\n                \"seniorityLevel\": {\n                    \"default\": \"Senior\",\n                    \"enrichment\": \"Senior\"\n                },\n                \"workExperiences\": {\n                    \"default\": [\n                        {\n                            \"title\": \"CEO\",\n                            \"company\": \"Aviato\",\n                            \"endDate\": \"2015-12-31\",\n                            \"location\": \"Silicon Valley\",\n                            \"startDate\": \"2012-01-01\"\n                        },\n                        {\n                            \"title\": \"Startup Incubator Creator\",\n                            \"company\": \"Erlich's Startup Incubator\",\n                            \"endDate\": \"Present\",\n                            \"location\": \"Silicon Valley\",\n                            \"startDate\": \"2016-01-01\"\n                        }\n                    ],\n                    \"enrichment\": [\n                        {\n                            \"title\": \"CEO\",\n                            \"company\": \"Aviato\",\n                            \"endDate\": \"2015-12-31\",\n                            \"location\": \"Silicon Valley\",\n                            \"startDate\": \"2012-01-01\"\n                        },\n                        {\n                            \"title\": \"Startup Incubator Creator\",\n                            \"company\": \"Erlich's Startup Incubator\",\n                            \"endDate\": \"Present\",\n                            \"location\": \"Silicon Valley\",\n                            \"startDate\": \"2016-01-01\"\n                        }\n                    ]\n                },\n                \"yearsOfExperience\": {\n                    \"default\": 12,\n                    \"enrichment\": 12\n                },\n                \"programmingLanguages\": {\n                    \"default\": [\n                        \"Python\",\n                        \"JavaScript\",\n                        \"Ruby\",\n                        \"C++\"\n                    ],\n                    \"enrichment\": [\n                        \"Python\",\n                        \"JavaScript\",\n                        \"Ruby\",\n                        \"C++\"\n                    ]\n                }\n            },\n            \"displayName\": \"Erlich Bachman\",\n            \"emails\": [],\n            \"score\": 6,\n            \"joinedAt\": \"2023-10-10T09:08:40.000Z\",\n            \"importHash\": null,\n            \"reach\": {\n                \"total\": 712,\n                \"github\": 1,\n                \"twitter\": 711\n            },\n            \"contributions\": [\n                {\n                    \"id\": 112529472,\n                    \"url\": \"https://github.com/bachman/pied-piper\",\n                    \"topics\": [\n                        \"compression\",\n                        \"data\",\n                        \"middle-out\",\n                        \"Java\"\n                    ],\n                    \"summary\": \"Pied Piper: 10 commits in 1 day\",\n                    \"numberCommits\": 10,\n                    \"lastCommitDate\": \"2023-03-10\",\n                    \"firstCommitDate\": \"2023-03-01\"\n                },\n                {\n                    \"id\": 112529473,\n                    \"url\": \"https://github.com/bachman/aviato\",\n                    \"topics\": [\n                        \"Python\",\n                        \"Django\"\n                    ],\n                    \"summary\": \"Aviato: 5 commits in 1 day\",\n                    \"numberCommits\": 5,\n                    \"lastCommitDate\": \"2023-02-25\",\n                    \"firstCommitDate\": \"2023-02-20\"\n                },\n                {\n                    \"id\": 112529476,\n                    \"url\": \"https://github.com/bachman/erlichbot\",\n                    \"topics\": [\n                        \"Python\",\n                        \"Slack API\"\n                    ],\n                    \"summary\": \"ErlichBot: 2 commits in 1 day\",\n                    \"numberCommits\": 2,\n                    \"lastCommitDate\": \"2023-01-25\",\n                    \"firstCommitDate\": \"2023-01-24\"\n                }\n            ],\n            \"lastEnriched\": \"2023-03-13T10:25:58.079Z\",\n            \"enrichedBy\": [],\n            \"manuallyCreated\": false,\n            \"createdAt\": \"2023-10-28T10:25:58.128Z\",\n            \"updatedAt\": \"2023-10-30T11:04:40.923Z\",\n            \"deletedAt\": null,\n            \"tenantId\": \"952fa7d9-12c7-4236-8a9f-c0c848a73cfe\",\n            \"createdById\": \"b26fdd98-dff4-4c5e-8a3c-0e86bc8a4ddb\",\n            \"updatedById\": \"b26fdd98-dff4-4c5e-8a3c-0e86bc8a4ddb\"\n        }\n    ]\n}"
+						}
+					]
 				},
 				{
 					"name": "Create",
@@ -4511,7 +4638,8 @@
 					]
 				}
 			],
-			"id": "39155acf-0bcb-4a39-8ccf-82bcf942c41b"
+			"id": "39155acf-0bcb-4a39-8ccf-82bcf942c41b",
+			"description": "The API for tags will allow you to find, query, and add new tags."
 		},
 		{
 			"name": "Task",
@@ -5857,7 +5985,8 @@
 					]
 				}
 			],
-			"id": "41d67d5a-638e-4b9a-b41b-92646f2c373b"
+			"id": "41d67d5a-638e-4b9a-b41b-92646f2c373b",
+			"description": "The API for tasks will allow you to find, query, and add new tasks."
 		},
 		{
 			"name": "Note",
@@ -6173,7 +6302,142 @@
 						},
 						"url": "{{host}}/api/tenant/{{tenantId}}/note/{{exampleNoteId}}"
 					},
-					"response": []
+					"response": [
+						{
+							"id": "3fc5ad61-66d9-4c9f-9ff8-b0c07baa8594",
+							"name": "Find by ID",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n    \"data\": {\n        \"tenant\": {\n            \"name\": \"Dev Founders\",\n            \"url\": \"dev-founders\"\n        },\n        \"inviteLinks\": {},\n        \"website\": \"https://www.basisset.com/dev-founders\",\n        \"customUrl\": \"devfounders.crowd.dev\",\n        \"theme\": {\n            \"primary\": \"#E94F2E\",\n            \"secondary\": \"#140505\",\n            \"text\": \"#140505\",\n            \"textSecondary\": \"#7F7F7F\",\n            \"textCta\": \"#fff\",\n            \"bg\": \"#F8F8F8\",\n            \"bgHighlight\": \"#fff\",\n            \"bgNav\": \"#140505\"\n        },\n        \"autoPublish\": {\n            \"status\": \"disabled\",\n            \"channelsByPlatform\": {}\n        }\n    }\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": "{{host}}/api/tenant/{{tenantId}}/note/{{exampleNoteId}}"
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Date",
+									"value": "Wed, 01 Nov 2023 14:04:21 GMT"
+								},
+								{
+									"key": "Content-Type",
+									"value": "application/json; charset=utf-8"
+								},
+								{
+									"key": "Transfer-Encoding",
+									"value": "chunked"
+								},
+								{
+									"key": "Connection",
+									"value": "keep-alive"
+								},
+								{
+									"key": "vary",
+									"value": "Origin"
+								},
+								{
+									"key": "x-request-id",
+									"value": "ab2b25bc6e84901ff5a1082736df51c9"
+								},
+								{
+									"key": "x-ratelimit-limit",
+									"value": "200"
+								},
+								{
+									"key": "x-ratelimit-remaining",
+									"value": "197"
+								},
+								{
+									"key": "x-ratelimit-reset",
+									"value": "1698847465"
+								},
+								{
+									"key": "content-security-policy",
+									"value": "default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
+								},
+								{
+									"key": "x-dns-prefetch-control",
+									"value": "off"
+								},
+								{
+									"key": "expect-ct",
+									"value": "max-age=0"
+								},
+								{
+									"key": "x-frame-options",
+									"value": "SAMEORIGIN"
+								},
+								{
+									"key": "strict-transport-security",
+									"value": "max-age=15724800; includeSubDomains"
+								},
+								{
+									"key": "x-download-options",
+									"value": "noopen"
+								},
+								{
+									"key": "x-content-type-options",
+									"value": "nosniff"
+								},
+								{
+									"key": "x-permitted-cross-domain-policies",
+									"value": "none"
+								},
+								{
+									"key": "referrer-policy",
+									"value": "no-referrer"
+								},
+								{
+									"key": "x-xss-protection",
+									"value": "0"
+								},
+								{
+									"key": "etag",
+									"value": "W/\"1e8-02Y0IBzFwg9REQoDj8JGAx7mKbY\""
+								},
+								{
+									"key": "CF-Cache-Status",
+									"value": "DYNAMIC"
+								},
+								{
+									"key": "Report-To",
+									"value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=KnRrv%2B7d4XOZ%2F7wvlfWFXj6hAdXW%2FPX1%2FoZWh3ZVo3CVKgMbmMSI3H2Cb50KjvEpIztj4Qq91sGDGDL9OJ75mqA6ip7vcVbnJZaDsHCz7RWyDWNsGKlAAXmeSy2WnYoa\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+								},
+								{
+									"key": "NEL",
+									"value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+								},
+								{
+									"key": "Server",
+									"value": "cloudflare"
+								},
+								{
+									"key": "CF-RAY",
+									"value": "81f4afb929b32f89-MAD"
+								},
+								{
+									"key": "Content-Encoding",
+									"value": "br"
+								},
+								{
+									"key": "alt-svc",
+									"value": "h3=\":443\"; ma=86400"
+								}
+							],
+							"cookie": [],
+							"responseTime": null,
+							"body": "{\n    \"id\": \"593a11e5-ef6f-4f85-a5a1-1b8d651a226d\",\n    \"body\": \"We had a good call with him related to a sales deal\",\n    \"importHash\": null,\n    \"createdAt\": \"2023-11-01T13:42:21.605Z\",\n    \"updatedAt\": \"2023-10-30T13:44:41.473Z\",\n    \"deletedAt\": null,\n    \"tenantId\": \"952fa7d9-12c7-4236-8a9f-c0c848a73cfe\",\n    \"createdById\": \"b26fdd98-dff4-4c5e-8a3c-0e86bc8a4ddb\",\n    \"updatedById\": \"b26fdd98-dff4-4c5e-8a3c-0e86bc8a4ddb\",\n    \"members\": [],\n    \"createdBy\": {\n        \"id\": \"b26fdd98-dff4-4c5e-8a3c-0e86bc8a4ddb\",\n        \"fullName\": \"Joan Reyero\",\n        \"avatarUrl\": null\n    }\n}"
+						}
+					]
 				},
 				{
 					"name": "Create",
@@ -6666,7 +6930,8 @@
 					]
 				}
 			],
-			"id": "5dde66f8-0749-4e85-a9c3-0efbf4b81a28"
+			"id": "5dde66f8-0749-4e85-a9c3-0efbf4b81a28",
+			"description": "The API for notes will allow you to find, query, and add new notes."
 		}
 	],
 	"auth": {
