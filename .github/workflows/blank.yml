@@ -1,0 +1,29 @@
+name: Update documention
+
+on:
+  push: # This is triggered on a push event
+    branches:
+      - main
+    paths:
+      - 'postman/**' # The '**' is a wildcard that will match any changes in the postman directory and its subdirectories
+
+  workflow_dispatch: # This allows manual triggering of the action from the GitHub UI
+
+jobs:
+  update-doc:
+    name: update API docs
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+      - name: process documentation on server
+        uses: Theneo-Inc/api-documentation@1.1.1
+        with:
+          PATH: "postman/collection.json"
+          PROJECT_KEY: api
+          SECRET: a5e90a21-4b0a-4321-9de2-2e5f303b9aa0
