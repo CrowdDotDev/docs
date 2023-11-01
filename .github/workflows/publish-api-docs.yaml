@@ -1,4 +1,4 @@
-name: Update documention
+name: Update API documention
 
 on:
   push: # This is triggered on a push event
