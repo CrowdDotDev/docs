@@ -366,7 +366,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"filter\": {\n        \n    },\n    \"limit\": 20,\n    \"offset\": 0\n}",
+							"raw": "{\n    \"filter\": {\n        \"and\": [\n            {\n                \"isBot\": {\n                    \"not\": true\n                }\n            },\n            {\n                \"isTeamMember\": {\n                    \"not\": true\n                }\n            },\n            {\n                \"isOrganization\": {\n                    \"not\": true\n                }\n            },\n            {\n                \"and\": [\n                    {\n                        \"activityCount\": {\n                            \"gt\": 10\n                        }\n                    },\n                    {\n                        \"activeOn\": {\n                            \"contains\": [\n                                \"github\"\n                            ]\n                        }\n                    }\n                ]\n            }\n        ]\n    },\n    \"orderBy\": \"lastActive_DESC\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
