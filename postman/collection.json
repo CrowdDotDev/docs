@@ -6944,7 +6944,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "4bf1350b-d37a-420e-810e-bd55df72b9bb",
+				"id": "e7dd6ba6-7702-4935-8fc3-bba7179c6155",
 				"type": "text/javascript",
 				"exec": [
 					"// Setting the \"Signature\" collection variable to \"encryption\"",
@@ -6959,7 +6959,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "82c3af5c-0b99-4181-965b-fadf5f8896f4",
+				"id": "aa71d9fb-d1fd-4253-b31c-a3c7b4c58f47",
 				"type": "text/javascript",
 				"exec": [
 					""
