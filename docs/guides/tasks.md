@@ -1,6 +1,6 @@
 # ✅ Tasks
 
-crowd.dev allows you to collaborate with your team or simply schedule and track your own to-do's.
+In your home page you can create and manage tasks. You can add tasks for yourself or create and assign other team members tasks.&#x20;
 
 <figure><img src="../.gitbook/assets/docs-tasks.png" alt=""><figcaption></figcaption></figure>
 
@@ -13,7 +13,3 @@ You can mark a task as completed by checking the circle next to the task name or
 ## Completed tasks
 
 At the bottom of the page you will see your and your teams completed tasks. If you would like to remove these from your view simply click the three bottoms on the right to archive or permanently delete them.
-
-## Suggestions
-
-* **Task suggestions**: When you first set up crowd.dev or you have no open tasks you may see suggestions of community tasks to create new tasks from. Click on "Add task" and fill out the name, description, assignees, contacts, and do date according to your needs.
