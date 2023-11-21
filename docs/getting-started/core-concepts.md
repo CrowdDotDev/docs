@@ -16,14 +16,15 @@ Organizations represent the workplaces of your contacts. They are currently disp
 
 Activities are everything that is being done by your contacts and organizations. They are displayed in the activities feed or contact profiles and include posts, comments, replies, retweets, reactions, and more. Basically, every event that is monitored from any connected data source is considered an activity. There are pre-defined activity types for all native integrations, but you can also add custom activity types. To learn more, visit the [Activities section.](../guides/activities/)
 
+## Attributes (Default & Custom)
+
+Attributes are data fields that you can add to contacts and organizations. We have default attributes that are already part of each contact or organization profile, for example, "Engagement level". We also allow you to add your own custom attributes specific to your organization. They are a powerful tool for storing and exploring more data points and segmenting your data. You can add attributes through the contact's or organization's profile or our API. To learn more, visit the [Contact Attributes](../guides/contacts/contact-attributes-and-identities.md) or [Organization Attributes section](../guides/organizations/organization-attributes-and-identities.md).&#x20;
+
 ## Conversations
 
 Conversations are a collection of activities that belong to each other. They are displayed in the conversations section and include chat threads/reply chains and forum posts. Conversations can tell you which topics are causing the most engagement in your community.&#x20;
 
 ## Tags
 
-Tags are custom labels that help you to organize and filter your data. You can apply tags to link them together if you have a specific segment of contacts you'd like to focus on (e.g. "conference attendees 2022").
+Tags are custom labels that help you to organize and filter your data. Tags may be relevant across a certain subset of contacts and/or organizations. For example, you may create a Tag called "2021 SWAG winner" and tag the contacts you have sent company SWAG to. You can then filter for these tags later on.&#x20;
 
-## Attributes
-
-Attributes are custom data fields that you can add to contacts and organizations. They are a powerful tool for storing and exploring more data points. You should use them whenever a single tag doesn't do the job. You can add attributes through the contact's or organization's profile or our API.
