@@ -1,5 +1,3 @@
-# 🔌 API docs
+# 🔌 API Docs
 
-We are working on our new API docs. For now, you can refer to [our previous documentation](https://legacydocs.crowd.dev/reference/getting-started-with-crowd-dev-api).
-
-{% embed url="https://legacydocs.crowd.dev/reference/getting-started-with-crowd-dev-api" %}
+You can find our API docs at [https://api.crowd.dev](https://api.crowd.dev).
