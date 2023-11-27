@@ -1,5 +1,5 @@
 ---
-description: Just some of the ways you can use crowd.dev
+description: How go-to-market teams commonly use crowd.dev to grow
 ---
 
 # 🗺 Explore popular use cases
@@ -8,16 +8,25 @@ crowd.dev helps you identify and act on signals in your developer data. Combine 
 
 To get started with crowd.dev, try a few of our most popular use cases:
 
+* [Identify key contacts in your developer data](explore-popular-use-cases.md#identify-key-contacts-in-your-developer-data)
 * [Spot & contact influential contacts ](explore-popular-use-cases.md#spot-and-contact-influential-members)
 * [Re-engage slipping away contacts](explore-popular-use-cases.md#re-engage-slipping-away-members)
 * [Identify sales opportunities](explore-popular-use-cases.md#identify-sales-opportunities)
 * [Conduct product research](explore-popular-use-cases.md#conduct-product-research)
-* [Get notified about key community activities](explore-popular-use-cases.md#get-notified-about-key-community-activities)
+* [Get notified about key activities](explore-popular-use-cases.md#get-notified-about-key-community-activities)
 * [Find relevant content to engage with](explore-popular-use-cases.md#find-relevant-content-to-engage-with)
 * [Manage your daily community to-do’s](explore-popular-use-cases.md#manage-your-daily-community-to-dos)
 * [Measure community impact](explore-popular-use-cases.md#measure-community-impact)
 
 ***
+
+### Identify key contacts in your developer data
+
+Navigate to the contacts page by selecting “Contacts” on the left sidebar. This page gives us a full view of all the contacts in your ecosystem. On this page, you can toggle the top menu to see different segments of contacts, like “new and active” or “most engaged”. Stay on the “All contacts” section and combine filters to get a clear picture of active senior developers in your ecosystem.
+
+To do this, click “Filters” in the top right corner.  Select “Seniority Level”, then click on the filter and enter the keyword “senior”. Now you have a view of all senior developers, but we want to see which ones have actively engaged by forking your GitHub repo. To do this click on “Filters” in the top right corner again, select “Activity type”, and click on “Forked”. Now you have a full view of all the senior developers in your ecosystem who have also forked your Github repo.&#x20;
+
+We can find the most engaged contacts relative to other contacts by sorting by “Engagement Level”. If you click on this contact you can view their profile. Our enrichment populates the profile with up to 20 developer attributes. If they are a good fit, you can tag them as a key contacts and use this data and history to do personalized outreach.&#x20;
 
 ### Spot & contact influential contacts
 
@@ -51,7 +60,7 @@ Your community is a great place to do product discovery and learn what people ha
 
 <figure><img src="../.gitbook/assets/docs-activities-research.png" alt=""><figcaption></figcaption></figure>
 
-### Get notified about key community activities
+### Get notified about key activities
 
 To get notified about key activities in your community, navigate to the [Automations tab](https://app.crowd.dev/settings?activeTab=automations) in the settings. Here, you can create webhooks for every activity that happens in your community. Follow the following steps:
 
