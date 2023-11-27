@@ -15,7 +15,7 @@ To get started with crowd.dev, try a few of our most popular use cases:
 * [Conduct product research](explore-popular-use-cases.md#conduct-product-research)
 * [Get notified about key activities](explore-popular-use-cases.md#get-notified-about-key-community-activities)
 * [Find relevant content to engage with](explore-popular-use-cases.md#find-relevant-content-to-engage-with)
-* [Manage your daily community to-do’s](explore-popular-use-cases.md#manage-your-daily-community-to-dos)
+* [Manage your t](explore-popular-use-cases.md#manage-your-daily-community-to-dos)[asks](explore-popular-use-cases.md#manage-your-tasks)
 * [Measure community impact](explore-popular-use-cases.md#measure-community-impact)
 
 ***
@@ -40,9 +40,9 @@ _Hey (name of contact),_
 
 _I am (your name), the (your role) of (community name). We’ve noticed you are one of our most involved community members, so we wanted to thank you for your contributions to our community. We really appreciate it! Is there anything I can do to help you?_
 
-### Re-engage slipping away community contacts
+### Re-engage slipping away contacts
 
-To re-engage contacts that are slipping away and engaging less with your product, navigate to the Contacts page and click on the[ Slipping away view.](https://app.crowd.dev/contacts?search=\&relation=and\&order.prop=lastActive\&order.order=descending\&settings.bot=exclude\&settings.teamMember=exclude\&settings.organization=exclude\&engagementLevel.value=fan,ultra\&engagementLevel.include=true\&lastActivityDate.operator=lt\&lastActivityDate.value=2023-09-07) This will show you all contacts that have a high engagement level (between 7-10) but did not do any activities in your community in the last 14 days. We recommend re-engaging those contacts, for example, by sending them an email or a Discord message.
+To re-engage contacts that are slipping away and engaging less with your product, navigate to the Contacts page and click on the[ Slipping away view.](https://app.crowd.dev/contacts?search=\&relation=and\&order.prop=lastActive\&order.order=descending\&settings.bot=exclude\&settings.teamMember=exclude\&settings.organization=exclude\&engagementLevel.value=fan,ultra\&engagementLevel.include=true\&lastActivityDate.operator=lt\&lastActivityDate.value=2023-09-07) This will show you all the contacts with a high engagement level (between 7-10) but have not completed any activities in your community in the last 14 days. We recommend re-engaging those contacts, for example, by sending them an email or a Discord message.
 
 ### Identify sales opportunities
 
@@ -78,9 +78,9 @@ Our Eagle Eye app (in our Scale plan) allows you to monitor different community 
 
 Navigate to the [Eagle Eye app](https://app.crowd.dev/eagle-eye), type in a few keywords that are relevant to your niche, open the post by clicking on it, and leave a thoughtful comment. After that, you can mark the post as “engaged” to keep track of the posts that you engaged with through Eagle Eye.&#x20;
 
-### Manage your daily community to-do’s
+### Manage your task’s
 
-To manage your daily community to-do’s you can leverage the [Tasks module](https://app.crowd.dev/task). Here you can create and manage tasks, relate them to contacts of your community, and assign them to you or your colleagues. Typical tasks we use are, for example, “reach out to this contact regarding ambassador program” or “follow up with contact regarding support request on Discord”.
+To create tasks, you can leverage the [Tasks module](https://app.crowd.dev/task). Here you can create and manage tasks, relate them to contacts, and assign them to you or your teammates. Typical tasks we use are, for example, “reach out to this contact about our enterprise solution” or “follow up with this contact regarding their support request on Discord”.
 
 You can also create tasks in a contact's profile view. You only need to switch to the “Tasks” tab and click “Add task”. This will open the same window for task creation.
 
