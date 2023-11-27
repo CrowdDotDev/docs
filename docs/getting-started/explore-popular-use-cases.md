@@ -9,7 +9,7 @@ crowd.dev helps you identify and act on signals in your developer data. Combine 
 To get started with crowd.dev, try a few of our most popular use cases:
 
 * [Identify key contacts in your developer data](explore-popular-use-cases.md#identify-key-contacts-in-your-developer-data)
-* [Spot & contact influential contacts ](explore-popular-use-cases.md#spot-and-contact-influential-members)
+* [Find and nurture influential contacts](explore-popular-use-cases.md#find-and-nurture-influential-contacts)
 * [Re-engage slipping away contacts](explore-popular-use-cases.md#re-engage-slipping-away-members)
 * [Identify sales opportunities](explore-popular-use-cases.md#identify-sales-opportunities)
 * [Conduct product research](explore-popular-use-cases.md#conduct-product-research)
@@ -28,9 +28,9 @@ To do this, click “Filters” in the top right corner.  Select “Seniority Le
 
 We can find the most engaged contacts relative to other contacts by sorting by “Engagement Level”. If you click on this contact you can view their profile. Our enrichment populates the profile with up to 20 developer attributes. If they are a good fit, you can tag them as a key contacts and use this data and history to do personalized outreach.&#x20;
 
-### Spot & contact influential contacts
+### Find and nurture influential contacts
 
-To spot and contact influential contacts in your developer community, navigate to the Contacts page and click on the[ Influential view](https://app.crowd.dev/contacts?search=\&relation=and\&order.prop=lastActive\&order.order=descending\&settings.bot=exclude\&settings.teamMember=exclude\&settings.organization=exclude\&reach.operator=gte\&reach.value=500). This will show you all contacts that have more than 500 followers (called “Reach”) on their social profiles combined across the platforms you connected (e.g., GitHub). By default, they are sorted by Reach, but you could also go on and apply filters to e.g., only see influential contacts that joined in the last 30 days or only those that have a high engagement level.&#x20;
+Navigate to the Contacts page and click on the[ Influential view](https://app.crowd.dev/contacts?search=\&relation=and\&order.prop=lastActive\&order.order=descending\&settings.bot=exclude\&settings.teamMember=exclude\&settings.organization=exclude\&reach.operator=gte\&reach.value=500). This will show you all contacts that have more than 500 followers (called “Reach”) on their social profiles combined across the platforms you connected (e.g., GitHub). By default, they are sorted by Reach, but you could also go on and apply filters to e.g., only see influential contacts that joined in the last 30 days or only those that have a high engagement level.&#x20;
 
 Once you have identified contacts with high reach, you can try engaging them with a message. To do so, click on one of their identities (e.g., Twitter or Email) and draft a private message. We recommend keeping it short and sweet to increase the likelihood of a response.
 
@@ -38,7 +38,7 @@ Here is an example:
 
 _Hey (name of contact),_
 
-_I am (your name), the (your role) of (community name). We’ve noticed you are one of our most involved community members, so we wanted to thank you for your contributions to our community. We really appreciate it! Is there anything I can do to help you?_
+_I am (your name), the (your role) of (community name). We’ve noticed you are one of our most involved community members, so we wanted to thank you for contributing to our community. We really appreciate it! Is there anything I can do to help you?_
 
 ### Re-engage slipping away contacts
 
