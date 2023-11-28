@@ -4,7 +4,7 @@ description: A short intro to what crowd.dev is and does
 
 # 👋 What is crowd.dev?
 
-crowd.dev unifies all touchpoints developers have with your company or brand to help go-to-market teams identify high-intent accounts.&#x20;
+crowd.dev unifies all touchpoints developers have with your company or brand to help your go-to-market teams identify high-intent accounts.&#x20;
 
 crowd.dev captures touchpoints across your community (e.g. GitHub or Reddit), product (open source or SaaS), or commercial channels (e.g. HubSpot). The data is pulled, cleaned, profiles are matched across platforms, and enriched with 3rd party data.&#x20;
 
