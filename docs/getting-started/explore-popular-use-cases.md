@@ -8,6 +8,9 @@ crowd.dev helps you identify and act on signals in your developer data. Combine 
 
 To get started with crowd.dev, try a few of our most popular use cases:
 
+* [Find high-intent accounts in your developer data](explore-popular-use-cases.md#find-high-intent-accounts-in-your-developer-data)
+* [Sync data with Hubspot](explore-popular-use-cases.md#sync-data-with-hubspot)
+* [Send notifications to Slack](explore-popular-use-cases.md#send-notifications-to-slack)
 * [Identify key contacts in your developer data](explore-popular-use-cases.md#identify-key-contacts-in-your-developer-data)
 * [Find and nurture influential contacts](explore-popular-use-cases.md#find-and-nurture-influential-contacts)
 * [Re-engage slipping away contacts](explore-popular-use-cases.md#re-engage-slipping-away-members)
@@ -20,6 +23,26 @@ To get started with crowd.dev, try a few of our most popular use cases:
 
 ***
 
+### Find high-intent accounts in your developer data
+
+Finding high-intent accounts in your developer data is the most commonly used use case. There is a variety of ways to go about this. One way is to combine filters on the "Organization" page&#x20;
+
+Navigate to “Organizations” in the left-hand menu. This page gives us a full view of all the organizations in our ecosystem. To find high-intent accounts, “Filter” by “# of contacts” is “equal or greater than” and input 5. Then select "Filter" again and select “# of activities” is “equal or greater than” and enter 50. Now we can see all of the organizations that have a lot of employees engaged in our community.
+
+This combination of filters will show organizations with more than 5 contacts that have collectively taken over 50 activities. Giving us insight into the larger active organizations in our ecosystem.
+
+### Sync data with Hubspot
+
+With our Hubspot integration, you can sync crowd.dev data with Hubspot and vice versa. This gives your go-to-market team a full view of your user journey and lets them receive relevant purchase intent signals easily.
+
+To connect Hubspot with crowd.dev, navigate to the "Integrations" page, click "Connect" and follow the steps. For more detailed information, you can view the Hubspot integration doc [here](https://docs.crowd.dev/docs/getting-started/integrations/hubspot-integration).
+
+### Send notifications to Slack
+
+Slack notifications allow you to receive notifications in a selected Slack channel. For example, you can configure it to receive a message whenever a new contact is detected. Pick a trigger, set a filter, and push it live.
+
+To connect Slack with crowd.dev, navigate to the "Automations" page, click "Add automation" and follow the steps. For more detailed information, you can view the Slack integration doc [here](https://docs.crowd.dev/docs/guides/automations/slack-notifications).
+
 ### Identify key contacts in your developer data
 
 Navigate to the contacts page by selecting “Contacts” on the left sidebar. This page gives us a full view of all the contacts in your ecosystem. On this page, you can toggle the top menu to see different segments of contacts, like “new and active” or “most engaged”. Stay on the “All contacts” section and combine filters to get a clear picture of active senior developers in your ecosystem.
@@ -27,6 +50,8 @@ Navigate to the contacts page by selecting “Contacts” on the left sidebar. T
 To do this, click “Filters” in the top right corner.  Select “Seniority Level”, then click on the filter and enter the keyword “senior”. Now you have a view of all senior developers, but we want to see which ones have actively engaged by forking your GitHub repo. To do this click on “Filters” in the top right corner again, select “Activity type”, and click on “Forked”. Now you have a full view of all the senior developers in your ecosystem who have also forked your Github repo.&#x20;
 
 We can find the most engaged contacts relative to other contacts by sorting by “Engagement Level”. If you click on this contact you can view their profile. Our enrichment populates the profile with up to 20 developer attributes. If they are a good fit, you can tag them as a key contacts and use this data and history to do personalized outreach.&#x20;
+
+<figure><img src="../.gitbook/assets/docs-contact-profile.png" alt=""><figcaption></figcaption></figure>
 
 ### Find and nurture influential contacts
 
@@ -43,16 +68,6 @@ _I am (your name), the (your role) of (community name). We’ve noticed you are 
 ### Re-engage slipping away contacts
 
 To re-engage contacts that are slipping away and engaging less with your product, navigate to the Contacts page and click on the[ Slipping away view.](https://app.crowd.dev/contacts?search=\&relation=and\&order.prop=lastActive\&order.order=descending\&settings.bot=exclude\&settings.teamMember=exclude\&settings.organization=exclude\&engagementLevel.value=fan,ultra\&engagementLevel.include=true\&lastActivityDate.operator=lt\&lastActivityDate.value=2023-09-07) This will show you all the contacts with a high engagement level (between 7-10) but have not completed any activities in your community in the last 14 days. We recommend re-engaging those contacts, for example, by sending them an email or a Discord message.
-
-### Identify sales opportunities
-
-Identifying sales opportunities in your contacts allows you to engage directly with your potential customers and gather valuable insights and feedback. While we don't recommend that you conduct regular sales motions in your community, it can be a good starting point for a conversation.
-
-The best place to identify sales opportunities in crowd.dev is in the [Organizations module](https://app.crowd.dev/organizations). Here, you can discover all the organizations that your contacts are associated with.
-
-To spot very active organizations, you can, for example, use the [Most contacts view](https://app.crowd.dev/organizations?search=\&relation=and\&order.prop=memberCount\&order.order=descending\&settings.teamOrganization=exclude), which sorts all organizations by the number of contacts they have in your community. Each organization has a dedicated profile view where you can take a look at all the data we collected.&#x20;
-
-<figure><img src="../.gitbook/assets/docs-contact-profile.png" alt=""><figcaption></figcaption></figure>
 
 ### Conduct product research
 
