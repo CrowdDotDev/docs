@@ -4,22 +4,21 @@ description: How go-to-market teams commonly use crowd.dev to grow
 
 # 🗺 Explore popular use cases
 
-crowd.dev helps you identify and act on signals in your developer data. Combine data from GitHub, LinkedIn, your product, and many other sources to understand which developers and companies engage with your product and brand. You can sync these insights with your CRM to prioritize and nurture the right accounts and build pipeline.
+crowd.dev helps you unify your developer data, surface insights in that data, and enable your go-to-market team to act on those insights.&#x20;
 
 To get started with crowd.dev, try a few of our most popular use cases:
 
 * [Find high-intent accounts in your developer data](explore-popular-use-cases.md#find-high-intent-accounts-in-your-developer-data)
 * [Sync data with Hubspot](explore-popular-use-cases.md#sync-data-with-hubspot)
 * [Send notifications to Slack](explore-popular-use-cases.md#send-notifications-to-slack)
+* [Send notifications with Webhooks](explore-popular-use-cases.md#send-notifications-with-webhooks)
 * [Identify key contacts in your developer data](explore-popular-use-cases.md#identify-key-contacts-in-your-developer-data)
 * [Find and nurture influential contacts](explore-popular-use-cases.md#find-and-nurture-influential-contacts)
 * [Re-engage slipping away contacts](explore-popular-use-cases.md#re-engage-slipping-away-members)
 * [Identify sales opportunities](explore-popular-use-cases.md#identify-sales-opportunities)
 * [Conduct product research](explore-popular-use-cases.md#conduct-product-research)
-* [Get notified about key activities](explore-popular-use-cases.md#get-notified-about-key-community-activities)
 * [Find relevant content to engage with](explore-popular-use-cases.md#find-relevant-content-to-engage-with)
-* [Manage your t](explore-popular-use-cases.md#manage-your-daily-community-to-dos)[asks](explore-popular-use-cases.md#manage-your-tasks)
-* [Measure community impact](explore-popular-use-cases.md#measure-community-impact)
+* [View live metrics and track growth](explore-popular-use-cases.md#view-live-metrics-and-track-growth)
 
 ***
 
@@ -27,7 +26,7 @@ To get started with crowd.dev, try a few of our most popular use cases:
 
 Finding high-intent accounts in your developer data is the most commonly used use case. There is a variety of ways to go about this. One way is to combine filters on the "Organization" page&#x20;
 
-Navigate to “Organizations” in the left-hand menu. This page gives us a full view of all the organizations in our ecosystem. To find high-intent accounts, “Filter” by “# of contacts” is “equal or greater than” and input 5. Then select "Filter" again and select “# of activities” is “equal or greater than” and enter 50. Now we can see all of the organizations that have a lot of employees engaged in our community.
+Navigate to “Organizations” in the left-hand menu. This page gives us a full view of all the organizations in our ecosystem. To find high-intent accounts, “Filter” by “# of contacts” is “equal or greater than” and input 5. Then select "Filter" again and select “# of activities” is “equal or greater than” and enter 50. Now you can see all of the organizations that have a lot of employees engaged in your community. Lastly, you can filter to only include recent activities. To do this, click “+ Add filter” and select “Last activity date”, then click the drop-down arrow and select “is after”. Enter the date you want to see activity from and click “Apply”. You can leave the sorting as is and click “Add view”.
 
 This combination of filters will show organizations with more than 5 contacts that have collectively taken over 50 activities. Giving us insight into the larger active organizations in our ecosystem.
 
@@ -43,13 +42,25 @@ Slack notifications allow you to receive notifications in a selected Slack chann
 
 To connect Slack with crowd.dev, navigate to the "Automations" page, click "Add automation" and follow the steps. For more detailed information, you can view the Slack integration doc [here](https://docs.crowd.dev/docs/guides/automations/slack-notifications).
 
+### Send notifications with Webhooks
+
+To get notified about key activities in your community, navigate to the [Automations tab](https://app.crowd.dev/settings?activeTab=automations) in the settings. Here, you can create webhooks for every activity that happens in your community. Follow the following steps:
+
+1. Click “Add webhook”.
+2. Choose the trigger “New activity happened in your community”
+3. Refine the activities that trigger the webhook by applying filters for platform, activity type, or keywords.
+4. Define a Webhook URL where the webhook should be sent, e.g., from an automation tool like [Make](https://make.com/).
+5. Go to Make and create a workflow with a webhook as a trigger point. You can now use the webhook payload to send a notification to Slack or an email to your team.
+
+If you need help with setting up webhooks, send an email to [help@crowd.dev](mailto:help@crowd.dev).
+
 ### Identify key contacts in your developer data
 
 Navigate to the contacts page by selecting “Contacts” on the left sidebar. This page gives us a full view of all the contacts in your ecosystem. On this page, you can toggle the top menu to see different segments of contacts, like “new and active” or “most engaged”. Stay on the “All contacts” section and combine filters to get a clear picture of active senior developers in your ecosystem.
 
 To do this, click “Filters” in the top right corner.  Select “Seniority Level”, then click on the filter and enter the keyword “senior”. Now you have a view of all senior developers, but we want to see which ones have actively engaged by forking your GitHub repo. To do this click on “Filters” in the top right corner again, select “Activity type”, and click on “Forked”. Now you have a full view of all the senior developers in your ecosystem who have also forked your Github repo.&#x20;
 
-We can find the most engaged contacts relative to other contacts by sorting by “Engagement Level”. If you click on this contact you can view their profile. Our enrichment populates the profile with up to 20 developer attributes. If they are a good fit, you can tag them as a key contacts and use this data and history to do personalized outreach.&#x20;
+We can find the most engaged contacts relative to other contacts by sorting by “Engagement Level”. If you click on this contact you can view their profile. Our enrichment populates the profile with up to 20 developer attributes. If they are a good fit, you can tag them as a key contact and use this data and history to do personalized outreach.&#x20;
 
 <figure><img src="../.gitbook/assets/docs-contact-profile.png" alt=""><figcaption></figcaption></figure>
 
@@ -71,25 +82,13 @@ To re-engage contacts that are slipping away and engaging less with your product
 
 ### Conduct product research
 
-Your community is a great place to do product discovery and learn what people have to say, for example, about certain problems or features you are providing. crowd.dev is collecting all your contacts’ feedback across all platforms and making them easily searchable for you. To conduct product research, navigate to the [Activities module](https://app.crowd.dev/activities) and type in a keyword. You can then refine the search results by applying different filters (e.g., sentiment or platform). Here is an example where I looked for activities regarding our “twitter integration” with a negative or neutral sentiment:&#x20;
+crowd.dev is a great tool for product discovery, you can learn what people have to say, for example, about certain problems or features you are providing. crowd.dev collects all of your contacts’ feedback, making them easily searchable for you. To conduct product research, navigate to the [Activities module](https://app.crowd.dev/activities) and type in a keyword. You can then refine the search results by applying different filters (e.g., sentiment or platform). Here is an example that shows activities for our “twitter integration” with a negative or neutral sentiment:&#x20;
 
 <figure><img src="../.gitbook/assets/docs-activities-research.png" alt=""><figcaption></figcaption></figure>
 
-### Get notified about key activities
-
-To get notified about key activities in your community, navigate to the [Automations tab](https://app.crowd.dev/settings?activeTab=automations) in the settings. Here, you can create webhooks for every activity that happens in your community. Follow the following steps:
-
-1. Click “Add webhook”.
-2. Choose the trigger “New activity happened in your community”
-3. Refine the activities that trigger the webhook by applying filters for platform, activity type, or keywords.
-4. Define a Webhook URL where the webhook should be sent, e.g., from an automation tool like [Make](https://make.com/).
-5. Go to Make and create a workflow with a webhook as a trigger point. You can now use the webhook payload to send a notification to Slack or an email to your team.
-
-If you need help with setting up webhooks, send an email to [help@crowd.dev](mailto:help@crowd.dev).
-
 ### Find relevant content to engage with
 
-Our Eagle Eye app (in our Scale plan) allows you to monitor different community platforms to find relevant content to engage with, ultimately helping you to gain developers’ mindshare and grow your community.
+Our Eagle Eye app allows you to monitor different developer platforms to find relevant content to engage with, ultimately helping you to gain developers’ mindshare and grow your community.
 
 Navigate to the [Eagle Eye app](https://app.crowd.dev/eagle-eye), type in a few keywords that are relevant to your niche, open the post by clicking on it, and leave a thoughtful comment. After that, you can mark the post as “engaged” to keep track of the posts that you engaged with through Eagle Eye.&#x20;
 
@@ -101,9 +100,9 @@ You can also create tasks in a contact's profile view. You only need to switch t
 
 Learn more about Tasks [here](https://docs.crowd.dev/docs/tasks).
 
-### Measure community impact
+### View live metrics and track growth
 
-Measuring impact is important to prove the business value of your community. Our [reporting module](https://app.crowd.dev/reports) helps you to easily tie different metrics together and share them with your colleagues.
+Our [reporting module](https://app.crowd.dev/reports) helps you easily tie different metrics together and share them with your team.
 
 By default, you can find an example report in your workspace. Duplicate and modify it to tailor the report to your specific needs. If you want to share a report, publish it and copy and paste the public URL.
 
