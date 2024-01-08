@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏠 Home](http://127.0.0.1:5000/o/5adXkyvCwhufPOE1iqxE/s/e9xgQyzZ2aRPuQwkXEqi/)
+* [🏠 Home](https://app.gitbook.com/o/5adXkyvCwhufPOE1iqxE/s/e9xgQyzZ2aRPuQwkXEqi/)
 
 ## Getting started
 
@@ -55,6 +55,10 @@
 
 * [👨💻 Local Development](technical-docs/local-development.md)
 * [🚀 Deployment](technical-docs/deployment.md)
+* [🦍 Service framework](technical-docs/service-framework/README.md)
+  * [Consumer walkthrough](technical-docs/service-framework/consumer-walkthrough.md)
+  * [Worker walkthrough](technical-docs/service-framework/worker-walkthrough.md)
+  * [Working with Temporal](technical-docs/service-framework/working-with-temporal.md)
 * [🔌 Integration framework (WIP)](technical-docs/integration-framework.md)
 * [🎯 Observability](technical-docs/observability.md)
 * [🌐 Kubernetes](technical-docs/kubernetes/README.md)

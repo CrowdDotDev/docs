@@ -1,5 +1,5 @@
 ---
-description: A short intro to what crowd.dev is and does
+description: A short intro to what crowd.dev is
 ---
 
 # 👋 What is crowd.dev?
