@@ -55,6 +55,7 @@
 
 * [🤘 Self-hosting](technical-docs/self-hosting/README.md)
   * [book a call.](https://cal.com/reyero/30?date=2024-01-29\&month=2024-01)
+  * [Self-hosted integrations](technical-docs/self-hosting/self-hosted-integrations.md)
 * [👨💻 Local Development](technical-docs/local-development.md)
 * [🚀 Deployment](technical-docs/deployment.md)
 * [🦍 Service framework](technical-docs/service-framework/README.md)
@@ -69,7 +70,6 @@
   * [Our Kubernetes Configuration](technical-docs/kubernetes/kubernetes-configuration.md)
   * [Useful kubectl commands](technical-docs/kubernetes/useful-kubectl-commands.md)
 * [🗝 Premium self-hosted apps](technical-docs/premium-self-hosted-apps.md)
-* [🤳 Self-hosted integrations](technical-docs/self-hosted-integrations.md)
 * [ℹ Telemetry](technical-docs/telemetry.md)
 
 ***
