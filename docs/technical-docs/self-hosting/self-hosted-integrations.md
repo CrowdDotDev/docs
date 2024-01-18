@@ -1,6 +1,6 @@
 # Self-hosted integrations
 
 {% hint style="info" %}
-These docs are currently WIP. For more information on self-hosted integrations, please reach out to [help@crowd.dev](mailto:help@crowd.dev) or [book a call.](https://www.cal.com/reyero/30)
+Our self-hosting docs are currently getting an update. In the meantime, to self-host crowd.dev, please reach out to hello@crowd.dev or [book a call here](https://cal.com/reyero/30?date=2024-01-29\&month=2024-01) and we will get you onboarded right away.
 {% endhint %}
 
