@@ -53,7 +53,7 @@
 
 ## Technical docs
 
-* [🤘 Self-hosting crowd.dev](technical-docs/self-hosting-crowd.dev/README.md)
+* [🤘 Self-hosting](technical-docs/self-hosting/README.md)
   * [book a call.](https://cal.com/reyero/30?date=2024-01-29\&month=2024-01)
 * [👨💻 Local Development](technical-docs/local-development.md)
 * [🚀 Deployment](technical-docs/deployment.md)
