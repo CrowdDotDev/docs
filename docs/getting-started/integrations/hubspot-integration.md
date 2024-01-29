@@ -87,7 +87,9 @@ Give your list a meaningful name and save it.
 
 Now we're all set to add a HubSpot automation.
 
-\[block:image] { "images": \[ { "image": \[ "https://files.readme.io/4b2cd48-hubspot-automations.png", "", "" ], "align": "center" } ] } \[/block]
+
+
+<figure><img src="https://files.readme.io/4b2cd48-hubspot-automations.png" alt=""><figcaption></figcaption></figure>
 
 Choose the trigger and set the desired filters.
 
@@ -101,6 +103,8 @@ Upon first creation of the automation, crowd.dev will sync the existing contacts
 
 Quite similar to contact automations with few differences.
 
-\[block:image] { "images": \[ { "image": \[ "https://files.readme.io/643dcd9-hubspot-organization-automations.png", "", "" ], "align": "center" } ] } \[/block]
+
+
+<figure><img src="https://files.readme.io/643dcd9-hubspot-organization-automations.png" alt=""><figcaption></figcaption></figure>
 
 After setting the filters, now you can also check the option `Sync all contacts from the organizations matching your conditions criteria`. Checking this will sync all organization contacts found with given filters to HubSpot, also adding these contacts to the selected contact list below.
