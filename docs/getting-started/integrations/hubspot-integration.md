@@ -43,7 +43,7 @@ To send entities to HubSpot, use Automations or sync entities manually using the
 
 ### 3. Map the attributes between crowd.dev and HubSpot
 
-In the attributes mapping section, you will see all the mappable fields of crowd.dev. Check the checkbox next to the fields and select the HubSpot field which you want to map the crowd.dev field with.
+In the attributes mapping section, you will see all the mappable fields of crowd.dev. Check the checkbox next to the fields and select the HubSpot field in which you want to map the crowd.dev field with.
 
 **We recommend creating custom properties in Hubspot for every crowd.dev attribute.** This will ensure that crowd.dev won't overwrite already-in-use fields in HubSpot.
 
@@ -61,13 +61,13 @@ After attribute mapping is done, use the update button to start the data-in inte
 
 ### Syncing entities manually
 
-After integration status goes into `connected` state, you can start syncing contacts and organizations manually.
+the After integration status goes into `connected` state, you can start syncing contacts and organizations manually.
 
 You can find `Sync with HubSpot` button using the contacts and organizations context menu.
 
-\[block:image] { "images": \[ { "image": \[ "https://files.readme.io/daa54fa-contact-manual-sync.png", "", "" ], "align": "center" } ] } \[/block]
 
-After clicking the button, crowd.dev will sync the contact to HubSpot immediately and every 8 hours the contact will be synced again, to keep the contact fresh in HubSpot.
+
+<figure><img src="../../.gitbook/assets/contact-manual-sync.png" alt=""><figcaption><p>After clicking the button, crowd.dev will sync the contact to HubSpot immediately and every 8 hours the contact will be synced again, to keep the contact fresh in HubSpot.</p></figcaption></figure>
 
 ### Syncing entities using automations
 
